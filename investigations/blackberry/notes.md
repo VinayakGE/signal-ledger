@@ -1151,3 +1151,86 @@ Do not search for: "BlackBerry rejected Android" (smuggles the conclusion)
 Search for: "BlackBerry internal strategy debate" / "RIM Android proposal" / "Balsillie BBM platform pitch" / "RIM board strategic options 2011"
 
 Same discipline as all prior attacks. First locate the evidence. Then classify.
+
+---
+
+**BlackBerry Artifact #14**
+
+**Source:** Globe and Mail (September 2013, Balsillie direct statement); CBC News (reporting on Globe and Mail); Silicon.co.uk; CrackBerry ("An inside look at BlackBerry — from the 'iPhone killer' to SMS 2.0"); International Business Times (BBM cross-platform history). Multiple independent sources confirm the same sequence.
+**Date:** Late 2011 (Balsillie develops proposal; pitches to AT&T and carriers) → January 2012 (Heins takes over) → February 2012 (Heins kills BBM cross-platform, backed by Lazaridis) → March 29, 2012 (Balsillie leaves RIM board)
+**Subject:** Jim Balsillie (co-CEO until January 2012, board director until March 2012); Thorsten Heins (incoming CEO); Mike Lazaridis (co-founder, board member)
+**Setting:** Internal strategy — alternative model proposed, debated, killed
+
+**The Alternative Model (Balsillie):**
+
+Balsillie proposed making BlackBerry Messenger available on all smartphones — not just BlackBerry devices — via carrier licensing. Carriers would offer BBM as "SMS 2.0," a premium replacement for standard text messaging. Revenue source: platform/licensing fees from carriers, not hardware margins. The model decouples RIM's value proposition from BlackBerry hardware entirely.
+
+Balsillie pitched this to AT&T and other major carriers before his January 2012 resignation as co-CEO.
+
+**The Rejection:**
+
+Weeks after Heins became CEO in January 2012, he killed the BBM cross-platform strategy. Lazaridis supported the decision. The stated reason, per a source close to the board: "We had to get the BlackBerry 10 out, and we couldn't be distracted."
+
+Balsillie left the RIM board on March 29, 2012. His public explanation (Globe and Mail, September 2013): "My reason for leaving the RIM board in March, 2012, was due to the company's decision to cancel the BBM cross-platform strategy."
+
+> **Observation:** An alternative model existed, was formally developed, was actively pitched to carriers, and was killed within weeks of Heins taking over — with Lazaridis's support. The rejection rationale was "focus on BlackBerry 10" — not "the platform model is wrong," but "the platform model is a distraction from the hardware model." The mechanism of rejection: Heins + Lazaridis coalition outvoting the proposal; Balsillie's departure followed.
+> **Interpretation:** This artifact answers the fork question: an alternative model DID exist inside BlackBerry between 2010–2012. It was named (BBM cross-platform / SMS 2.0), formally proposed by a co-CEO, pitched externally to carriers, and killed by an institutional coalition. The investigation is now in a more complex position. The existence of the alternative model provides evidence for institution-level H5: a competing model was present and lost. But the rejection mechanism — "focus on BB10, can't be distracted" — is itself an expression of the enterprise-extension model. The model that killed the alternative model IS the enterprise-extension model. This creates an entanglement: was the alternative killed because the institution genuinely believed BB10 was the right path (H4), or because structural commitments to the hardware/OS model made killing alternatives mechanically predictable regardless of genuine belief (H5)?
+> **Potential impact on hypotheses:** H5 (institution-level) regains significant force — alternative model existed, was defeated by institutional coalition; Balsillie's departure is direct evidence that the institutional structure selected against the competing model. H4 also gains a specific nuance — Lazaridis's support for killing the BBM proposal is striking: the same person who privately concluded "competing with a Mac" in 2007 chose the hardware/OS path over the platform path in 2012. That five-year arc is the clearest evidence of model persistence in the investigation. H4 and H5 are now genuinely entangled around this artifact.
+> Insufficient alone.
+
+**Classification:**
+- Alternative model: Yes — BBM cross-platform / SMS 2.0 (platform-licensing model)
+- Formally proposed: Yes — by co-CEO, pitched to major carriers
+- Killed: Yes — Heins decision, backed by Lazaridis
+- Stated rationale: "Focus on BB10 — couldn't be distracted"
+- Proposer's departure: Direct consequence (Balsillie, March 2012)
+- **Classification: Alternative model existed, was defeated by institutional coalition**
+
+**The critical observation this artifact generates:**
+
+The stated reason for killing the BBM model — "focus on BB10" — is not a neutral operational priority. It is a commitment to a specific theory of recovery: that a better BlackBerry hardware product will recapture the market. That theory is the enterprise-extension model. The alternative model was killed by the model it would have replaced. This is circular in a specific way: the model's adherents had institutional power, used that power to kill the alternative, and the exercise of that power is itself the model in action.
+
+This does not resolve H4 vs H5. It deepens the entanglement. H4 says: the model was genuinely believed; BB10 focus was a genuine strategic conviction. H5 says: the institutional structures (BB10 investment, carrier relationships, hardware margins) made killing the alternative mechanically predictable regardless of whether anyone "genuinely believed" in BB10.
+
+**What this artifact does NOT establish:** Whether the rejection reflected genuine belief (H4) or structural constraint on available choices (H5). That distinction may not be resolvable from external evidence.
+
+---
+
+## H4/H5 Entanglement — Observation After Artifact #14
+
+**Not a hypothesis. Not promoted. An observation about the investigation's current state.**
+
+The fork question was: Did an alternative model exist?
+
+Answer: Yes.
+
+The follow-up question was: What happened to it?
+
+Answer: Killed by institutional coalition. Proposer departed.
+
+The question this raises: Was the killing H4 (genuine belief in BB10) or H5 (structural commitment to hardware model prevented platform pivot)?
+
+**The entanglement:** These two explanations are not cleanly separable from available evidence.
+
+H4 evidence: Lazaridis — who privately recognized the Mac-level threat in 2007 — chose to support killing the platform alternative in 2012. If anyone in the institution understood the threat, it was Lazaridis. His choice of BB10 over BBM-platform is the most direct evidence of genuine model persistence through five years of contradictory feedback.
+
+H5 evidence: The rejection rationale ("can't be distracted") encodes the very model it is protecting. The institutional structure gave the BB10-focused coalition veto power. Balsillie — the leader who already held the divergent model from 2007 — was outvoted and departed. The structure selected against the alternative.
+
+**What would separate them:**
+
+Evidence that Lazaridis (or Heins) privately doubted BB10 but chose it anyway due to structural commitments → H5.
+
+Evidence that Lazaridis genuinely believed BB10 was the path to recovery despite five years of contradictory feedback → H4.
+
+That distinction is likely not recoverable from available public evidence. The investigation may be approaching an irreducible zone.
+
+**Current hypothesis state:**
+
+H1: Substantially pressured
+H2: Substantially pressured
+H3: Active — "focus on BB10" is an execution framing; H3 predicts execution was the problem
+H4: Leading — model persistence documented through Lazaridis's five-year arc; BB10 focus as genuine conviction
+H5: Regained force — alternative model existed, was killed by institutional coalition; Balsillie's departure is structural evidence
+H4/H5: Genuinely entangled; may not be resolvable from available public evidence
+
+**Preferred Explanation:** None
