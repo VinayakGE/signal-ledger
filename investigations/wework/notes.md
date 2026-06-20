@@ -196,14 +196,91 @@ Patterns move hypotheses. Single observations do not.
 
 ---
 
+---
+
+## Evidence Log
+
+All entries follow mandatory format:
+> **Observation:**
+> **Interpretation:**
+> **Potential impact on hypotheses:**
+> Insufficient alone.
+
+---
+
+### H2 — Industry Blindness (investigated first)
+
+---
+
+**H2-E01 (H2-Q5: Were criticisms rare or common before IPO?)**
+
+Observation:
+When WeWork's S-1 was filed in August 2019, it "was greeted by sometimes blistering criticism." Analysts called it "the most ridiculous IPO of 2019." Cash burn per dollar of revenue hovered above $0.90 from 2017 to 2019. Operating losses increased from $396M (2016) to $1.69B (2018) while revenue grew from $446M to $1.82B.
+
+Interpretation:
+The S-1 filing triggered immediate, widespread, and specific criticism. The failure modes (cash burn, lease liability mismatch, governance) were identified rapidly once public filings were available.
+
+Potential impact on hypotheses:
+Weakens H2 partially. Criticisms were not rare once data was public. But this is the August 2019 S-1 — near the collapse, not years before. The question remains: were these concerns visible and identified before the S-1 was filed?
+Insufficient alone.
+
+---
+
+**H2-E02 (H2-Q1: How were flexible-office economics understood 2010–2018?)**
+
+Observation:
+IWG/Regus operated a profitable coworking business for decades before WeWork existed. IWG survived the dot-com crash, the GFC, and COVID. IWG's model: long-term leases, short-term rentals, 40% of lease liabilities flexible. IWG was consistently cash-generative. WeWork used a structurally similar lease model but prioritized expansion over unit economics.
+
+Interpretation:
+A profitable, tested model for flexible office space existed and was visible throughout WeWork's growth period. The WeWork model was not an untested category — it was a known model executed with different financial discipline.
+
+Potential impact on hypotheses:
+Against H2. The category was not misunderstood — a profitable version existed and was public. WeWork's model differed in financial discipline, not in concept. If investors understood IWG, they had a comparison point. This weakens "industry blindness" as a category-level explanation.
+Insufficient alone.
+
+---
+
+**H2-E03 (H2-Q2: Were investors uniquely wrong about WeWork, or broadly wrong about the category?)**
+
+Observation:
+WeWork raised capital at escalating valuations: $47B peak. SoftBank invested $10.65B total. Benchmark (early investor) sold $315.5M in shares during 2017 and 2019 rounds — before IPO — suggesting early investors were cashing out while late investors were entering at higher valuations.
+
+Interpretation:
+Early investors recognized something that warranted exit. Late investors (including public market investors during IPO process) faced a different information environment. This is not uniform blindness — it is a divergence between early and late capital.
+
+Potential impact on hypotheses:
+Partially against H2 (some investors saw differently and acted on it), partially supports H5 (narrative may have sustained late-stage investment beyond what economics justified). Early investors cashing out is a signal that was publicly available before IPO collapse.
+Insufficient alone.
+
+---
+
+**H2-E04 (H2-Q6: Did skeptics identify failure modes in advance?)**
+
+Observation:
+Specific structural concern identified before IPO: mismatch between 15-year lease liabilities and 30-day customer contracts. This creates asymmetric risk — WeWork bears long-term costs, customers bear none.
+
+Interpretation:
+This structural concern is analytically derivable from publicly available information about lease terms and customer agreements. It does not require insider knowledge — it requires applying standard financial analysis to a known business model.
+
+Potential impact on hypotheses:
+Against H2. The key failure mechanism (lease liability mismatch) was analytically available to anyone who applied standard real estate analysis to WeWork's model. This is not industry blindness — it is selective analysis.
+Insufficient alone.
+
+---
+
 ## Current Position
 
-No evidence gathered.
+Status: Uninvestigated (H2 evidence gathering in progress)
 
-No hypothesis has earned support.
+H2 early pattern:
+Criticisms rapid and specific once S-1 was public (2019). IWG/Regus provided comparison model throughout WeWork's growth. Early investors sold before collapse. Key structural flaw (lease mismatch) analytically derivable from public information.
 
-No hypothesis has been rejected.
+H2 is not strengthening so far. The evidence suggests the category was understood, a comparison model existed, and the structural flaw was visible to analysts applying standard methods.
 
-Investigation has not begun.
+Open question (critical):
+Were these concerns raised and visible between 2015–2018, or only after the S-1 triggered scrutiny in 2019? Timing matters enormously for whether H2 survives.
 
-H2 attack questions frozen. Evidence collection starts here.
+Next:
+Search for pre-2019 criticism, analyst skepticism, and whether lease liability concerns were raised publicly before the IPO filing.
+
+No hypothesis has earned support. No hypothesis has been rejected. Investigation continues.
