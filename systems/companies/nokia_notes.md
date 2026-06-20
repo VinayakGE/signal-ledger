@@ -1,152 +1,179 @@
-# Nokia Investigation Notes
+# Nokia Investigation #002
 
-## Pre-Audit: Before H2 Conclusion
+**Status:** Unresolved
 
-Do not write nokia.yaml until these four sections are complete AND contradictions are examined.
+**Question:**
+Using only information available before Nokia's decline became obvious, was there sufficient observable evidence to predict increasing fragility?
 
----
+**Scope:**
+This investigation is not attempting to explain Nokia's failure.
+This investigation is attempting to determine whether a disciplined observer could have detected increasing fragility before the outcome.
 
-## 1. Growth Source (1998-2005)
+**Outcome Known:** Yes (Backtest)
 
-What was actually powering Nokia before collapse?
+**Hypotheses Under Consideration:**
 
-### Research needed:
-- Revenue breakdown by segment (phones, infrastructure, other)
-- Operating margins by period
-- What drove market share gains 1998-2005?
-- Manufacturing advantage: tangible evidence
-- Carrier relationships: how did they translate to sales?
-- Distribution: how many phones sold, by what channel?
+- **H1:** Signal visible, response lagged.
+- **H2:** Signal weak; industry-wide blindness.
+- **H3:** External discontinuity altered competitive dynamics unexpectedly.
+- **H4:** Organizational structure prevented adaptation despite awareness.
 
-### Current hypothesis:
-Handset scale, manufacturing efficiency, distribution, brand dominance.
+**Supports Any Hypothesis:** Unknown
 
-### Evidence to find:
-- Actual financial data on handset revenue growth
-- Market share growth rate
-- Margin levels 1998-2005 (were they healthy?)
-- What % of revenue from phones vs other segments?
+**Confidence:** Not Assigned
 
 ---
 
-## 2. Signal: What Measurable Signal Deteriorated?
+## Evidence For H1 (Signal Visible, Response Lagged)
 
-NOT: "Apple was coming" (hindsight)
+### F1.1: Internal recognition of smartphone threat
 
-MUST BE: Something observable before outcome was inevitable.
+**Evidence to search for:**
+- Internal strategic documents acknowledging smartphone growth (dates, specificity)
+- Executive statements about Apple/iPhone threat (timing relative to launch)
+- R&D prioritization decisions regarding smartphone platforms
 
-### Candidates:
-A. Smartphone market share erosion
-   - When did it actually start declining?
-   - Was it 2007 (iPhone launch) or earlier?
-   - How fast was the decline relative to market growth?
+**Status:** Not yet gathered
 
-B. Developer ecosystem participation
-   - Were developers leaving Symbian platform?
-   - When did this start?
-   - Measurable metrics: app submissions, SDK downloads, etc.
-
-C. Software quality indicators
-   - Customer satisfaction with Symbian OS?
-   - Bug reports, performance metrics?
-   - Did quality decline before market share fell?
-
-D. Hardware speed advantage
-   - Did physical design advantage erode against software?
-   - When could Apple's software match Nokia's hardware?
-
-### Evidence to find:
-- Which signal showed deterioration FIRST?
-- Timeline for each signal
-- Magnitude of deterioration
-- Was it visible to observers in real time, or only in hindsight?
+**Confidence if found:** Medium
 
 ---
 
-## 3. Break Condition
+### F1.2: Delayed platform investment
 
-Must be falsifiable. Not "iPhone happened."
+**Evidence to search for:**
+- Timeline of Symbian investment vs MeeGo investment vs competitive platforms
+- When did Nokia commit to Symbian replacement? When should it have?
+- R&D budgets: smartphone vs feature phones allocation over time
 
-### Candidates:
-A. "Software ecosystem became more important than hardware scale faster than Nokia could adapt"
-   - Measurable: App ecosystem participation vs handset sales correlation
-   - When does this become undeniable?
+**Status:** Not yet gathered
 
-B. "Smartphone market shifted from feature phones to apps faster than Symbian OS could support"
-   - Measurable: Time-to-market for app support vs iOS/Android
-   - Performance gap widening?
-
-C. "Carrier relationships became less valuable than direct consumer brand"
-   - Measurable: Carrier-dependent phones vs direct sales by Apple
-   - When did carrier leverage decrease?
-
-### Evidence to find:
-- What is the specific threshold that marks the break?
-- When was it crossed?
-- Was this predictable before it happened?
+**Confidence if found:** Medium
 
 ---
 
-## 4. Contradictions: What Attacks H2?
+## Evidence For H2 (Industry-Wide Signal Weakness)
 
-Before concluding "execution gap," force evidence against it.
+### F2.1: Competitor decline patterns
 
-### Contradictions to investigate:
+**Evidence to search for:**
+- Motorola's smartphone strategy and decline timeline
+- Sony Ericsson's response to iPhone
+- Palm's trajectory before Apple
+- BlackBerry's strategic choices before collapse
 
-**Contradiction A: Nokia actually DID execute well**
-- Did Symbian platform improve year-over-year in capability?
-- Were N-series phones actually good products?
-- Did developers find Symbian usable?
-- Evidence: Product reviews, developer sentiment, technical benchmarks
+**Status:** Not yet gathered
 
-**Contradiction B: The market shift was genuinely unpredictable**
-- In 2005, could anyone have predicted app-centric domination by 2012?
-- Was MeeGo actually a sound technical strategy, just poorly timed?
-- Did Nokia's decision-making look wrong at the time, or only in hindsight?
-- Evidence: Contemporary analyst reports, investment analysis
-
-**Contradiction C: No organization could have adapted this fast**
-- Apple had a 5-year head start (2007-2012)
-- Did Microsoft (10 years on Windows Phone) do better than Nokia?
-- Did Nokia move slower than technological leadership would predict?
-- Evidence: Speed of platform development vs industry benchmarks
-
-**Contradiction D: Nokia's fragmentation was actually prudent hedging**
-- If Symbian failed, MeeGo was insurance
-- If MeeGo failed, Symbian was production volume
-- Was this a rational bet given uncertainty?
-- Evidence: Internal strategy documents, executive statements
-
-**Contradiction E: External factors, not execution**
-- Did carrier relationships actually PREVENT faster response?
-- Were regulatory/contractual constraints at play?
-- Did competition from Android (not just Apple) kill Symbian market?
-- Evidence: Carrier policies, regulatory filings, market analysis
+**Confidence if found:** High (if all competitors show similar patterns)
 
 ---
 
-## What Would Prove H2 Wrong?
+### F2.2: Contemporaneous analyst forecasts
 
-Answer this before writing the audit.
+**Evidence to search for:**
+- Gartner, IDC market forecasts 2005-2008
+- Industry analyst predictions about app ecosystems
+- What percentage of analysts predicted app-centric dominance in 2006?
 
-If the audit finds:
-- Symbian actually WAS advancing technically
-- MeeGo was a sound platform, just launched too late
-- Market shift was unpredictable in real-time
-- No organization moved faster than Nokia did
-- Carrier lock-in actually prevented faster response
+**Status:** Not yet gathered
 
-THEN: The execution gap is not the story. The story is market timing or external constraints.
+**Confidence if found:** High (if forecasts broadly missed the shift)
 
 ---
 
-## Current Status
+## Evidence For H3 (External Discontinuity)
 
-Do NOT write nokia.yaml yet.
+### F3.1: App ecosystem as unforeseeable disruption
 
-The evidence gathered so far supports H2 narrative.
-The contradictions above have NOT been investigated.
+**Evidence to search for:**
+- Was "app ecosystem winner-take-most" predictable in 2005?
+- When did app ecosystems first dominate (iOS App Store launch 2008)
+- Could platform choice in 2006 have predicted 2012 outcome?
 
-Fill in evidence for contradictions FIRST.
+**Status:** Not yet gathered
 
-THEN decide if H2 survives Nokia.
+**Confidence if found:** Medium-High
+
+---
+
+### F3.2: Android competitive dynamics
+
+**Evidence to search for:**
+- When did Android become real competitive threat?
+- Nokia's response to Android vs response to Apple
+- Could Nokia have predicted Android's scale in 2007?
+
+**Status:** Not yet gathered
+
+**Confidence if found:** Medium
+
+---
+
+## Evidence For H4 (Organizational Structure Problem)
+
+### F4.1: Incentive structures and internal conflict
+
+**Evidence to search for:**
+- Internal P&L structures (feature phones vs smartphones)
+- Compensation incentives: were they aligned with transition?
+- How were MeeGo vs Symbian teams structured? Competing or complementary?
+
+**Status:** Not yet gathered
+
+**Confidence if found:** Medium
+
+---
+
+### F4.2: Carrier dependency creating lock-in
+
+**Evidence to search for:**
+- Revenue from carrier-subsidized models (Nokia's dependency)
+- Carrier ecosystem strategies vs Apple's direct-to-consumer
+- Could Nokia have pivoted without losing carrier relationships?
+
+**Status:** Not yet gathered
+
+**Confidence if found:** Medium-High
+
+---
+
+## Unknowns
+
+**U1:** What percentage of Nokia R&D spending went to smartphone transition before 2010?
+
+**U2:** Did management forecasts materially underestimate smartphone adoption rates?
+
+**U3:** How did Nokia's internal strategic planning (2005-2008) compare with competitors?
+
+**U4:** Were Symbian's technical limitations visible to the market before 2008?
+
+**U5:** When did app ecosystem importance become apparent to industry analysts?
+
+**U6:** Did Nokia's carrier relationships actually constrain its ability to respond?
+
+---
+
+## Observations (Layer 1: Fact-Only)
+
+- Nokia market share declined from 50% (2007) to 27.6% (2010)
+- Apple iPhone launched 2007
+- Nokia acquired Symbian in 2008
+- Nokia announced MeeGo partnership 2010
+- Symbian operating system had known complexity issues
+- Ovi digital ecosystem launched 2009
+
+---
+
+## Assessment (Layer 2: Competing Explanations)
+
+**At this stage:** All hypotheses remain viable. Evidence not yet gathered to discriminate between them.
+
+---
+
+## Classification (Layer 3: Earned Conclusions)
+
+**Status:** Awaiting primary evidence collection.
+
+Cannot classify until unknowns U1-U6 are addressed and all hypothesis categories explored.
+
+**Next Step:** Systematic search for evidence in each category above.
