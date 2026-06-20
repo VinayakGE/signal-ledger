@@ -2,9 +2,9 @@
 
 **System:** BlackBerry (Research In Motion)
 
-**Status:** Battlefield frozen — Evidence = 0
+**Status:** Active — Evidence accumulating
 
-**Classification:** None
+**Classification:** In progress — 10 artifacts classified
 
 **Preferred Hypothesis:** None
 
@@ -891,3 +891,81 @@ These levels can separate — BlackBerry has already shown leader revision and o
 **Best first target:** P5 (Lazaridis: "tablet market not yet clear," April 2010) → iPad launched April 3, 2010, same month → iPad dominance became clear within months → PlayBook launched April 2011 without email feature. This is the tightest prediction-outcome-response sequence available.
 
 **Next artifact:** First clean example of prediction meeting reality and the organizational response to it. That is where H4 vs H5 separation becomes visible.
+
+---
+
+**BlackBerry Artifact #10**
+
+**Source:** NBC News (PlayBook coverage, April 2011); CrackBerry (September 2010 PlayBook announcement coverage); Apple Q2 2010 earnings call; multiple contemporaneous 2010–2011 reports.
+**Date:** April 2010 (P5 stated) → April 3, 2010 (iPad launched) → September 2010 (PlayBook announced) → April 2011 (PlayBook launched)
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Prediction → Market outcome → Organizational response → Product decision
+
+**P5 sequence:**
+
+1. **Prediction (April 2010, Artifact #9):** Lazaridis: "Tablet market not yet clear."
+2. **Outcome:** iPad launched April 3, 2010 — same month. iPad achieved rapid market adoption. Tablet demand materialized much faster than the "not yet clear" framing implied. Apple sold 3 million units in first 80 days.
+3. **Response (September 2010):** RIM announced the BlackBerry PlayBook — 7-inch tablet, designed without native email client.
+4. **Decision-encoding statement (April 2011):** Lazaridis, on PlayBook launch: "It's an amplified view of what's already on your BlackBerry."
+
+> **Observation:** P5 was stated in April 2010. iPad launched the same month and achieved rapid market adoption. RIM's organizational response (PlayBook, announced September 2010, launched April 2011) did not reconceive the tablet as a new device category. It was framed as an extension of the BlackBerry platform — "an amplified view of what's already on your BlackBerry." The PlayBook launched without native email — the defining BlackBerry value proposition. The design encoded the enterprise-extension model: you needed a BlackBerry phone nearby to use full PlayBook features.
+> **Interpretation:** This is the tightest prediction-outcome-response sequence in the investigation. The prediction ("market unclear") was contradicted by observable market evidence within weeks. The organizational response did not integrate that contradiction — it produced a product that extended the existing BlackBerry model rather than reconceiving it. The "amplified view" framing is not neutral: it encodes the assumption that tablets are auxiliary to phones and that phones remain the primary device. That assumption had already been challenged by iPad's adoption pattern. The chain reached Decision. The decision encodes the existing model.
+> **Potential impact on hypotheses:** H4 gains significant pressure — decision encoded existing enterprise-extension model despite prediction outcome clearly visible. H5 gains partial pressure — the "bridge-to-phone" design may reflect organizational constraint (enterprise customer expectation) or may reflect model itself (genuine belief that extension is right). Critical: this artifact begins to separate H4 from H5. If PlayBook's design reflects the model, H4. If it reflects organizational constraint that prevented a different desired approach, H5. The evidence does not yet establish which.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (tablet market existed and was growing — iPad launch same month)
+- Implication: Yes — market was clarifying faster than predicted
+- Revision: Not observed — PlayBook design extends existing model
+- Decision: Yes — PlayBook launched as enterprise-extension device, requiring BlackBerry phone, without native email
+- **Chain stopped at: Decision that encodes existing model**
+
+**Why this is the strongest artifact so far:** This is the first artifact that completes the entire chain — Prediction → Outcome → Response → Decision — with all four stages observable and documented. Previous artifacts reached Decision (Artifacts #3, #5, #6) but without clear Prediction → Outcome pairing. Artifacts #8 and #9 recorded predictions without yet reaching the response stage. Artifact #10 closes the loop.
+
+**H4 vs H5 partial separation:**
+
+- **H4 path:** PlayBook was designed as enterprise-extension because the leadership model genuinely believed phones remain primary, tablets are auxiliary. The design reflects a genuine demand model.
+- **H5 path:** PlayBook was designed as enterprise-extension because enterprise customer contracts, carrier relationships, or organizational processes prevented a different approach that leadership might have preferred.
+- **What distinguishes them:** H4 predicts the "amplified view" framing reflects genuine belief. H5 predicts it reflects constraint — that leadership privately recognized a different design was needed but could not execute it.
+- **What Artifact #10 does not establish:** Which path is active. It establishes the Decision and the model it encodes. It does not establish whether the model drove the decision or whether the decision was forced onto the model.
+
+**Evidence of model persistence observed (not proven):**
+
+The prediction-to-decision sequence provides the first direct evidence that the enterprise-extension model persisted after prediction outcome contradicted it. This is stronger than model existence (Artifacts #1, #4); it is model persistence after feedback. Whether that persistence is H4 or H5 remains open.
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #10
+
+H1 Industry Blindness: **Substantially pressured** — threat explicitly processed by both leaders across multiple rounds of evidence (Artifacts #1–#6); neither leader was blind
+H2 External Discontinuity: **Substantially pressured** — threat was visible, acted upon, and interpreted in real time; PlayBook announced same month as iPad launch
+H3 Execution Failure: **Moderate positive pressure** — nine-month Storm deadline (Artifact #3); PlayBook launched without email (Artifact #6, #10); evidence of technical constraint
+H4 Incorrect Demand Model: **Strengthened** — now carries "model persistence after feedback" (Artifact #10), not merely "model existence" (Artifacts #1, #4); H4 and H5 not yet separated
+H5 Organizational Constraint: **Positive pressure** — divergence persisted across multiple feedback rounds (Artifacts #5, #6); bridge-device design possibly reflects constraint (Artifact #10); not yet separated from H4
+
+**Preferred Explanation:** None
+
+**Critical distinction:** H4 and H5 have moved together through Artifacts #1–#9. Artifact #10 begins to separate them. The separation question: does the enterprise-extension model persist because leadership believed it (H4) or because organizational structure prevented a different approach (H5)?
+
+---
+
+## Next Attack Surface
+
+**The load-bearing question now:**
+
+> When reality contradicted the model, what evidence exists that the model was reconsidered?
+
+Not revised successfully. Not revised correctly. Simply reconsidered.
+
+The first evidence that leadership explicitly questioned the enterprise-extension thesis would be the first direct wound against the model-persistence line that Artifact #10 is building.
+
+**For each prediction with observable outcome (P1–P5), the four-level sequence:**
+
+1. Did the prediction survive unchanged?
+2. Did the leader revise it?
+3. Did the organization revise it?
+4. Did decisions change?
+
+These levels can separate independently. BlackBerry has already shown leader revision and organization revision can diverge (Artifact #5).
+
+**Search target:** Lazaridis or Balsillie statements between April 2011 (PlayBook launch) and January 2012 (resignation) that explicitly reconsider the enterprise-extension model — not statements defending it, not statements about execution, but statements questioning whether the model itself is correct.
