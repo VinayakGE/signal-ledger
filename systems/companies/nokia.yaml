@@ -1,0 +1,100 @@
+system: Nokia
+date_logged: 2026-06-20
+outcome_known: true
+
+growth_source: |
+  2000-2006: Handset scale, manufacturing efficiency, distribution,
+  carrier relationships, brand dominance (50% market share by 2007)
+
+signal: |
+  iPhone launch (2007) disrupted market fundamentals.
+  Shift from hardware-centric to software/ecosystem-centric competition.
+
+  Indicators of deterioration:
+  - Software ecosystems became primary competitive advantage
+  - Symbian OS limitations became apparent for touch/app-centric devices
+  - User preference shifted from Nokia's physical design to software usability
+  - Market share: 50% (2007) → 38% (2009) → 27.6% (2010)
+
+break_condition: |
+  2013: Nokia sold mobile phone division to Microsoft.
+  2012-2013: Market collapse.
+  By 2010: Strategic turnaround was already insufficient.
+
+confidence: high
+
+contradictions: |
+  Nokia WAS aware of the threat.
+  Nokia WAS investing in response (MeeGo, Ovi).
+  Nokia HAD the capital and talent.
+  Yet execution fragmented and response was too late.
+
+what_would_disprove_this: |
+  If internal teams did NOT recognize the iPhone threat until 2008-2009,
+  then the failure was signal lag, not execution lag.
+
+  If Nokia's strategy made coherent sense given their known constraints,
+  then organizational paralysis is not the explanation.
+
+investigation_H2_test: |
+  SIGNAL VISIBILITY - Evidence:
+
+  2007: Internal Nokia briefing by 9-person team (Timo Partanen, Peter Breyer,
+  Scott Cooper, Gordon Murray-Smith, et al.) explicitly identified iPhone threat:
+
+  "iPhone touch screen UI may set a new standard of state-of-art"
+  "User interface has been a big strength for Nokia, so UI may be the
+   biggest threat that iPhone presents"
+
+  Engineers internally reported Symbian was outdated and inadequate.
+  Leadership had been tracking Apple since at least 2001.
+
+  Conclusion: Signal WAS visible to leadership.
+
+  EXECUTION FRAGMENTATION - Evidence:
+
+  2008: Nokia acquires full Symbian Ltd ownership (doubles down on aging OS)
+  2009: Launches Ovi digital ecosystem (late, when iOS/Android entrenched)
+  2008-2010: Invests heavily in PARALLEL platforms (Symbian + MeeGo)
+  2009: Market share still 38% but internal fragmentation visible
+  2010: MeeGo announced with Intel (yet another platform shift)
+  2010: Market share collapses to 27.6%
+
+  Organizational pattern:
+  - Leadership saw threat (internal briefing 2007)
+  - Engineers warned (Symbian inadequate)
+  - But strategy remained Symbian-focused through 2008
+  - Response came through multiple simultaneous initiatives (Symbian, MeeGo, Ovi)
+  - Meanwhile competitors executed singular focus (Apple on iOS, Android ecosystem)
+
+  Conclusion: EXECUTION FRAGMENTED despite signal visibility.
+
+  H2 ASSESSMENT:
+
+  Kodak: Signal visible → Action lagging → Outcome negative
+  Nokia: Signal visible → Action fragmented → Outcome negative
+
+  Pattern emerging: Execution capacity gap predicts failure despite signal.
+
+  Difference from Kodak:
+  - Nokia's response was NOT absent, but INCOHERENT
+  - Multiple platforms instead of cohesive pivot
+  - Organizational attempt to hedge bets rather than decisive action
+
+  This suggests H2 may apply to TWO failure modes:
+  1. Absence of action (Kodak: knew but didn't invest)
+  2. Fragmented action (Nokia: knew and invested, but invested everywhere)
+
+  Neither mode allowed adaptation at necessary pace.
+
+contradictions: |
+  - Nokia leadership DID recognize the threat (2007 briefing evidence)
+  - Nokia DID invest in new platforms (MeeGo, Ovi)
+  - Nokia DID have resources to compete
+  - Yet outcome was still collapse
+
+  The contradiction is: Why did visible signal + capital investment + talent
+  still result in failure?
+
+  Answer may be organizational: inability to make decisive platform bets,
+  resulting in resource fragmentation across incompatible platforms.
