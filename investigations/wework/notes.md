@@ -149,6 +149,53 @@ Not Assigned
 
 ---
 
+## Investigation Order
+
+H2 first. Not because most likely. Because most threatening to the emerging pattern.
+
+After Kodak and Nokia, there is gravitational pull toward:
+Signal visible → Organization failed to respond.
+
+H2 attacks that directly.
+
+---
+
+## H2 Attack Questions (frozen before evidence)
+
+The first question is not: "Did WeWork ignore warning signs?"
+
+The first question is: "Did the market genuinely misunderstand the category?"
+
+Specifically:
+
+- **H2-Q1:** How were flexible-office space economics understood between 2010–2018?
+- **H2-Q2:** Were investors uniquely wrong about WeWork, or broadly wrong about the category?
+- **H2-Q3:** Which investors refused to invest and why?
+- **H2-Q4:** Which investors invested and why?
+- **H2-Q5:** Were criticisms rare or common before the IPO filing?
+- **H2-Q6:** Did skeptics identify the eventual failure modes in advance?
+
+A strong H2 would show:
+The dominant information environment made the eventual outcome genuinely difficult to foresee.
+
+A weak H2 would show:
+Multiple credible observers identified the problems early and specifically.
+
+---
+
+## Evidence Protocol
+
+Every observation follows:
+
+> **Observation:**
+> **Interpretation:**
+> **Potential impact on hypotheses:**
+> Insufficient alone.
+
+Patterns move hypotheses. Single observations do not.
+
+---
+
 ## Current Position
 
 No evidence gathered.
@@ -159,4 +206,4 @@ No hypothesis has been rejected.
 
 Investigation has not begun.
 
-The battlefield is frozen. Evidence collection starts here.
+H2 attack questions frozen. Evidence collection starts here.
