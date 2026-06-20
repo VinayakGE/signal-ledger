@@ -855,4 +855,39 @@ Prediction record for outcome pairing. Outcomes populated when observable by 201
 
 **Important nuance on P3/P4:** Lazaridis's prediction is not "keyboards beat touchscreens." It is "neither pure form factor wins." The investigation should not compress this into "Keyboard good, Touchscreen bad."
 
-**Next attack:** Did either leader visibly update their model after these prediction outcomes became observable 2011-2012?
+---
+
+## Attack Surface Transition — After Prediction Ledger
+
+**Before:** Who had the better model?
+
+**Now:** What happened after reality graded the models?
+
+These are different questions. Prediction accuracy and model revision are different objects. A model can generate poor predictions and still update rapidly. A model can generate good predictions and refuse revision.
+
+**What has actually been learned:**
+
+Both leaders produced falsifiable market predictions.
+Both leaders accumulated contradictory market feedback.
+Predictive superiority: Not established.
+
+**Resist:** "Both models roughly equal because P1 partly right, P2 wrong, P3 wrong, P4 complex." The ledger has not earned that. Accuracy is not revision.
+
+**The distinction that matters now:**
+
+Wrong model → H4 territory
+
+Model that remained wrong after feedback arrived → much more informative; pressures H5
+
+**The next attack question (for each prediction whose outcome became visible):**
+
+1. Did the prediction survive unchanged?
+2. Did the leader revise it?
+3. Did the organization revise it?
+4. Did decisions change?
+
+These levels can separate — BlackBerry has already shown leader revision and organization revision can diverge (Artifact #5).
+
+**Best first target:** P5 (Lazaridis: "tablet market not yet clear," April 2010) → iPad launched April 3, 2010, same month → iPad dominance became clear within months → PlayBook launched April 2011 without email feature. This is the tightest prediction-outcome-response sequence available.
+
+**Next artifact:** First clean example of prediction meeting reality and the organizational response to it. That is where H4 vs H5 separation becomes visible.
