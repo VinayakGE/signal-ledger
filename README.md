@@ -134,6 +134,7 @@ A notes file graduates to yaml only when:
 | Kodak | Audited | T1 (Signal Visible, Response Lagged) |
 | Nokia | Under Investigation | Unresolved |
 | WeWork | Under Investigation | Unresolved — H2 substantially weakened, H3 narrowed, H4/H5 unopened |
+| GE | Uninvestigated | None — battlefield frozen, five hypotheses, no evidence gathered |
 
 ---
 
