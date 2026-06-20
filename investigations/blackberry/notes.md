@@ -810,10 +810,49 @@ These are different pressure points. The fact that they differ is what makes Bla
 
 Balsillie:
 - Diagnosis: Some evidence of accuracy (Artifact #5)
-- Prediction: Unresolved (Artifact #8 predictions recorded, not yet evaluated)
+- Prediction: P1 and P2 recorded (Artifact #8), outcomes not yet evaluated
 
 Lazaridis:
 - Diagnosis: Unresolved
-- Prediction: Not yet tested
+- Prediction: P3, P4, P5 recorded (Artifact #9), outcomes not yet evaluated
+
+**Attack mode shift:** Collection phase complete. Both leaders now on same playing field. Attack now pairs Prediction → Outcome for both.
 
 **Not yet established:** Which model learned better. The investigation has not earned "Balsillie good / Lazaridis bad."
+
+---
+
+## Prediction Ledger
+
+Prediction record for outcome pairing. Outcomes populated when observable by 2011-2012.
+
+**Balsillie (October 2010):**
+
+| ID | Prediction | Outcome by 2011-2012 | Source |
+|----|-----------|----------------------|--------|
+| P1 | 7-inch tablets will be a large portion of the market | Partially supported: 7-inch Android tablet segment grew 100% in 2012 (34M units). However, iPad (9.7-inch) dominated at 55-61% market share. P1 directionally right on 7-inch growth but wrong on scale of dominance. | TechCrunch, Pew Research, Gulf News 2012 |
+| P2 | Adobe Flash support matters to customers | Not supported: Adobe killed mobile Flash November 2011, 13 months after prediction. HTML5 replaced it. Apple's ban proved predictive of industry direction. | Adobe announcement Nov 2011; InfoQ 2011 |
+
+**Lazaridis (April 2010):**
+
+| ID | Prediction | Outcome by 2011-2012 | Source |
+|----|-----------|----------------------|--------|
+| P3 | Touchscreen-only users will switch to QWERTY devices | Not supported: Touchscreen adoption accelerated. In Q1 2010, 60% of smartphones were touch-driven, 27% QWERTY. By 2011-2012, touchscreen share continued to grow; QWERTY declined. No evidence of switching wave. | GSMArena, PhoneArena market reports |
+| P4 | Neither touchscreen-only nor QWERTY-only fully satisfies | Partially complex: Market bifurcated — touchscreen-only dominated consumer; enterprise retained some QWERTY preference temporarily. Not a clear market validation; the dominant trend was touchscreen-only winning consumer, not compromise form factors. | Market share reports 2011-2012 |
+| P5 | Tablet market not yet clear (April 2010) | Not supported as strategic ambiguity: By April 2010, iPad had launched (April 3, 2010 — same month as prediction). iPad sold 3 million units in first 80 days. The tablet market was clarifying rapidly at the moment Lazaridis called it unclear. | Apple Q2 2010 earnings |
+
+**Outcome summary (preliminary — not yet full evaluation):**
+
+- Balsillie P1: Directionally right, scale wrong
+- Balsillie P2: Wrong (Flash killed within 13 months)
+- Lazaridis P3: Not supported by market behavior
+- Lazaridis P4: Partially complex, not validated as stated
+- Lazaridis P5: Wrong — market was clarifying at time of statement
+
+**Critical discipline note:** Outcome evaluation is logged separately from artifact classification. The above is outcome data observable by 2011-2012, not retrospective judgment. The timing of iPad launch (April 3, 2010) relative to Lazaridis's P5 (April 2010) deserves specific scrutiny — he called tablets unclear while iPad had already launched.
+
+**What the outcome pairing does NOT yet establish:** Which model improved when reality pushed back. Outcome accuracy of initial predictions is one data point. Whether either leader updated their model after outcomes became visible is the deeper question — still open.
+
+**Important nuance on P3/P4:** Lazaridis's prediction is not "keyboards beat touchscreens." It is "neither pure form factor wins." The investigation should not compress this into "Keyboard good, Touchscreen bad."
+
+**Next attack:** Did either leader visibly update their model after these prediction outcomes became observable 2011-2012?
