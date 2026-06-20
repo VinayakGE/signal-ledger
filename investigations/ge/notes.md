@@ -2,7 +2,7 @@
 
 **System:** General Electric
 
-**Status:** Uninvestigated
+**Status:** Under investigation — H4 in progress
 
 **Classification:** None
 
@@ -136,7 +136,7 @@ External events — the 2008 GFC, structural industrial decline, and the power g
 **Would weaken if:**
 Fragility predates the external triggers by a meaningful period.
 
-**Status:** Uninvestigated
+**Status:** Under investigation — dominant form weakening. H4-E01 through H4-E07 gathered. Industrial viability 2011–2014 partially supports prediction 1. GE Capital commercial paper concentration (H4-E02), power generation decline visible from 2012–2013 (H4-E03), and pre-crisis analyst signals (H4-E05, H4-E06) weaken predictions 2, 3, 4. Industrial organic revenue declining H1 2016 (H4-E07) weakens prediction 4 further. External events were real; H4's "primarily exogenous" framing is not.
 
 ---
 
@@ -219,6 +219,24 @@ Patterns move hypotheses. Single observations do not.
 
 ---
 
+## H4 Attack Questions
+
+*Pre-registered before any sources opened. These questions must be answered before H4 can be assessed.*
+
+**H4-Q1:** What was GE's industrial segment operating margin trajectory from 2001 to 2007 — the Immelt years before the GFC? If margins were declining before 2008, fragility predates the external trigger and H4 weakens.
+
+**H4-Q2:** What was GE Capital's balance sheet composition and leverage ratio in 2005-2007? Was GE Capital's risk profile an outlier relative to comparable financial institutions, or consistent with industry norms? If GE Capital was taking abnormal risk before 2007, H4 weakens regardless of whether the GFC was foreseeable.
+
+**H4-Q3:** When did GE's power generation market begin deteriorating — before or after the structural shifts in the energy market (renewable scaling, US shale/fracking reducing gas demand)? If power generation problems began after 2012-2014 (when structural shifts accelerated), H4 survives for that segment. If before, H4 weakens.
+
+**H4-Q4:** Were there credible pre-2017 analysts or critics who named specific GE vulnerabilities before the public crisis? If named before 2017, the signals were available — external disruption alone cannot explain why the outcome was not anticipated.
+
+**H4-Q5:** What was GE's organic revenue growth at the industrial segment level from 2005 to 2015? Sustained stagnation before 2017 is inconsistent with the claim that GE's industrial businesses were viable before external disruption.
+
+**H4-Q6:** How did GE's stock performance compare to the S&P 500 from Immelt's appointment (2001) through 2016? Sustained, prolonged underperformance before the public crisis is inconsistent with H4's "viable institution destroyed by shock" framing.
+
+---
+
 ## Evidence Log
 
 All entries follow mandatory format:
@@ -228,4 +246,67 @@ All entries follow mandatory format:
 > **Potential impact on hypotheses:**
 > Insufficient alone.
 
-*No evidence gathered yet. Battlefield frozen.*
+### H4 Evidence
+
+---
+
+**H4-E01 — GE Stock Performance vs S&P 500, Immelt Era (2001–2017)**
+
+> **Observation:** During Jeff Immelt's 16-year tenure (2001–2017), GE shares gained approximately 24% while the S&P 500 rose 125%. An alternative framing: GE shares fell 29% from Immelt's first day price (~$40) to ~$27.94 in mid-2017, while the S&P 500 more than doubled. The stock briefly exceeded $40 in 2007, then collapsed during the GFC. Notably, post-2010, GE reportedly outperformed the market for several years — suggesting underperformance was concentrated in the 2001–2010 period.
+> **Interpretation:** GE underperformed the broad market dramatically over the full Immelt era, but the pattern is not uniform. The 2001–2010 underperformance coincides with the dot-com bust and GFC — both external events. The post-2010 partial recovery complicates the "consistent decline" narrative. The stock did not reflect a terminal decline visible to ordinary investors until 2016–2017.
+> **Potential impact on hypotheses:** Mixed for H4. Sustained pre-GFC underperformance is inconsistent with "viable institution destroyed by shock." But the 2010–2015 recovery suggests the institution was not in irreversible decline before specific triggers (power generation collapse, GE Capital wind-down). Does not resolve H4 direction. Weakly ambiguous.
+> Insufficient alone.
+
+---
+
+**H4-E02 — GE Capital Commercial Paper Exposure, End of 2007**
+
+> **Observation:** At end of 2007, GE Capital had approximately $106 billion in commercial paper outstanding — approximately 4% of all US commercial paper in existence. GE Capital was the largest borrower in global commercial paper markets. It relied on short-term, unsecured commercial paper to fund consumer credit, mortgages, and industrial lending operations. GE Capital was simultaneously the reference entity for credit default swaps totaling approximately $80 billion. GE Capital publicly boasted about its market position as the largest CP borrower. All figures were available in public filings before 2008.
+> **Interpretation:** The risk was not hidden — it was celebrated. $106 billion in short-term, unsecured funding representing 4% of the US market creates catastrophic concentration risk in any scenario where CP markets freeze. The CDS exposure of ~$80 billion adds a second systemic vector. A disciplined analyst examining GE Capital's balance sheet before 2008 would have found these numbers in the annual reports.
+> **Potential impact on hypotheses:** Against H4. H4 predicts "GE Capital's risk was appropriate given pre-GFC conditions." The scale of CP dependence — the largest borrower in global markets, 4% of US market — is not a peer-average position. It represents active concentration in the precise instrument that froze in 2008. The external shock (CP market freeze) was real, but GE Capital had maximally positioned itself for exposure to that shock. Weakens H4's "appropriate given conditions" prediction.
+> Insufficient alone.
+
+---
+
+**H4-E03 — Gas Turbine Market Decline Timeline**
+
+> **Observation:** Combined cycle gas turbine capacity in tracked markets peaked approximately 2012. Decline started 2012–2013 driven by renewable energy scaling and overcapacity in power generation equipment. GE, Siemens, and Mitsubishi Hitachi Power Systems undertook major restructuring "by 2013." Industry publications were tracking the decline from 2012–2013 onward. GE's own Power and Water segment revenues were still growing in 2014 (+22% revenue, +13% earnings year-over-year), suggesting GE's specific results lagged the market trend — possibly due to order backlog.
+> **Interpretation:** The structural decline of the gas turbine market was underway from approximately 2012–2013 — four to five years before GE's 2017 crisis. Industry analysts were observing and reporting the decline in real time. GE's internal results showed continued growth through 2014, likely reflecting the lag between market orders and revenue recognition. The trend that eventually collapsed GE Power was visible to disciplined industry observers years before the collapse became obvious.
+> **Potential impact on hypotheses:** Against H4. H4 predicts the power generation collapse was "not foreseeable from pre-crisis information." If industry publications were tracking the decline from 2012–2013, and GE's own competitors were restructuring by 2013, the foreseeable/unforeseeable distinction fails. GE's own 2014 revenue growth may reflect backlog rather than market health. Weakens H4 on the power generation component.
+> Insufficient alone.
+
+---
+
+**H4-E04 — GE Industrial Segment Organic Growth, 2011–2014**
+
+> **Observation:** GE industrial segment revenues in 2011 were $26.8 billion, up 10% year-over-year, with organic revenue growth of 5%. In 2012, industrial segment revenues grew 6%, with organic growth of 8%. In 2014, industrial segment EPS grew 23%; Power and Water revenues rose 22% and earnings rose 13% year-over-year. Data sourced from GE's own earnings releases, available in real time.
+> **Interpretation:** GE's industrial businesses showed genuine, measurable organic growth through 2014. This is not consistent with a story of industrial deterioration predating the 2017 crisis. If anything, 2011–2014 represents a period of real industrial health, not masked deterioration.
+> **Potential impact on hypotheses:** Supports H4 (partially). H4 predicts GE's industrial businesses were viable before external disruption. The 2011–2014 organic growth data supports this claim for that period. However, this evidence covers 2011–2014 only and does not address 2015–2016 performance. Does not resolve H4 overall — merely confirms the industrial segment was not already in visible decline through 2014.
+> Insufficient alone.
+
+---
+
+**H4-E05 — Steve Tusa (JP Morgan), Underweight Rating, May 2016**
+
+> **Observation:** JP Morgan analyst Steve Tusa initiated an Underweight (bearish) rating on GE in May 2016, 18 months before GE's November 2017 dividend cut. JP Morgan had been on restriction from covering GE because the investment bank was advising on GE Capital's divestiture — May 2016 was Tusa's first opportunity to issue a rating. His bearish thesis was available to any investor who accessed JP Morgan research from May 2016 onward.
+> **Interpretation:** A credible, publicly accessible bearish thesis existed 18 months before the crisis became obvious. The 18-month lead time means the signal was not coincident with the collapse — it preceded it with meaningful runway. The restriction period complicates reading this as pure analytical prediction (Tusa had institutional exposure to GE through the Capital wind-down work), but the published rating was public from May 2016.
+> **Potential impact on hypotheses:** Against H4. H4's "primarily exogenous" framing implies the crisis was not predictable from available information. A publicly available Underweight rating 18 months prior contradicts this. Weakens H4 on the "unforeseeable" prediction.
+> Insufficient alone.
+
+---
+
+**H4-E06 — Deutsche Bank, Sell Rating, May 2017**
+
+> **Observation:** Deutsche Bank downgraded GE from Hold to Sell on May 12, 2017 — six months before the November 2017 dividend cut. The downgrade cited: weak earnings quality; wide gap between non-cash and cash earnings; LTSA (Long Term Service Agreement) non-cash earnings contribution; underfunded pension obligations with non-operating pension accounting; ultra-low tax rates posing future headwinds; cash flow "worse in recent quarters." Deutsche Bank lowered its 2018 EPS estimate and predicted GE would be forced to cut its dividend. CNBC covered the downgrade publicly on the same day.
+> **Interpretation:** Deutsche Bank named specific mechanisms — not just general concerns. LTSA non-cash earnings, pension accounting, and GE Capital dividend masking industrial cash flow were identifiable from public filings by a careful analyst. These concerns were not hindsight; they were named in real time six months before the crisis.
+> **Potential impact on hypotheses:** Against H4. H4 predicts "internal metrics remained healthy until external disruption." Deutsche Bank's May 2017 sell rating identifies deteriorating earnings quality from available public data six months before the crisis. The specific mechanisms named (LTSA accounting, pension treatment, cash flow gap) are observable from filings. Weakens H4 on the "metrics remained healthy" prediction significantly.
+> Insufficient alone.
+
+---
+
+**H4-E07 — GE Industrial Segment Organic Revenue Growth Trajectory, 2011–2016**
+
+> **Observation:** GE industrial organic revenue growth trajectory from quarterly and annual earnings releases: 2012: ~8% organic growth; 2011: ~5% organic growth; first half 2015: +4% organic; second half 2015: ~1% organic; first half 2016: −1% organic (actual decline vs. 2-4% target). The deceleration from 8% (2012) to −1% (H1 2016) is visible in sequential public earnings releases. Note: the November 2015 Alstom acquisition complicates organic measures (Alstom revenues excluded from organic calculations and treated separately).
+> **Interpretation:** The industrial segment showed real growth through 2014, decelerated sharply in 2015, and began declining in H1 2016 — 12 to 18 months before the November 2017 crisis. This trajectory was observable in real time through published quarterly earnings. The Alstom acquisition (2015) is a confound — integration effects and restructuring charges may have affected reported organics — but the direction of the trend is not obscured.
+> **Potential impact on hypotheses:** Against H4 on the "metrics remained healthy until external disruption" prediction. The deceleration and decline were observable 12-18 months before the crisis from sequential earnings releases. However, H4-E04 confirms genuine industrial health through 2014, so the "viable before external disruption" component of H4 has partial support for the pre-2015 period. The question becomes: when did the decline begin relative to the identifiable external triggers? Power generation market decline started 2012-2013 (H4-E03). Industrial organic revenue began declining H1 2016 — a multi-year lag from the market structural shift.
+> Insufficient alone.
