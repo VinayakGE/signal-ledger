@@ -609,27 +609,76 @@ Evidence collection not yet sufficient.
 
 **Overall Position**
 
-No hypothesis currently has sufficient support to justify classification.
-
-The investigation remains open.
+Status: Unresolved
 
 ---
 
-**What U5 and U8 established:**
+**H2 — Industry Blindness**
 
-U5 (Samsung as control group):
-Nokia's rejection of Android was deliberate, not ignorant. Elop explicitly named Samsung as the reason — Nokia believed it could not win on an open platform against Samsung. This is a type-C difference (same environment, different strategic choice), not type-A (different signals) or type-B (different interpretation of same signal).
+Current assessment: Narrowed.
 
-U8 (Download! deprioritization):
-Nokia built multiple app distribution experiments before Apple's App Store. None received home screen placement. The pattern is consistent with organizational deprioritization, but primary source evidence for the decision rationale has not been found.
+The strongest form — "nobody could see the transition" — is now difficult to defend.
+
+Samsung received the same OHA invitation in 2007 and adopted Android by 2009. Nokia received the same signal and declined. The difference was not informational.
+
+Weaker form that remains viable: "Many incumbents were blind or slow, for reasons including organizational stakes, not only signal weakness."
 
 ---
 
-**Most important remaining unknowns:**
+**H3 — External Discontinuity**
+
+Current assessment: Narrowed.
+
+Technical limitation alone appears insufficient to explain Download!'s failure.
+
+If 2005 infrastructure was the binding constraint, we would expect Nokia's platform investments to grow as conditions improved (2006–2008). Evidence suggests they did not.
+
+Home screen placement is a product decision, not a technical one. Nokia withheld it.
+
+Carrier relationship prioritization may have been a real external constraint. This part of H3 remains viable.
+
+Weaker form that remains viable: "Carrier ecosystem dynamics constrained Nokia's platform strategy in ways that may not have been easily solvable."
+
+---
+
+**H4 — Organizational Constraint**
+
+Current assessment: Investigable. Not established.
+
+U5 and U8 have produced observations that increase the investigability of H4. They do not yet establish it.
+
+Three alternative interpretations remain viable from the same observations:
+
+Interpretation A — Organizational constraint: Nokia could not act because internal structures resisted change.
+
+Interpretation B — Rational commitment to existing assets: Nokia evaluated Android and concluded that preserving Symbian created more expected value at the time. Not paralysis. Potentially rational but wrong.
+
+Interpretation C — Switching-cost trap: The cost of abandoning Symbian ownership exceeded the perceived benefits of Android adoption at the decision point.
+
+All three are consistent with the evidence gathered so far. H4 requires evidence that distinguishes A from B and C.
+
+---
+
+**H1 — Signal Visible, Response Lagged**
+
+Current assessment: Not yet investigated. No conclusion assigned.
+
+---
+
+**What the investigation produced**
+
+Not a conclusion. A smaller space of plausible conclusions.
+
+H2 strongest form weakened.
+H3 strongest form weakened.
+H4 investigable but unestablished.
+H1 untouched.
+
+Remaining unknowns:
 
 - U8a: What did Nokia leadership explicitly believe about software ecosystems in 2005-2007? (Primary source needed)
-- U5a: Was Nokia's fear of Samsung a post-hoc rationalization or a contemporaneous belief? (Elop quote is from 2013)
-- U4: What organizational barriers prevented execution — structure, incentives, or belief?
+- U5a: Was Nokia's fear of Samsung a post-hoc rationalization or a contemporaneous belief? (Elop quote is from 2013, not contemporaneous)
+- U4: What organizational barriers existed — structural, incentive-based, or belief-based?
 
 ---
 
