@@ -714,3 +714,36 @@ This separates H3, H4, H5 instead of accumulating pressure on all three simultan
 **Why superficial similarity to Artifact #5 does not yet establish recurrence:** The interview could reflect personality, media handling practice, genuine national security concern about discussing the topic publicly, organizational culture, or model defense. The artifact alone does not separate these mechanisms.
 
 **What Artifact #7 does NOT answer:** The predictive-performance question. Behavior under challenge ≠ learning from market reality. The load-bearing attack — did either model generate better predictions 2009–2011? — remains open.
+
+---
+
+**BlackBerry Artifact #8**
+
+**Source:** Balsillie public statement, October 19, 2010. Reported by Engadget, CBC News, Computerworld, Fortune, CTV News. Response to Steve Jobs earnings call remarks.
+**Date:** October 19, 2010
+**Subject:** Jim Balsillie, co-CEO Research In Motion
+**Setting:** Public — statement responding to Steve Jobs's investor call comments comparing iPhone vs. BlackBerry shipments
+
+**Quote:** "For those of us who live outside of Apple's distortion field, we know that 7-inch tablets will actually be a big portion of the market and we know that Adobe Flash support actually matters to customers who want a real web experience."
+
+> **Observation:** October 2010 — BlackBerry at US market share peak-to-trough inflection (~37%). Balsillie is making two specific, falsifiable market predictions: (1) 7-inch tablets will be a big portion of the market; (2) Adobe Flash support matters to real customers. Context: RIM had just announced the PlayBook (7-inch tablet with Flash support). Both claims are forward-looking and testable. Outcome of predictions: Flash was deprecated by major browsers by 2020; 7-inch Android tablets did gain some market share but not in ways that vindicated PlayBook; PlayBook launched April 2011 without email, to poor reception; $485M write-down (Artifact #6).
+> **Interpretation:** This is the first artifact that directly addresses the predictive-performance question. Balsillie's model in October 2010 was generating specific, testable claims. Flash prediction: directionally wrong. 7-inch form factor prediction: partially right (Android tablets grew) but did not vindicate RIM's specific bet. Balsillie's model-level diagnosis from Artifact #5 ("not dominant anymore") may have been correct; his specific product predictions in Artifact #8 were partially wrong. This means Balsillie's model was not uniformly superior — it correctly identified the competitive problem while misidentifying the specific strategic response.
+> **Potential impact on hypotheses:** Partial answer to predictive-performance question. Balsillie was generating specific predictions, at least one of which (Flash) was directionally wrong. This complicates the story: Balsillie's model may have been better at diagnosing the problem (Artifact #5) while worse at identifying the solution (Artifact #8). H3 gains pressure — both leaders may have been wrong about the solution even when one was right about the problem. H4 gains pressure — incorrect demand model extends beyond Lazaridis to Balsillie's specific product predictions. H5 still active.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes — 7-inch tablets big market; Flash matters to consumers
+- Revision: Not observed (forward-looking prediction, not retrospective revision)
+- Decision: Prior (PlayBook already underway)
+- **Chain stopped at: Implication (forward-looking prediction)**
+
+**Predictive performance test (partial answer):**
+- Balsillie's Flash prediction: directionally wrong
+- Balsillie's 7-inch tablet prediction: partially right, did not vindicate RIM
+- Balsillie's model-level diagnosis (Artifact #5: "not dominant anymore"): correct direction
+- Balsillie correctly identified the problem; incorrectly identified the solution
+
+**This means:** Predictive performance is not uniform across Balsillie's model. He was better at diagnosing competitive position than at identifying the right product response. This does not yet establish that Lazaridis's model was better or worse at either task.
+
+**Lazaridis predictive performance still needed** to complete the comparison.
