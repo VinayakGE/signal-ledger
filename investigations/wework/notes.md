@@ -364,3 +364,59 @@ A weak H3 would show:
 Cash burn was accelerating regardless of expansion rate. Unit economics at the location level were not converging toward profitability. The funding dependency was structural, not transitional.
 
 ---
+
+**H3-E01 (H3-Q1: Location-level unit economics)**
+
+Observation:
+WeWork's S-1 (August 2019) defined "mature locations" as those open for 24+ months. Mature locations achieved contribution margins of 24-27% (target: 30%). WeWork stated that once locations reached maturity, they generated "a recurring stream of revenues, contribution margin, and cash flow." As of June 2019, however, only 30% of WeWork's open locations were mature. The remaining 70% had been open for fewer than 24 months and had not yet reached sustained profitability at the contribution margin level.
+
+Interpretation:
+The location-level model showed positive economics at maturity. This is evidence that the underlying concept was not inherently unworkable — a mature WeWork location did produce positive contribution. However, the portfolio composition as of mid-2019 was overwhelmingly immature. A company with 70% of its locations below break-even is not demonstrating a mature business — it is demonstrating an expansion machine that hasn't stopped to let its own economics prove out.
+
+Potential impact on hypotheses:
+Ambiguous for H3. The mature location economics are consistent with "viable model." The 30% mature / 70% immature split is consistent with "expansion rate that prevented the model from ever demonstrating viability at company level." H3 requires the business to have been viable before the external shock. The location model shows potential; the portfolio composition shows the potential was never converted into aggregate viability before the IPO attempt.
+Insufficient alone.
+
+---
+
+**H3-E02 (H3-Q2 + H3-Q3: Cash burn trajectory and occupancy trend)**
+
+Observation:
+WeWork's net losses by year: 2016 $0.4B on $436M revenue (-92% net margin); 2017 $0.9B on $886M revenue (-102% net margin); 2018 $1.9B on $1.82B revenue (-104% net margin). Revenue doubled each year. Net margin as a percentage of revenue was essentially flat or slightly worsening across the entire period. Separately: occupancy improved from 73% (Q1 2017) to ~84% (Q2 2018). Mature location occupancy reached ~90%. Estimated company-wide breakeven occupancy: approximately 93%. The company never sustainably reached breakeven occupancy.
+
+Interpretation:
+Revenue grew at 100%+ annually. Net margin did not improve. This is the critical pattern: a company scaling revenue at 100% per year while net margin stays flat at -104% is not moving toward profitability — it is moving toward larger losses at the same structural efficiency. Occupancy improved, but the improvement stalled below the threshold required for breakeven. Both metrics suggest the expansion rate was outrunning the underlying economics, not allowing them to prove out.
+
+Potential impact on hypotheses:
+Against H3. A viable business approaching profitability should show margin improvement as it scales — fixed costs spread across more revenue. WeWork showed no margin improvement despite revenue doubling twice. The occupancy improvement is consistent with H3 (trajectory was positive), but the failure to cross the 93% breakeven threshold combined with flat net margin is more consistent with a business structurally unable to reach company-level profitability at the rate it was operating.
+Insufficient alone.
+
+---
+
+**H3-E03 (H3-Q4 + H3-Q6: Funding dependency and IWG control group)**
+
+Observation:
+WeWork's expansion from approximately 0 to 528+ locations (Q2 2019) was funded by successive external capital rounds, principally from SoftBank ($4.4B in 2017, $2B in January 2019). Without external capital infusions, WeWork could not have funded its expansion rate from operating cash flows — operating losses exceeded revenue each year. Separately: IWG/Regus operated under broadly similar macroeconomic conditions and survived the 2008-2009 global financial crisis. During the GFC, IWG revenue fell 2.1%, gross profit fell 22.9%, and occupancy fell from 82.9% to 77.7% — but the business continued operating. A structural difference: IWG held approximately 40% of its lease liabilities in flexible terms; WeWork's leases were predominantly fixed long-term obligations.
+
+Interpretation:
+WeWork's expansion was not self-funded. The capital to open new locations came from outside the business. The IWG comparison shows a structurally similar category survived a comparable external shock — but IWG's lease flexibility gave it a buffer WeWork did not have. WeWork's fixed lease structure meant that in any demand downturn, the revenue side (short-term memberships) would fall while the cost side (long-term lease obligations) would not. IWG had partially protected itself against precisely this risk. WeWork had not.
+
+Potential impact on hypotheses:
+Against H3. If WeWork's expansion was externally funded and its lease structure removed the flexibility buffer that allowed IWG to survive the GFC, then WeWork was not merely "vulnerable to external shocks" — it had systematically removed the structural mechanisms that allowed comparable firms to survive those shocks. H3 becomes harder to sustain when the control group (IWG) survived because it maintained the protections that WeWork chose not to maintain.
+Insufficient alone.
+
+---
+
+## Current Position
+
+Status: H2 substantially weakened. H3 evidence gathering in progress.
+
+H3 pattern emerging (three entries, not yet sufficient for assessment):
+Mature location contribution margins were positive (24-27%), suggesting the model could work at the individual location level. However: only 30% of locations were mature as of June 2019 (70% still immature); net margin was flat at approximately -104% despite revenue doubling annually; occupancy improved but never crossed company-wide breakeven (~93%); expansion was externally funded rather than self-sustaining; and WeWork lacked the lease flexibility (present at IWG) that allowed comparable operators to survive comparable external shocks.
+
+H3 open question:
+The most important unresolved question for H3 is the counterfactual: if WeWork had stopped expanding and allowed its existing portfolio to mature, would the mature location economics have been sufficient to cover corporate overhead and eventually reach company-level profitability? If yes, H3 retains some force (external capital withdrawal cut short a viable path). If no, H3 weakens further (the business was structurally below survival threshold regardless of external events).
+
+Next: The counterfactual is not directly observable. H3 investigation may be near its evidence ceiling — the 30%/70% maturity split, flat net margins, and lease inflexibility collectively suggest H3's "viable but shock-sensitive" framing faces significant pressure. One more search target: whether WeWork management or credible analysts identified a specific timeline to profitability that was credible before external events intervened.
+
+No hypothesis has earned support. No hypothesis has been rejected. H2 substantially weakened. H3 is under pressure. Investigation continues.
