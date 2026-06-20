@@ -44,8 +44,6 @@ what_would_disprove_this: |
   or if film revenue decline was offset by imaging growth,
   the acceleration story would hold.
 
-signal_action_alignment: medium
-
 investigation_challenge_3: |
   "Maybe the real problem was timing, not signal decay"
 
@@ -59,30 +57,17 @@ investigation_challenge_3: |
   - 2001: Film demand clearly declining
   - 2005: Strategy shift: "Digital revenue to exceed traditional"
 
-  ACTION ALIGNMENT:
+  ACTION INDICATORS:
   - 1997: Lost $440M on digital initiatives
   - Early 1990s: Digital efforts "half-hearted, poorly executed"
   - 2001: Losing $60 per digital camera sold
   - 2000s: Middle management still film-centric (resisted pivot)
   - Digital market share: 27% (1999) → 15% (2003) → 7% (2010)
 
-  CRITICAL FINDING:
-  Kodak SAW the threat (signal was visible).
-  Kodak INVESTED in response (CEO committed capital).
-  But organizational execution FAILED (middle mgmt resistance).
-  And timing was LATE (by the time digital scaled, margins already collapsing).
+  KEY OBSERVATION:
+  "Weak action" is itself observable as signal manifestation.
+  Strategic hesitation, repeated half-measures, execution delays—
+  these are measurable facts, not separate from signal quality.
 
-  This is NOT False Acceleration on Kodak's part.
-  This is a different failure mode:
-  Signal Visible ≠ Organizational Capability to Execute
-
-  IMPLICATION FOR Ω:
-  Ω can detect margin decay (it does).
-  Ω may NOT detect organizational paralysis.
-  A system can have both:
-  - Visible warning signs (σ declining)
-  - AND paralysis in response (action ≠ signal)
-
-  Kodak data suggests Ω measures only one failure mode.
-  This discovery NARROWS the framework's scope
-  but CLARIFIES what it actually detects.
+  The action lag WAS the signal: a system unable to respond
+  proportionally to visible threat.
