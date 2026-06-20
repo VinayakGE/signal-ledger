@@ -245,6 +245,36 @@ Note: This is an observation requiring further investigation. Samsung's success 
 
 ---
 
+---
+
+**E-H2-07 (U5 — Samsung as control group)**
+
+Observation:
+Samsung adopted Android in 2009 with the Samsung Galaxy i7500, the first Korean Android phone. At that point Nokia still had roughly twice Samsung's smartphone market share.
+
+Interpretation:
+Samsung chose an external platform (Android) over its own proprietary platform. Nokia chose to acquire full ownership of Symbian in 2008 and invest in making it open-source, rather than adopting Android.
+
+Hypothesis Impact:
+Against H2. Samsung faced the same disruption as Nokia but made a different strategic choice. The availability of information was the same. The decision was different. This weakens the claim that the transition was universally unreadable.
+
+Note: Why Samsung made a different choice is a separate question (potentially H4 territory). The relevant observation here is that the same signal was available to both.
+
+---
+
+**E-H2-08 (U5 — Samsung organizational difference)**
+
+Observation:
+Samsung is a diversified technology conglomerate producing chips, displays, batteries, and appliances. Nokia was a mobile phone company with Symbian as core identity.
+
+Interpretation:
+Samsung had no proprietary OS to defend. Nokia had invested significantly in Symbian and acquired full ownership in 2008. The organizational cost of abandoning Symbian was higher for Nokia than adopting Android was for Samsung.
+
+Hypothesis Impact:
+Ambiguous for H2. This observation suggests H2 and H4 may interact: the signal was available to both companies, but Nokia's organizational structure (OS ownership, identity) made the adaptive response more costly. This neither fully supports nor rejects H2 alone — it suggests H4 may be necessary to explain why H2's "industry blindness" was selective.
+
+---
+
 ### H3 — External Discontinuity (investigated second)
 
 **Key question:** Which part of the iPhone was the actual disruption?
@@ -304,6 +334,37 @@ Against H3. Developer friction was an observable pre-existing condition, not a n
 
 ---
 
+**E-H3-05 (U8 — Download! deprioritization)**
+
+Observation:
+Nokia's "Download!" app store (2005) offered roughly a dozen applications at peak, most from a single developer. Nokia invested minimally in it despite operating it.
+
+Interpretation (Case A):
+Nokia did not believe app ecosystems were strategically important. This was a deliberate deprioritization, not a resource constraint.
+
+Interpretation (Case B):
+Technology, network speeds, and developer tooling in 2005 were not yet viable for a rich app ecosystem. The deprioritization was circumstantially rational.
+
+Hypothesis Impact:
+This observation sits on the H3/H4 boundary and cannot be resolved from current evidence. Case A supports H4 (organizational belief, not external constraint). Case B supports H3 (ecosystem economics not yet viable in 2005).
+
+Unknown remaining: What was Nokia's stated reason for not investing in Download!? Were there internal debates? This requires primary sources not yet found.
+
+---
+
+**E-H3-06 (U8 — Nokia acquired Symbian, rejected Android)**
+
+Observation:
+In June 2008, Nokia acquired full ownership of Symbian Ltd. and created the Symbian Foundation to make it open-source. Nokia was offered an Android partnership and declined.
+
+Interpretation:
+Nokia's 2008 decision to double down on Symbian — at the moment Android was becoming available — suggests the rejection was not about lack of awareness of alternatives, but about control and strategic identity.
+
+Hypothesis Impact:
+Against H3. The availability of Android in 2008 means the "external discontinuity" explanation weakens for decisions made after 2008. A rational actor facing discontinuity with a viable external platform available would adopt it. Nokia chose not to. This shifts explanatory weight toward H4.
+
+---
+
 ## Unknowns (Updated)
 
 **U1.** What did Nokia management believe smartphone adoption would look like between 2005–2010? (Internal forecasts not yet found)
@@ -332,12 +393,18 @@ Not Assigned
 
 ## Current Position
 
-**H2 (Industry Blindness):** Partially supported. RIM, Motorola, Sony Ericsson all missed iPhone in real time. But Google (Android 2005) and Samsung (eventual adaptation) show not all actors were equally blind. H2 survives but is weakened by Samsung counter-evidence.
+**H2 (Industry Blindness):**
+Weakened. Multiple incumbents missed the signal (RIM, Motorola, Sony Ericsson) — consistent with H2. But Samsung faced identical disruption and adapted by adopting Android. Nokia had the same option and declined. The blindness appears selective, not universal. H2 cannot explain why Samsung adapted while Nokia did not from the same available information.
 
-**H3 (External Discontinuity):** Partially supported. App Store (July 2008) was not foreseeable from iPhone alone (January 2007). But Nokia had its own app concept in 2005 and chose not to invest. Platform economics literature existed. H3 survives but is weakened.
+Revised claim H2 now supports: "Many incumbents were blind" — not "the signal was unreadable."
 
-**H4 (Organizational Constraint):** Not yet investigated.
+**H3 (External Discontinuity):**
+Weakened. The strongest evidence was App Store timing (2008, not foreseeable from 2007 iPhone). But Nokia ran Download! in 2005, suggesting app platform awareness existed. And Nokia rejected Android in 2008 when it was available — meaning post-2008 decisions cannot be attributed to unavailability of alternatives. H3 may explain the 2005-2007 window; it does not explain 2008 onward.
 
-**H1 (Signal Visible, Response Lagged):** Not yet investigated.
+**H4 (Organizational Constraint):**
+Not yet formally investigated, but two observations (E-H2-08, E-H3-06) already point here. Nokia's Symbian ownership, its rejection of Android, and its Download! deprioritization all suggest organizational factors. Opening H4 next is now earned.
 
-**Next Step:** Continue H3 investigation (what specifically was the discontinuity?), then open H4.
+**H1 (Signal Visible, Response Lagged):**
+Not yet investigated. Evidence count still insufficient to earn this. Do not classify.
+
+**Next Step:** Open H4. Investigate Symbian ownership identity, internal debates about Android, and organizational incentives.
