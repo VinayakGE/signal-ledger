@@ -601,3 +601,85 @@ Three possible outcomes. Each pressures different hypotheses.
 Market share decline became undeniable 2010-2011. The question is what happened to the divergence as the contradiction accumulated.
 
 This attack does not presuppose that either Balsillie or Lazaridis was "correct." It asks what happened to the relationship between their models as evidence accumulated.
+
+---
+
+**BlackBerry Artifact #6**
+
+**Source:** Multiple secondary sources (Business Standard, NBC News, Wirefly) reporting on 2011–2012 leadership situation. Primary facts from contemporaneous coverage.
+**Date:** 2011–January 2012
+**Subject:** Jim Balsillie and Mike Lazaridis, co-CEOs; RIM board
+**Setting:** Market inflection period; board removed both co-CEOs
+
+**Observable Facts:**
+- US market share: 37% (Sept 2010) → iPhone surpassed BlackBerry (April 2011) → 14.6% by end of 2011
+- PlayBook launch 2011: no email feature on launch, poor sales, $485M write-down
+- Balsillie: concerned with device quality; attempted to address problems
+- Lazaridis: per accounts, struggled to acknowledge technical/quality issues despite returns and complaints
+- Strategic decision-making described as "ineffective" during this period
+- Board: lost confidence end of 2011; both resigned January 2012
+
+> **Observation:** As market evidence accumulated through 2011 — iPhone surpassing BlackBerry in April 2011, market share collapsing — the leadership models did not converge. They persisted and diverged further. Balsillie moved toward quality and consumer market revision; Lazaridis continued to maintain his model despite accumulating market evidence. PlayBook launched without email — a core BlackBerry value proposition — suggesting organizational incoherence between what the product represented and what leadership's different models required. Board intervention was required to resolve what market evidence could not.
+> **Interpretation:** Contradictory market feedback did not force model convergence. This survived Storm failure (2009), market share collapse (2010–2011), and PlayBook failure (2011). Leadership models did not converge through repeated feedback. External intervention (board) was required. This is a stronger observation than "leadership disagreed" — temporary disagreement resolves under pressure. This disagreement persisted across multiple rounds of contradictory feedback.
+> **Potential impact on hypotheses:** H1 weakens further — both leaders actively processing threat throughout this period. H3 positive pressure — PlayBook execution failure is real. H4 positive pressure — keyboard model persisted through market evidence. H5 strongest positive pressure so far — organizational constraint (co-CEO divergence) prevented unified revision across multiple feedback rounds; required external intervention.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes (multiple, competing)
+- Revision: Yes (multiple competing revisions, no unified revision)
+- Decision: Yes (PlayBook launched; enterprise retrenchment continued)
+- **Chain reached Decision. Unusual feature: no unified organizational model emerged. Leadership models diverged further through accumulating market feedback.**
+
+**Strongest observation after Artifact #6 (not a hypothesis):**
+
+Contradictory market feedback did not force model convergence.
+
+This is stronger than "leadership disagreed" because disagreement can be temporary. This observation survived:
+- Storm failure (2009)
+- Market share collapse (2010–2011)
+- PlayBook failure (2011)
+- Board intervention (2012)
+
+The disagreement persisted through all of them.
+
+**Research discipline:** The observation is: divergence persisted. The mechanism remains open. Possible mechanisms still include H3, H4, H5. Do not drift from "divergence persisted" to "therefore H5." The observation belongs to all three.
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #6
+
+H1 Industry Blindness: **Strong negative pressure** — both leaders actively processing threat throughout 2007–2012
+H2 External Discontinuity: **Negative pressure** — threat visible, acted upon, interpreted in real time
+H3 Execution Failure: **Moderate positive pressure** — Storm execution (Artifact #3), PlayBook execution (Artifact #6)
+H4 Incorrect Demand Model: **Moderate positive pressure** — keyboard model persisted through contradictory feedback
+H5 Organizational Constraint: **Strongest positive pressure** — divergence persisted across multiple feedback rounds; required board intervention to resolve (Artifacts #5, #6)
+
+**Preferred Explanation:** None
+
+H1 is carrying the most negative pressure. H5 is carrying the most positive. But H3, H4, H5 remain competitive — the mechanism is not yet established.
+
+---
+
+**BlackBerry's Emerging Pressure Point (Not GE's Shape)**
+
+GE's pressure point: Information → Model (gap between information available and model held)
+
+BlackBerry's pressure point: Evidence → Model Revision (the surprising thing is not that leaders had different models; it is that accumulating evidence did not eliminate those differences)
+
+These are different pressure points. The fact that they differ is the finding.
+
+---
+
+**Next Attack Target**
+
+Not: What happened after 2012?
+
+Instead: Did either leadership model produce superior predictions between 2009–2011?
+
+Three possible outcomes:
+1. Balsillie's model consistently anticipated reality better → divergence becomes informative about who was learning
+2. Lazaridis's model consistently anticipated reality better → divergence inverts the apparent story
+3. Both models repeatedly failed → neither was learning; both were wrong in different ways
+
+This separates H3, H4, H5 instead of accumulating pressure on all three simultaneously.
