@@ -323,6 +323,44 @@ H2 in its dominant form — "observers could not reasonably have identified the 
 Variable divergence observation (not a finding):
 The gap between Son's stated rationale variables ("technology platform," "disruption," "Adam's vision") and critics' variables ("$18B lease obligation," "duration mismatch," "occupancy requirements") is a clean observation. It does not establish H5. It earns the right to investigate H5.
 
-Next: Investigate H3 (External Discontinuity) before opening H4 or H5. The discipline requires completing the frozen hypothesis sequence. H3 asks: did the collapse result from an external event that made an otherwise viable business fail, rather than from pre-existing structural fragility?
+Next: H3 (External Discontinuity). Battlefield frozen below before sources are opened.
 
 No hypothesis has earned support. No hypothesis has been rejected. H2 is substantially weakened. Investigation continues.
+
+---
+
+### H3 — External Discontinuity (investigated second)
+
+---
+
+## H3 Attack Questions (frozen before evidence)
+
+The central question for H3 is not: "What external events occurred?"
+
+The central question is:
+
+**Using only information available before the failed IPO (September 2019), was WeWork already non-viable — or merely vulnerable?**
+
+The distinction:
+
+- **Non-viable:** Internal economics already below survival threshold before any external shock. The failed IPO revealed pre-existing collapse, not caused it.
+- **Viable but shock-sensitive:** Structural vulnerabilities existed but the business could have survived under normal external conditions. External shocks converted vulnerability into collapse.
+
+These make different predictions.
+
+Specifically:
+
+- **H3-Q1:** What were WeWork's unit economics at the location level before the IPO attempt? Were individual locations profitable?
+- **H3-Q2:** What was the trajectory of cash burn between 2016 and mid-2019? Improving, stable, or worsening?
+- **H3-Q3:** What was the occupancy rate trend before the IPO? Was the core business gaining or losing ground?
+- **H3-Q4:** Was the failed IPO the cause of WeWork's funding crisis, or had the funding dependency pre-existed the IPO attempt?
+- **H3-Q5:** Did WeWork's lease obligations create a survivable or unsurvivable liability structure before any external shock?
+- **H3-Q6:** Were there comparable external events (recessions, credit tightenings) that IWG/Regus survived that WeWork's structure could not have survived?
+
+A strong H3 would show:
+Individual locations were profitable or approaching profitability. Cash burn was decelerating. Occupancy was improving. The failed IPO cut off funding that would otherwise have sustained a viable trajectory.
+
+A weak H3 would show:
+Cash burn was accelerating regardless of expansion rate. Unit economics at the location level were not converging toward profitability. The funding dependency was structural, not transitional.
+
+---
