@@ -416,9 +416,11 @@ If Lazaridis's internal implication did not translate — if the organization co
 **Classification:**
 - Recognition: Yes
 - Implication: Yes — iPhone created RIM's most important strategic opportunity
-- Revision: Partial — decision to build touchscreen competitor
+- Revision: Unknown — decision occurred but underlying assumptions not yet established
 - Decision: Yes — Storm project initiated, nine-month deadline accepted
-- **Chain stopped at: Decision (partial — decision may not match private implication)**
+- **Chain stopped at: Decision observed, Revision unverified**
+
+**Why Revision is Unknown (not Partial):** A decision was made. But Decision does not imply Revision. BlackBerry may be teaching that those are separable. Recording them as separable until evidence establishes otherwise.
 
 **Sourcing note:** Secondary source (*Losing the Signal*, 2015). Admissible but flagged.
 
@@ -455,3 +457,60 @@ Recognition → Implication (internal) → Decision → Wrong decision
 That is not cleanly H4 or H5. It may be a new structure.
 
 **Next artifact target:** What model drove the Storm's design decisions? Did leadership treat Storm as a platform reconception or as a feature-level response?
+
+---
+
+**BlackBerry Artifact #4**
+
+**Source:** Public statement at technology conference, May 2008. Cited in PhoneArena ("They said what? Great quotes from Jim Balsillie and Mike Lazaridis") and multiple secondary sources.
+**Date:** May 2008
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public — technology conference, approximately six months before Storm launch (November 2008)
+
+**Quote:** "The most exciting mobile trend is full QWERTY keyboards. I'm sorry, it really is. I'm not making this up."
+
+> **Observation:** Eleven months after Lazaridis privately concluded "competing with a Mac, not a Nokia" (Artifact #2), and five months before Storm launched, Lazaridis publicly declared the physical QWERTY keyboard the most exciting trend in mobile. The Storm was simultaneously under development using a clickable-screen design meant to replicate keyboard tactile feel on glass. The public model in May 2008 is: keyboard preference is the dominant market trend.
+> **Interpretation:** The model embedded in this statement directly contradicts the private "Mac, not Nokia" implication from Summer 2007. Eleven months after the internal implication, the public model has not integrated it. Two structures now possible: (A) Lazaridis held two models simultaneously — private recognition of platform-level threat, public belief in keyboard dominance. (B) Public statement reflects strategic communications choice, not a changed private model. H4 and H5 compete directly on this evidence. Critically, Storm was built to the public model (keyboard-feel touchscreen) rather than to the private implication (Mac-level platform threat).
+> **Potential impact on hypotheses:** H4 gains pressure — public model (May 2008) still "keyboards dominate," not "we're competing with a Mac." Private implication not converted to public assumption revision. H5 gains pressure — private recognition + public assertion of opposite model = divergence consistent with organizational or strategic constraint preventing model integration. H3 gains pressure — Storm designed to public model, not to private implication. H1 weakens further — Lazaridis is asserting a model, not displaying blindness.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (both iPhone threat and keyboard trend)
+- Implication: Yes — keyboard dominance (public); Mac-level platform threat (private, Artifact #2)
+- Revision: Not observed in public model
+- Decision: Prior (Storm already under development)
+- **Chain stopped at: Public model has not integrated private implication. Eleven-month gap between private implication and contradicting public model.**
+
+**Critical finding:** Two coexisting models in same executive, eleven months apart:
+- Summer 2007 (private): "Competing with a Mac, not a Nokia"
+- May 2008 (public): "The most exciting trend is full QWERTY keyboards"
+
+Storm designed to public model. Not to private implication.
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #4
+
+H1 Industry Blindness: **Negative pressure** — category threat recognized early (Artifact #2); Lazaridis asserting a model, not displaying blindness (Artifact #4)
+H2 External Discontinuity: **Slightly negative pressure** — threat visible and acted upon in 2007
+H3 Execution Failure: **Positive pressure** — Storm designed to keyboard-dominance model (Artifact #4); nine-month timeline (Artifact #3)
+H4 Incorrect Demand Model: **Positive pressure** — public model (keyboards dominant) contradicts private implication (Mac-level threat); public model drove Storm design
+H5 Organizational Constraint: **Positive pressure** — sustained private/public divergence across multiple artifacts; cannot yet distinguish from H4
+
+**Preferred Explanation:** None
+
+Four artifacts. Pattern emerging but not yet established.
+
+---
+
+## Emerging Structure After Four Artifacts
+
+The case is not reproducing GE's shape.
+
+GE: Recognition → Implication gap (Flannery vs. Immelt model divergence)
+
+BlackBerry so far: Recognition → Implication (private) → Decision → Public model contradicts private implication → Storm designed to wrong model
+
+The structure involves coexisting models — private recognition of category threat, public assertion of keyboard dominance — with the public model driving operational decisions (Storm design). This is not yet cleanly H3, H4, or H5.
+
+**Next attack target:** Did Storm's failure produce model revision? Or did the public model persist after Storm?
