@@ -969,3 +969,123 @@ The first evidence that leadership explicitly questioned the enterprise-extensio
 These levels can separate independently. BlackBerry has already shown leader revision and organization revision can diverge (Artifact #5).
 
 **Search target:** Lazaridis or Balsillie statements between April 2011 (PlayBook launch) and January 2012 (resignation) that explicitly reconsider the enterprise-extension model — not statements defending it, not statements about execution, but statements questioning whether the model itself is correct.
+
+---
+
+**BlackBerry Artifact #11**
+
+**Source:** New York Times interview, approximately April 2011. Secondary reporting: PhoneArena (April 13, 2011), TechRadar ("RIM bosses don't understand BlackBerry negativity"). Original NYT article not directly retrieved.
+**Date:** Approximately April 2011
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public interview with New York Times. Approximate timing: same month as PlayBook launch (April 19, 2011), during documented market share decline (37% → 14.6% from 2010 to end of 2011), after BBC interview termination (April 13, 2011, Artifact #7).
+
+**Quote:** "Why is it that people don't appreciate our profits? Why is it that people don't appreciate our growth? Why is it that people don't appreciate the fact that we spent the last four years going global? Why is it that people don't appreciate that we have 500 carriers in 170 countries with products in almost 30 languages?"
+
+> **Observation:** April 2011 — market share falling, PlayBook launched without email (Artifact #10), BBC interview terminated (Artifact #7). When directly confronted with accumulated external criticism, Lazaridis did not reconsider the enterprise-extension model. He reframed the challenge as a failure of external understanding: critics don't appreciate the company's fundamentals. The model embedded in the response: RIM's operational footprint (profits, growth, carriers, geographic reach) is evidence of soundness. The problem is misperception, not model error.
+> **Interpretation:** The question "why don't people appreciate us" is structurally different from "what are we doing wrong." The first encodes the assumption that the problem is external (critics are wrong). The second opens the model to reconsideration. Lazaridis's April 2011 response is the clearest evidence yet that the enterprise-extension model was not being reconsidered — it was being defended against external pressure. The framing of carrier count and geographic reach as evidence of soundness is notable: these are metrics of the enterprise-extension model's execution, not of competitive position in the consumer smartphone market. The model defines which facts count as evidence of health.
+> **Potential impact on hypotheses:** H4 gains strong pressure — in April 2011, with clear market evidence visible, Lazaridis was defending the model rather than reconsidering it. The metrics cited (carriers, countries, languages, profits) are not the metrics that measure consumer smartphone competitive position. H5 receives a partial challenge — if Lazaridis genuinely believes "they don't appreciate us," this is consistent with H4 (model is wrong, but genuinely held) rather than H5 (model is doubted internally, constraint prevents change). First artifact that begins to separate H4 from H5 on Lazaridis's side.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (criticism received, challenge acknowledged)
+- Implication: Not reconsidered — reframed as external misunderstanding
+- Revision: Not observed — no indication model is being questioned
+- Decision: Not established from this artifact
+- **Chain stopped at: Challenge defended — model not reconsidered**
+
+**What this artifact directly answers:** The question "was the model reconsidered?" Lazaridis's response is not reconsideration. It is bewilderment at criticism. This is the closest available evidence to a direct negative answer: in April 2011, the enterprise-extension model's metrics were cited as evidence of soundness, not as evidence of a problem.
+
+**Sourcing note:** Quote attributed through secondary reporting; original NYT article not directly retrieved. Admissible but flagged. Multiple independent secondary sources (PhoneArena, TechRadar) reproduce substantially the same quote.
+
+---
+
+**BlackBerry Artifact #12**
+
+**Source:** InvestorPlace, "A Brief History of Research In Motion" (January 29, 2013), attributed to July 2011 statement during RIM workforce reduction announcement. Additional citations: The Canadian Encyclopedia ("The Fall of the BlackBerry Titans").
+**Date:** July 2011
+**Subject:** Jim Balsillie, co-CEO Research In Motion
+**Setting:** Public — during announcement of 10% workforce reduction (approximately 2,000 employees). RIM US market share approximately 14-15% and falling.
+
+**Quote:** "No other technology company other than Apple has successfully transitioned their platform. It's almost never done, and it's way harder than you realize. This transition is where tech companies go to die."
+
+> **Observation:** July 2011 — during workforce reduction announcement, with market share in confirmed decline, Balsillie made a public statement about platform transitions. The statement acknowledges: (1) the transition is existential; (2) success is rare; (3) the transition specifically "is where tech companies go to die." This is not a reassurance. It is an explicit acknowledgment of the danger zone. Context: separately, Balsillie was internally developing the "SMS 2.0" / BBM licensing proposal — an alternative model that would pivot RIM from handset company to messaging platform.
+> **Interpretation:** The question for this artifact is whether "this is where tech companies go to die" represents model reconsideration. Two readings: (A) Acknowledgment reading — Balsillie is stating that they are in the death zone and the implication is that something must change radically. (B) Exculpatory reading — Balsillie is pre-empting future failure by establishing that success was statistically unlikely, framing any outcome as expected. The investigation cannot establish which reading is correct from this quote alone. What can be established: the quote acknowledges the transition's danger without specifying what model revision is required. It names a problem; it does not name what must change about the enterprise-extension model. Compared to Artifact #11 (Lazaridis: model defended), Artifact #12 (Balsillie: danger acknowledged) represents a different response to the same period. But "danger acknowledged" is not "enterprise-extension model reconsidered."
+> **Potential impact on hypotheses:** H4 receives mixed pressure — Balsillie acknowledging danger zone is consistent with recognition; but not identifying the model as the problem is consistent with model persistence. H5 gains pressure — Balsillie separately proposing BBM pivot while making this public statement suggests public acknowledgment of danger and private reconsideration of model; but the two leaders are again diverging in their responses (Lazaridis defending, Balsillie acknowledging). H4 and H5 separate further: Lazaridis behavior in April 2011 is more consistent with H4 (genuinely wrong model); Balsillie behavior in July 2011 is more consistent with H5 (recognizes problem, constrained from acting on alternative model).
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes — transition is dangerous; platform transitions kill tech companies
+- Implication: Yes — existing state is not viable (implicit)
+- Revision: Not established — danger acknowledged but specific model not named for revision
+- Decision: Not established from this artifact
+- **Chain stopped at: Danger acknowledged — model unspecified for revision**
+
+**Why this is structurally different from Artifact #11 (Lazaridis):**
+Lazaridis: "Critics don't appreciate us" → model defended
+Balsillie: "This is where tech companies go to die" → danger acknowledged
+
+Same period. Same declining market. Different responses. The divergence has persisted from 2007 (Artifact #1 vs. #2) through April-July 2011.
+
+**Sourcing note:** Quote attributed through secondary reporting (InvestorPlace, 2013). Context (July 2011, layoff announcement) confirmed by multiple sources. Original primary statement not directly retrieved. Admissible but flagged.
+
+---
+
+**BlackBerry Artifact #13**
+
+**Source:** TechCrunch, January 23, 2012 ("New RIM CEO: 'I Don't Think There Is A Drastic Change Needed'"); phys.org, January 23, 2012; Gulf News; NBC News. All reporting on Heins's first press conference/conference call as CEO, January 22, 2012.
+**Date:** January 22, 2012
+**Subject:** Thorsten Heins, incoming CEO, Research In Motion
+**Setting:** Public — first press conference as new CEO, the day after Lazaridis and Balsillie announced resignation. RIM stock fell 8% following remarks.
+
+**Quote:** "I don't think there is some drastic change needed."
+
+> **Observation:** January 22, 2012 — the day after both co-CEOs stepped down. The board's choice of successor (Heins, former COO) made his first public statement as CEO: no drastic change is needed. The company would "evolve strategy, evolve tactics, evolve processes." RIM stock fell 8% after this remark. This is not a co-CEO statement — it is the board's organizational choice and its first public model statement after the leadership departure.
+> **Interpretation:** The investigation has been asking whether the model was reconsidered between April 2011 (PlayBook launch) and January 2012 (resignations). Artifact #13 is the organizational answer: the board chose a successor who publicly stated on day one that no drastic change was needed. This is not evidence about what Lazaridis or Balsillie privately believed. It is evidence about what the organization — as represented by its new CEO, chosen by its board — concluded was required. The conclusion: evolution, not reconception. The enterprise-extension model was not explicitly identified for revision at the moment of leadership transition.
+> **Potential impact on hypotheses:** H4 gains further pressure — the organization's own conclusion (via board choice and Heins statement) was that the model was sound and only execution required evolution. H5 receives a structural challenge: if the problem was organizational constraint preventing a desired change, the removal of Lazaridis and Balsillie would have been expected to release that constraint. The incoming CEO's statement suggests the constraint, if it existed, was deeper than the co-CEO level — embedded in board-level understanding of the company. H3 (execution failure) gains some support — "evolve tactics, evolve processes" is an execution framing.
+> Insufficient alone.
+
+**Classification:**
+- Source: Organizational (incoming CEO / board choice, not co-CEO)
+- Model statement: Enterprise-extension model endorsed — no drastic change needed
+- Revision: Explicitly denied at organizational level
+- Decision: Continuity framed as evolution
+- **Chain stopped at: Model continuity explicitly stated**
+
+**Why this artifact matters for the attack question:** The attack was: "What evidence exists that the model was reconsidered?" Artifact #13 is the most direct negative answer available: after both co-CEOs left, the organization chose a successor who stated no drastic change was needed. This is not evidence that the model was correct. It is evidence that the model was not reconsidered at the organizational level even at the moment of maximum external pressure (leadership departure, stock decline).
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #13
+
+H1 Industry Blindness: **Substantially pressured** — both leaders explicitly processed the threat across seven years; neither displayed blindness
+H2 External Discontinuity: **Substantially pressured** — threat visible, acted upon, and processed in real time; market data was available and cited
+H3 Execution Failure: **Moderate positive pressure** — Heins framing ("evolve tactics, processes") consistent with H3; Storm nine-month deadline (Artifact #3); PlayBook without email (Artifact #10); but execution framing may itself reflect the model
+H4 Incorrect Demand Model: **Strongest positive pressure** — model persistence documented through market share collapse (Artifacts #10–#13); Lazaridis defended model in April 2011; Heins explicitly stated no drastic change January 2012; enterprise-extension model never publicly identified for revision
+H5 Organizational Constraint: **Positive pressure, weakened slightly** — Artifact #13 challenges H5: if co-CEO divergence was the constraint, removing both co-CEOs should have enabled model revision; Heins "no drastic change" suggests the model persisted beyond the co-CEOs, which is consistent with H4 (genuine belief) more than H5 (constraint prevents desired change)
+
+**Critical separation:** Artifacts #11–#13 have begun to separate H4 from H5:
+- H4 path (model genuinely held): Lazaridis's April 2011 defense, Heins's January 2012 continuity, organizational "evolution not reconception" are all consistent with genuine belief
+- H5 path (constraint prevents revision): Challenged by Artifact #13 — the constraint was expected to ease when co-CEOs left; it did not
+- Balsillie's behavior (Artifact #12) remains more H5-compatible: acknowledged danger, internally proposed BBM pivot, was constrained from executing
+
+**Current state of investigation:** H4 is carrying the strongest positive pressure. H5 remains active but weakened. H3 active but may be downstream of H4 (execution framing chosen because model told them what to execute). H1 and H2 substantially pressured.
+
+**Preferred Explanation:** None. Sufficient pressure exists to make H4 the leading hypothesis, but not sufficient to close H5 or H3.
+
+---
+
+## Observation — Model Reconsideration Attack Result (Not a Hypothesis)
+
+The "model reconsideration" attack has now produced evidence across three levels:
+
+**Individual (Lazaridis, April 2011, Artifact #11):** Model defended. Critics reframed as not appreciating the company's fundamentals. No reconsideration.
+
+**Individual (Balsillie, July 2011, Artifact #12):** Danger acknowledged. "This is where tech companies go to die." Separate private proposal (BBM pivot) developing. No explicit model reconsideration in public statement.
+
+**Organizational (Heins, January 2012, Artifact #13):** Model explicitly confirmed. "No drastic change needed." Evolution framing. No reconception.
+
+**Across all three levels:** No evidence found that the enterprise-extension model was explicitly reconsidered — named as wrong, questioned at its core, or identified for revision — between April 2011 and January 2012.
+
+This is the first time the investigation has accumulated evidence answering a direct attack question with a consistent direction across three independent sources at different levels of the organization.
+
+The observation is: the enterprise-extension model persisted without explicit reconsideration through the period when market evidence most strongly challenged it. This strengthens model persistence (H4) and pressures the distinction between H4 and H5.
