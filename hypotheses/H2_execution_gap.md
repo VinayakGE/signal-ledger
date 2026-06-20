@@ -21,35 +21,36 @@ H2 proposes: A failure mode where signal IS visible but organizational response 
 
 ## Status
 
-Pattern emerging. Two cases (Kodak, Nokia) show consistent pattern.
+One case confirmed: Kodak shows visible signal + lagging action → negative outcome.
 
-Cases tested:
-- [x] Kodak: Signal visible → Action lagging → Outcome negative
-- [x] Nokia: Signal visible → Action fragmented → Outcome negative
-- [ ] BlackBerry (similar: understood threat, failed to execute pivot)
+Cases in progress:
+- [x] Kodak: Signal visible → Action lagging → Outcome negative (confirmed)
+- [ ] Nokia: Under investigation (notes only, contradictions not yet examined)
+- [ ] BlackBerry: Not yet started
 - [ ] Others TBD
 
-## Pattern Emerging: Two Execution Failure Modes
+## Kodak Confirmation
 
-### Mode A: Absence of Proportional Action (Kodak)
-- Signal: Film decline visible by 1993
-- Action: $2B invested in digital, but "half-hearted, poorly executed"
-- Execution gap: Capital allocated but organizational resistance (middle management film-centric)
-- Outcome: Market share collapse, bankruptcy 2012
+Signal: Film decline visible by 1993
+Action: $2B invested in digital, but "half-hearted, poorly executed"
+Execution gap: Capital allocated but organizational resistance (middle management film-centric)
+Outcome: Market share collapse, bankruptcy 2012
 
-### Mode B: Fragmented Action (Nokia)
-- Signal: iPhone threat identified internally 2007
-- Action: Multiple simultaneous platforms (Symbian 2008, MeeGo 2010, Ovi 2009)
-- Execution gap: Capital invested but incoherently across incompatible platforms
-- Outcome: Market share 50% (2007) → 27.6% (2010), bankruptcy 2012
+H2 appears consistent with Kodak data.
 
-## Distinction
+## Nokia: Awaiting Audit
 
-Both cases show: Leadership aware, capital deployed, yet organizational structure prevented decisive response.
+Nokia investigation started but INCOMPLETE.
 
-Neither case is: "They didn't see it coming" (signal invisible).
+Evidence gathered supports H2 narrative, but contradictions not yet examined.
 
-Both cases are: "They saw it but couldn't execute coherently" (execution fragmented/lagging).
+Will not promote to confirmed case until:
+1. Growth source clearly identified with financial data
+2. Specific measurable signal (not just "Apple was coming") isolated
+3. Break condition falsifiable and testable
+4. Contradictions documented and addressed
+
+See: systems/companies/nokia_notes.md
 
 ## Note
 
@@ -57,6 +58,6 @@ H2 does not modify Ω.
 
 Ω remains: Framework that detects margin decay as proxy for core business deterioration.
 
-H2 is emerging as pattern: Execution capacity gaps are measurable and recurring.
+H2 is emerging as pattern: Execution capacity gaps may be measurable and recurring.
 
-Whether H2 deserves first-class treatment (schema field) depends on BlackBerry test and additional cases.
+Whether H2 deserves first-class treatment (schema field) depends on completing Nokia test and additional cases.
