@@ -152,7 +152,107 @@ Evidence should show that Nokia understood the threat but internal structure pre
 
 ---
 
-## Evidence Log
+## Evidence Log (U5 and U8 sub-questions)
+
+All entries follow mandatory format:
+> Observation | Interpretation | Potential impact on hypotheses | "Insufficient alone."
+
+---
+
+### U5 — Samsung vs Nokia differences (2005–2010)
+
+---
+
+**U5-01 (U5-E: Did Samsung possess different information?)**
+
+Observation:
+Samsung was a founding member of the Open Handset Alliance announced November 2007, committing to Android from the start. Nokia was not a founding member. Nokia's spokesman stated they were "considering" joining but never did, citing Symbian as the basis for 75% of world smartphones.
+
+Interpretation:
+Samsung joined the group that would define the next platform before the platform was proven. Nokia declined, explicitly because Android was a rival to its existing dominant position.
+
+Potential impact on hypotheses:
+Weakens U5-E (same information). Both Nokia and Samsung received the same OHA invitation in 2007. Nokia had more to lose by joining (Symbian dominance). Samsung had less to lose.
+Increases plausibility of H4: The constraint was not information but organizational stakes.
+Insufficient alone.
+
+---
+
+**U5-02 (U5-D: Did Samsung make faster strategic decisions?)**
+
+Observation:
+Samsung launched its first Android device (Galaxy i7500) in June 2009 — 19 months after the OHA announcement. Nokia did not ship a competitive touchscreen smartphone on any platform until significantly later.
+
+Interpretation:
+Samsung translated the OHA commitment (November 2007) to market product (June 2009) in 19 months. Nokia's Symbian touch adaptation and MeeGo development both ran longer without shipping competitive products.
+
+Potential impact on hypotheses:
+Consistent with H4 (organizational constraint slowing execution). Does not distinguish between structural constraint and belief constraint.
+Insufficient alone.
+
+---
+
+**U5-03 (U5-B: Did Samsung allocate capital differently?)**
+
+Observation:
+Samsung is a diversified conglomerate producing chips, displays, and hardware. It manufactures its own components. Nokia was a mobile phone company with major investment in Symbian OS ownership (acquired 2008).
+
+Interpretation:
+Samsung's capital was distributed across hardware manufacturing. It did not carry OS development costs. Nokia's capital was increasingly concentrated in Symbian maintenance and ownership. When Android became available, Samsung's adoption cost was incremental; Nokia's would have required writing down the Symbian investment.
+
+Potential impact on hypotheses:
+Supports H4. The difference in strategic flexibility was partly structural (conglomerate vs. OS owner), not purely informational. Weakens H2 further: both firms had the same market information, but Nokia's capital structure made adaptation more costly.
+Insufficient alone.
+
+---
+
+### U8 — Why Download! failed to become a strategic platform
+
+---
+
+**U8-01 (U8-E: Was carrier control the bottleneck?)**
+
+Observation:
+Nokia's CEO Jorma Ollila stated Nokia was in an "18–24 month transition to come closer to carrier customers" in the mid-2000s, working on customized designs and software for operators. Operators in Europe controlled 65% of subscribers through top-four carriers by 2003 and were "not keen on seeing Nokia creating innovations that could potentially challenge the operators' role."
+
+Interpretation:
+Nokia was explicitly accommodating carrier interests in the 2004–2006 period. App stores that bypass carrier billing or control would have directly conflicted with this strategic priority.
+
+Potential impact on hypotheses:
+Supports H3/H4 boundary: Could be external constraint (carriers controlled distribution, making Download! strategically risky — H3) or organizational choice (Nokia chose carrier relationships over platform development — H4). Cannot distinguish from current evidence.
+Insufficient alone.
+
+---
+
+**U8-02 (U8-C: Was leadership uninterested?)**
+
+Observation:
+None of Nokia's pre-App Store distribution services (Download!, WidSets, Mosh) were placed on the home screen of Nokia devices. The Forrester analysis noted that home screen placement was the critical differentiator Apple used — making apps immediately discoverable — which Nokia's services lacked.
+
+Interpretation:
+Home screen placement is a product decision, not a technical limitation. Nokia chose not to give these services the most prominent position on its devices. This is a decision, not a constraint.
+
+Potential impact on hypotheses:
+Against H3. Technical limitations do not explain why Nokia withheld home screen placement. This is more consistent with H4: leadership did not treat app distribution as a core product priority.
+Insufficient alone.
+
+---
+
+**U8-03 (U8-A: Was Download! technically limited?)**
+
+Observation:
+Nokia's Download! operated in 2005. Network speeds (pre-3G widespread adoption), device memory, and app complexity were genuinely constrained at that time. The App Store launched in 2008, after 3G was widespread and devices were more capable.
+
+Interpretation:
+Technical environment in 2005 may have been a real constraint on what Download! could offer. The gap between 2005 and 2008 saw significant infrastructure improvement.
+
+Potential impact on hypotheses:
+Supports H3 partially. Technical constraints in 2005 may have made Download!'s underperformance partially circumstantial. However, this does not explain why Nokia did not invest in the platform as conditions improved (2006–2007).
+Insufficient alone.
+
+---
+
+## Evidence Log (original H2 and H3 evidence)
 
 Format: Observation | Interpretation | Hypothesis Impact
 
