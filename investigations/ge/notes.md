@@ -120,29 +120,44 @@ Claim: Divisional units understood their deterioration, but organizational struc
 
 Status: Substantially weakened by H2-E02 and H2-E04 (SEC finding of "inadequate disclosure controls" implies some organizational awareness at an observable level; LTC and LTSA decisions involved levels capable of affecting consolidated reporting).
 
-**H2-C — Signals Reached Leadership But Could Not Be Assembled Into Coherent Understanding**
+**H2-C — Information Integration Failure**
 
-Claim: Pieces of the problem were known at various organizational levels, including corporate. But organizational complexity and structure prevented leadership from synthesizing these pieces into an accurate model of GE's actual condition.
+**Compressed Claim:**
+GE possessed information sufficient to challenge its operating assumptions, but failed to integrate that information into an updated model.
 
-Status: Supported by H2-C-E01 and H2-C-E02, but not yet dominant. Model divergence is established; synthesis failure remains testable but unproven.
+**Status:** Produced successful prediction. Now under direct falsification attack.
 
-**Why H2-C Survives Current Evidence:**
+**Successful Prediction #1:**
+Model divergence observed between Immelt and Flannery on publicly observable variables (renewable energy acceleration, power market overcapacity).
 
-H2-C-E01 shows model divergence: Q1 2017 "fundamentals particularly strong" vs. Q2 2017 profit down 10% — suggesting incomplete corporate synthesis.
+**Primary Falsifier:**
+Evidence that Immelt already held Flannery's model of the power market structure before Flannery arrived.
 
-H2-C-E02 shows divergence on publicly observable variables: renewable energy acceleration 2015-2016 was public data via IRENA/EIA/NREL. Immelt's model assumed gas/coal demand tracking GDP. Flannery's model acknowledged structural market change due to renewables and overcapacity. Same publicly available data; different synthesis.
+**Attack Surface:**
+Recognition (observational: "I see the trend")
+↓
+Implication (predictive: "This trend changes what the market will be")
+↓
+Assumption Revision (decision: "This invalidates my prior assumptions")
 
-**Three Remaining Worlds Not Yet Distinguished:**
+H2-C survives in the gap between Recognition and Assumption Revision.
 
-**World B1 (Pure H2-C):** Same facts available. Immelt synthesized poorly. Flannery synthesized correctly.
+**Evidence Supporting H2-C:**
 
-**World B2 (Information Asymmetry):** Public renewable data existed. But internal order books, customer forecasts, utilization data, project pipelines looked materially different in 2015-2016. Immelt's model may be wrong but was not irrational given internal information. Later data changed the picture.
+H2-C-E01: Q1 2017 "fundamentals particularly strong" vs. Q2 2017 profit down 10% (90 days) — suggests incomplete corporate understanding of divisional reality.
 
-**World C (H3/C2):** Immelt understood the renewable transition and overcapacity. Strategy and disclosure did not reflect this understanding.
+H2-C-E02: Renewable energy acceleration 2015-2016 was publicly documented (IRENA/EIA/NREL). Immelt's model assumed gas/coal demand tracking GDP. Flannery's model acknowledged structural market transition. Same publicly available data; different integration of implications.
 
-H2-C has produced a successful prediction (model divergence on publicly observable variables exists) and remains falsifiable. But "same data available" does not yet equal "same information possessed" or prove "synthesis failure."
+**Next Attack Hypothesis:**
 
-The next wound: Evidence that Immelt explicitly recognized overcapacity, renewables as structural competition, or breaking gas demand assumptions. If found, model divergence collapses and World C becomes more plausible. If not found, H2-C remains viable.
+Immelt already held Flannery's model of power market structure. If this is true, H2-C must absorb a wound (model divergence was disclosure lag, not synthesis failure). If false, H2-C survives and Information Failure → Model Failure distinction earns empirical support.
+
+**Search Target:**
+
+Evidence that Immelt crossed from Recognition ("Renewables are growing") to Implication ("Renewables structurally compress future gas turbine demand") to Assumption Revision (GE's operating model must change).
+
+If evidence of all three exists in Immelt's 2014-2017 statements, H2-C weakens.
+If evidence stops at Recognition or Implication without Revision, H2-C survives.
 
 ---
 
