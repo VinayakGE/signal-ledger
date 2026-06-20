@@ -334,21 +334,73 @@ Against H3. Developer friction was an observable pre-existing condition, not a n
 
 ---
 
+---
+
+### U5 — Why Samsung Adapted (continued investigation)
+
+---
+
+**E-U5-01**
+
+Observation:
+Nokia CEO Stephen Elop stated in 2013 that Nokia rejected Android because "a decision to pursue Android would put us on a collision course with Samsung, who already had established a head of steam around Android."
+
+Interpretation:
+Nokia did not reject Android due to ignorance of its availability or quality. Nokia rejected Android because leadership believed they could not win against Samsung on an open platform.
+
+Hypothesis Impact:
+This is a C-type difference (same interpretation, different action) not an A or B type. Nokia read the Android ecosystem as "Samsung's territory" and chose not to enter. Samsung read the same ecosystem as an opportunity and entered early (June 2009).
+
+Note: This does not confirm H1 or H4 directly. It narrows the explanation: the decision was deliberate, not blind.
+
+---
+
+**E-U5-02**
+
+Observation:
+Samsung adopted Android with Galaxy i7500 in June 2009. Samsung had been a hardware manufacturer with no proprietary OS to defend. Nokia had acquired full Symbian ownership in June 2008, one year earlier.
+
+Interpretation:
+Samsung's organizational cost of adopting Android was lower than Nokia's. Samsung had no proprietary platform identity at stake. Nokia had just invested in Symbian ownership.
+
+Hypothesis Impact:
+Ambiguous for H2/H4 boundary. The difference between Samsung and Nokia is partly structural (hardware conglomerate vs. OS owner) and partly belief (Samsung saw Android as opportunity; Nokia saw it as commoditization risk).
+
+Note: A and B cannot be cleanly separated here. Samsung may have had the same signal but different organizational constraints changed how it was interpreted. This requires more evidence to classify.
+
+---
+
+**E-U5-03**
+
+Observation:
+Nokia's chief designer Alastair Curtis (2006–2009) stated: "We were spending more time fighting politics than doing design."
+
+Interpretation:
+Internal organizational friction was documented at the leadership level during the critical 2006–2009 window.
+
+Hypothesis Impact:
+Increases plausibility of H4. Does not yet justify classification.
+
+---
+
 **E-H3-05 (U8 — Download! deprioritization)**
 
 Observation:
-Nokia's "Download!" app store (2005) offered roughly a dozen applications at peak, most from a single developer. Nokia invested minimally in it despite operating it.
+Nokia's "Download!" app store (2005) offered roughly a dozen applications at peak, most from a single developer. Nokia had also run WidSets (2006) and Mosh. None of these services were placed on the home screen of Nokia devices.
 
-Interpretation (Case A):
-Nokia did not believe app ecosystems were strategically important. This was a deliberate deprioritization, not a resource constraint.
+Interpretation:
+Nokia built multiple app distribution experiments but did not commit home screen placement to any of them. Home screen placement was Apple's decisive insight — it made apps immediately discoverable. Nokia knew this problem existed (they built stores) and chose not to solve it (none were prominent).
 
-Interpretation (Case B):
-Technology, network speeds, and developer tooling in 2005 were not yet viable for a rich app ecosystem. The deprioritization was circumstantially rational.
+Interpretation (Case A — H4):
+Leadership did not believe app ecosystems were strategically central. Home screen placement reflected this belief implicitly — the store existed but was not treated as a core product.
+
+Interpretation (Case B — H3):
+In 2005-2006 network speeds, device capability, and developer tooling may not yet have supported a rich ecosystem. The deprioritization was a correct read of the current state, not a misjudgment of future importance.
 
 Hypothesis Impact:
-This observation sits on the H3/H4 boundary and cannot be resolved from current evidence. Case A supports H4 (organizational belief, not external constraint). Case B supports H3 (ecosystem economics not yet viable in 2005).
+Still on H3/H4 boundary. Case A is more consistent with what is known (Nokia rejected Android for fear of commoditization, not lack of awareness). Case B cannot be ruled out without primary source evidence on what Nokia leadership believed in 2005.
 
-Unknown remaining: What was Nokia's stated reason for not investing in Download!? Were there internal debates? This requires primary sources not yet found.
+Unknown remaining: No primary source found explaining why home screen placement was withheld from Download! This remains open.
 
 ---
 
@@ -461,10 +513,23 @@ No hypothesis currently has sufficient support to justify classification.
 
 The investigation remains open.
 
-Most important unresolved questions:
+---
 
-- U5: Why did Samsung adapt while Nokia did not?
-- U8: Why were Nokia's early platform efforts deprioritized?
+**What U5 and U8 established:**
 
-Next step:
-Continue evidence gathering focused on U5 and U8 before investigating H1 or H4.
+U5 (Samsung as control group):
+Nokia's rejection of Android was deliberate, not ignorant. Elop explicitly named Samsung as the reason — Nokia believed it could not win on an open platform against Samsung. This is a type-C difference (same environment, different strategic choice), not type-A (different signals) or type-B (different interpretation of same signal).
+
+U8 (Download! deprioritization):
+Nokia built multiple app distribution experiments before Apple's App Store. None received home screen placement. The pattern is consistent with organizational deprioritization, but primary source evidence for the decision rationale has not been found.
+
+---
+
+**Most important remaining unknowns:**
+
+- U8a: What did Nokia leadership explicitly believe about software ecosystems in 2005-2007? (Primary source needed)
+- U5a: Was Nokia's fear of Samsung a post-hoc rationalization or a contemporaneous belief? (Elop quote is from 2013)
+- U4: What organizational barriers prevented execution — structure, incentives, or belief?
+
+**Next step:**
+H4 (Organizational Constraint) is next. The evidence gathered from H2, H3, U5, and U8 has created enough surface area to investigate it with specific questions rather than generic inquiry.
