@@ -268,19 +268,49 @@ Insufficient alone.
 
 ---
 
+**H2-E05 (H2-Q5: Were criticisms rare or common before IPO? / H2-Q6: Did skeptics identify failure modes in advance?)**
+
+Observation:
+Scott Galloway, NYU Stern marketing professor, publicly called WeWork "arguably the most overvalued company in the world" on May 27, 2017 — over two years before the S-1 filing. His specific critique: WeWork was receiving a valuation of approximately $550,000 per customer, a figure he characterized as a "consensual hallucination between the company and its investors." This statement is dated, named, and mechanism-specific.
+
+Interpretation:
+This is pre-S-1 criticism (May 2017) that identifies valuation disconnection from customer economics — not vague skepticism but a specific per-unit claim. It predates the August 2019 S-1 by more than two years. The "consensual hallucination" framing also identifies narrative as the sustaining mechanism, not economic fundamentals.
+
+Potential impact on hypotheses:
+Against H2. A credible, named observer identified specific economic concerns in 2017 — well before the S-1 made the data universally available. Criticism was neither rare nor post-hoc for those applying standard valuation analysis. Partially supports H5: language like "consensual hallucination" implies the mechanism was narrative maintenance, not genuine economic belief.
+Insufficient alone.
+
+---
+
+**H2-E06 (H2-Q6: Did skeptics identify failure modes in advance? / H2-Q1: How were flexible-office economics understood 2010–2018?)**
+
+Observation:
+In April 2018 — 16 months before the S-1 filing — Bloomberg published two pieces using WeWork's first-ever bond offering documents as the source. The first piece (April 24, 2018) was specifically headlined "The $18 Billion Rent Bill: The Numbers Behind WeWork's Empire," detailing the company's $18 billion in committed lease obligations. The second piece (April 25, 2018, Bloomberg Opinion) titled "WeWork's Junk Bond Adventure Raises $18 Billion Question" explicitly named the duration mismatch: WeWork owed $5 billion through 2022 and $13 billion more in 2023 and later on existing lease commitments, while customers "could be canceling their monthly leases in droves." The bond offering also revealed a 2017 net loss of $884 million on $822 million in revenue.
+
+Interpretation:
+The specific structural mechanism — long-term lease obligations against short-term member cancellability — was named in print by a major financial publication in April 2018, derived from publicly available bond offering documents. This is not hindsight. It is contemporaneous analysis using data WeWork itself disclosed. The mechanism identified (duration mismatch creating asymmetric recession risk) is the same mechanism later cited as central to the collapse.
+
+Potential impact on hypotheses:
+Strong against H2. The lease duration mismatch was not discovered in the S-1 — it was available and named from the April 2018 bond offering documents. Any analyst reading the offering memorandum had access to the $18B liability figure, the lease term structure, and the short-term member contracts. Criticisms were neither rare nor post-hoc — they were published in real time as data became available. H2 (industry blindness) requires that observers could not reasonably have seen this. The evidence shows they could and some did.
+Insufficient alone.
+
+---
+
 ## Current Position
 
-Status: Uninvestigated (H2 evidence gathering in progress)
+Status: H2 evidence gathering in progress
 
-H2 early pattern:
-Criticisms rapid and specific once S-1 was public (2019). IWG/Regus provided comparison model throughout WeWork's growth. Early investors sold before collapse. Key structural flaw (lease mismatch) analytically derivable from public information.
+H2 assessment (provisional, not final):
+Five of six evidence entries weaken H2. The category was understood (IWG existed as a profitable comparison). The lease mismatch was analytically derivable. It was publicly named by Bloomberg in April 2018, 16 months before the S-1. A named observer (Galloway) called WeWork the most overvalued company in the world in May 2017. Early investors (Benchmark) sold shares before collapse.
 
-H2 is not strengthening so far. The evidence suggests the category was understood, a comparison model existed, and the structural flaw was visible to analysts applying standard methods.
+H2 is substantially weakened. The dominant form of H2 — "observers could not reasonably have seen the problems" — is no longer consistent with the evidence. The question was not whether the information existed. It existed. The question is why it was ignored by late-stage capital.
 
-Open question (critical):
-Were these concerns raised and visible between 2015–2018, or only after the S-1 triggered scrutiny in 2019? Timing matters enormously for whether H2 survives.
+Transition question:
+If H2 is weakening, what explains the sustained $47B valuation? Options:
+- H4: Organizational constraints prevented correction
+- H5: Narrative mechanisms sustained belief against available evidence
+- Both simultaneously
 
-Next:
-Search for pre-2019 criticism, analyst skepticism, and whether lease liability concerns were raised publicly before the IPO filing.
+Next: Document what late-stage investors (SoftBank) stated as their rationale for the valuation (H2-Q4). Then determine whether H3 (external discontinuity) has any remaining force before assessing H4 and H5.
 
-No hypothesis has earned support. No hypothesis has been rejected. Investigation continues.
+No hypothesis has earned support. No hypothesis has been rejected. H2 is weakening. Investigation continues.
