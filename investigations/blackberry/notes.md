@@ -750,6 +750,39 @@ Outcome evaluation kept separate to prevent hindsight contamination. Predictions
 
 ---
 
+**BlackBerry Artifact #9**
+
+**Source:** TD Newcrest technology conference, Toronto, April 2010. Reported Engadget (April 16, 2010), CrackBerry (updated with full context). Note: initial summary reports may have simplified his position; fuller transcript context shows more nuanced framing.
+**Date:** April 2010
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public investor/technology conference keynote. Seventeen months post-Storm launch; eleven months post-Storm failure documentation.
+
+**Statements:**
+- Neither a touchscreen-only nor a QWERTY-only handset fully satisfies enterprise and consumer needs
+- Many customers of touchscreen phones intend to switch to a QWERTY device; touchscreen alone unable to provide needed convenience for daily tasks
+- Tablet market: "not clear yet"
+
+> **Observation:** April 2010, seventeen months after Storm launch and eleven months after Storm failure documented, Lazaridis made specific claims about consumer behavior at an investor conference. The position is more nuanced than "keyboards only" — neither form factor alone wins; users will seek QWERTY eventually. Tablet market characterized as unclear.
+> **Interpretation:** First Lazaridis prediction artifact. Equivalent in structure to Balsillie's Artifact #8. Specific falsifiable claims: (1) touchscreen-only users will return to QWERTY, (2) neither form factor alone satisfies, (3) tablets unclear. Sourcing note: initial reports may have condensed position; fuller context suggests more nuanced framing. Recording based on fuller-context version. Evaluation deferred to prevent hindsight contamination.
+> **Potential impact on hypotheses:** H4 gains pressure — April 2010 model predicts consumer behavior (QWERTY return) that market did not validate. H3 still active — position could reflect engineering judgment on usability rather than demand model error. H5 active — investor conference setting may shape public statement.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (touchscreen adoption acknowledged as real)
+- Implication: Yes — neither form factor alone satisfies; consumers will migrate back to QWERTY
+- Revision: Not observed
+- Decision: Not established from this artifact
+- **Chain stopped at: Implication (forward-looking prediction about consumer behavior)**
+
+**Predictions recorded (not yet evaluated):**
+- Prediction P3: Touchscreen-only users will switch to QWERTY devices
+- Prediction P4: Neither touchscreen-only nor QWERTY-only fully satisfies user needs
+- Prediction P5: Tablet market not yet clear (April 2010)
+
+**Sourcing note:** Reports differ on exact wording; full transcript context differs from initial summaries. Classification based on conservative, fuller-context version.
+
+---
+
 ## New Distinction Emerging (Not a Hypothesis, Not Promoted)
 
 BlackBerry is quietly separating two capabilities that the investigation had been treating as one:
