@@ -381,7 +381,20 @@ All entries follow mandatory format:
 
 ---
 
-### H2 Evidence
+### H2-C Evidence
+
+---
+
+**H2-C-E01 — GE Power Segment: Q1 2017 vs Q2 2017 Reversal**
+
+> **Observation:** In Q1 2017, GE's Industrial segment operating profit increased 9% year-over-year. Power segment specifically reported profit UP 39% year-over-year, with publicly stated assessment: "Power's fundamentals are particularly strong." In Q2 2017, just 90 days later, Industrial segment operating profit decreased 4% year-over-year. Power segment specifically reported profit DOWN 10% year-over-year despite revenues UP 5%. This reversal occurred under Immelt's leadership (he departed June 2017, between the two quarters). Flannery arrived August 2017 and inherited this reality.
+> **Interpretation:** The Q1 2017 public assessment of Power segment fundamentals as "particularly strong" was contradicted by Q2 2017 results just 90 days later. This suggests either: (A) the deterioration happened extremely rapidly between quarters (market shock), or (B) Q1 2017's view was incomplete or optimistic relative to actual divisional reality. Immelt's team issued Q1 earnings showing confidence, then departed. Flannery arrived to Q2 deterioration already underway. The evidence is consistent with corporate leadership holding a fragmented or overly optimistic model of Power segment condition — they saw strong profits in Q1 but missed the underlying margin deterioration that became obvious in Q2.
+> **Potential impact on hypotheses:** Supports H2-C. The internal visibility question is partially answered: Power's numbers were reported to corporate in Q1. But the interpretation appears to have been overly optimistic. Different parts of the organization may have understood the deterioration differently — divisional operations level may have been seeing margin pressure in Q1 that didn't surface until Q2 corporate reporting. The speed of the reversal (39% up to 10% down in 90 days) suggests either a genuine external market shock or a gap between how divisional realities and corporate assessments aligned.
+> Insufficient alone.
+
+---
+
+### H2 Evidence (H2-A/B)
 
 ---
 
