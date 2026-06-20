@@ -738,12 +738,49 @@ This separates H3, H4, H5 instead of accumulating pressure on all three simultan
 - Decision: Prior (PlayBook already underway)
 - **Chain stopped at: Implication (forward-looking prediction)**
 
-**Predictive performance test (partial answer):**
-- Balsillie's Flash prediction: directionally wrong
-- Balsillie's 7-inch tablet prediction: partially right, did not vindicate RIM
-- Balsillie's model-level diagnosis (Artifact #5: "not dominant anymore"): correct direction
-- Balsillie correctly identified the problem; incorrectly identified the solution
+**Predictions recorded (not yet evaluated):**
+- Prediction P1: 7-inch tablets will be a large portion of the market
+- Prediction P2: Adobe Flash support matters to customers
 
-**This means:** Predictive performance is not uniform across Balsillie's model. He was better at diagnosing competitive position than at identifying the right product response. This does not yet establish that Lazaridis's model was better or worse at either task.
+Outcome evaluation kept separate to prevent hindsight contamination. Predictions are recorded here as made. Comparison to reality logged when both models have been exposed to the same standard.
+
+**What Artifact #8 wounds:** A hidden assumption beginning to form — "Balsillie revised → therefore Balsillie understood." A leader can correctly diagnose decline (Artifact #5: "not dominant anymore") and still produce poor forward predictions. Diagnosis and Prediction are different capabilities. The artifact separates them.
 
 **Lazaridis predictive performance still needed** to complete the comparison.
+
+---
+
+## New Distinction Emerging (Not a Hypothesis, Not Promoted)
+
+BlackBerry is quietly separating two capabilities that the investigation had been treating as one:
+
+**Diagnosis:** Accurately reading current competitive position
+**Prediction:** Accurately forecasting what follows from that position
+
+Artifact #5 showed Balsillie diagnosing: "We are no longer dominant."
+Artifact #8 asks: What future did Balsillie predict follows from that diagnosis?
+
+These do not necessarily travel together.
+
+A leader can:
+- Diagnose correctly and predict correctly → learning from reality
+- Diagnose correctly and predict incorrectly → seeing the problem, wrong about the solution
+- Diagnose incorrectly and predict incorrectly → not learning from reality
+- Diagnose incorrectly and predict correctly → wrong model, right outcome (luck or coincidence)
+
+GE's parallel distinction: Information vs. Understanding (data visible, model wrong)
+BlackBerry's emerging distinction: Diagnosis vs. Prediction (decline recognized, future misread)
+
+These are different pressure points. The fact that they differ is what makes BlackBerry a distinct case.
+
+**Current Predictive Performance State:**
+
+Balsillie:
+- Diagnosis: Some evidence of accuracy (Artifact #5)
+- Prediction: Unresolved (Artifact #8 predictions recorded, not yet evaluated)
+
+Lazaridis:
+- Diagnosis: Unresolved
+- Prediction: Not yet tested
+
+**Not yet established:** Which model learned better. The investigation has not earned "Balsillie good / Lazaridis bad."
