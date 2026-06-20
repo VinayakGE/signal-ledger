@@ -296,21 +296,33 @@ Insufficient alone.
 
 ---
 
+**H2-E07 (H2-Q4: Which investors invested and why?)**
+
+Observation:
+In January 2019 — nine months after Bloomberg's April 2018 "$18 Billion Rent Bill" article — SoftBank announced a $2 billion additional investment in WeWork at a $36B valuation. Masayoshi Son's stated public rationale: "WeWork is disrupting a multi-trillion-dollar industry with a technology platform that provides a complete solution for space needs. WeWork has already experienced unparalleled growth and we are confident that with Adam's vision and this growth capital the company will be able to aggressively pursue the enormous market opportunity ahead of them." Variables present in Son's statement: "technology platform," "disrupting," "multi-trillion-dollar industry," "Adam's vision," "enormous market opportunity." Variables absent from Son's statement: lease obligations, occupancy rates, unit economics, cash burn, duration mismatch. Separately, reporting confirms that Son overrode objections from his lieutenants and board in authorizing these investments; specific content of those objections is not publicly documented.
+
+Interpretation:
+Son's stated rationale and Bloomberg's April 2018 analysis are tracking categorically different variables. Bloomberg in April 2018 was analyzing lease duration, $18B liability, occupancy requirements. Son in January 2019 was discussing technology disruption, platform economics, market size, and founder vision. This is not a disagreement about conclusions on the same variables. The framing itself differs. Additionally, Son's stated rationale postdates Bloomberg's mechanism-specific criticism by nine months, meaning the lease analysis was available before the additional $2B commitment.
+
+Potential impact on hypotheses:
+This is the first observation that raises a variable-divergence question. It does not establish H5. It establishes that at least the public-facing framing of Son's rationale and the critics' framework were tracking different things at the same time the mechanism-specific criticism was already public. The lieutenant override adds a second observation: known concerns existed internally at SoftBank that Son dismissed. That pattern is relevant to H4. Neither observation is sufficient alone to move any hypothesis.
+Insufficient alone.
+
+---
+
 ## Current Position
 
-Status: H2 evidence gathering in progress
+Status: H2 assessment near sufficient. H3 not yet investigated. H4 and H5 not yet investigated.
 
-H2 assessment (provisional, not final):
-Five of six evidence entries weaken H2. The category was understood (IWG existed as a profitable comparison). The lease mismatch was analytically derivable. It was publicly named by Bloomberg in April 2018, 16 months before the S-1. A named observer (Galloway) called WeWork the most overvalued company in the world in May 2017. Early investors (Benchmark) sold shares before collapse.
+H2 pattern (seven entries):
+Criticisms rapid and specific once S-1 public (2019). IWG provided profitable comparison model throughout growth period. Lease mismatch analytically derivable from publicly available information. Bloomberg named $18B lease liability and duration mismatch in April 2018 — 16 months before S-1. Galloway named valuation disconnection in May 2017. Early investors (Benchmark) sold shares before collapse. Son's January 2019 stated rationale tracked categorically different variables than April 2018 critics, and postdated the mechanism-specific criticism.
 
-H2 is substantially weakened. The dominant form of H2 — "observers could not reasonably have seen the problems" — is no longer consistent with the evidence. The question was not whether the information existed. It existed. The question is why it was ignored by late-stage capital.
+H2 assessment (earned, not final):
+H2 in its dominant form — "observers could not reasonably have identified the mechanisms" — is substantially weakened. The evidence shows: the category was understood (IWG), the mechanism was analytically derivable, it was publicly named before the S-1, and sophisticated critics identified it in real time. H2 is not eliminated — absence of evidence of widespread concern in 2015-2016 leaves partial space. But the strongest form of H2 does not survive the Bloomberg April 2018 finding.
 
-Transition question:
-If H2 is weakening, what explains the sustained $47B valuation? Options:
-- H4: Organizational constraints prevented correction
-- H5: Narrative mechanisms sustained belief against available evidence
-- Both simultaneously
+Variable divergence observation (not a finding):
+The gap between Son's stated rationale variables ("technology platform," "disruption," "Adam's vision") and critics' variables ("$18B lease obligation," "duration mismatch," "occupancy requirements") is a clean observation. It does not establish H5. It earns the right to investigate H5.
 
-Next: Document what late-stage investors (SoftBank) stated as their rationale for the valuation (H2-Q4). Then determine whether H3 (external discontinuity) has any remaining force before assessing H4 and H5.
+Next: Investigate H3 (External Discontinuity) before opening H4 or H5. The discipline requires completing the frozen hypothesis sequence. H3 asks: did the collapse result from an external event that made an otherwise viable business fail, rather than from pre-existing structural fragility?
 
-No hypothesis has earned support. No hypothesis has been rejected. H2 is weakening. Investigation continues.
+No hypothesis has earned support. No hypothesis has been rejected. H2 is substantially weakened. Investigation continues.
