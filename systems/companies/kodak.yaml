@@ -1,0 +1,45 @@
+system: Kodak
+date_logged: 2026-06-20
+outcome_known: true
+
+growth_source: |
+  Through 1990s-2000s: Film sales (Kodak color film)
+  After 2005: Imaging (printers), Services, Government contracts
+  Declining: Film revenue consistently down year-over-year
+
+signal: |
+  Operating margins collapsed from ~20% (2000) to <5% (2008)
+  while revenue remained "stable" around $10B.
+
+  Indicator: Heavy R&D spending on digital (imaging, printing)
+  produced negligible revenue growth or margin expansion.
+
+  By 2008: Despite ~$3B cumulative R&D in digital,
+  digital imaging revenue was <10% of total.
+
+  Pattern: Revenue flat/declining, but cost structure not adjusted.
+  Margin squeeze via fixed-cost burden, not demand shock.
+
+break_condition: |
+  2012 bankruptcy.
+  Last profitable year: 2007.
+  By 2011: Quarterly losses routine.
+
+confidence: high
+
+contradictions: |
+  Kodak WAS innovating (digital camera, inkjet).
+  Kodak DID recognize the threat early.
+  But capital allocation failed: R&D spend ≠ revenue scale.
+
+  Common narrative: "Kodak ignored digital."
+  Reality: Kodak invested heavily, but core business (film)
+  was shrinking faster than new business (imaging) could scale.
+
+what_would_disprove_this: |
+  If signal quality remained healthy until shortly before bankruptcy,
+  the False Acceleration hypothesis fails.
+
+  Specifically: If margins stayed above 10% through 2010,
+  or if film revenue decline was offset by imaging growth,
+  the acceleration story would hold.
