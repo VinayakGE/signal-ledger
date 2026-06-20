@@ -246,6 +246,24 @@ All entries follow mandatory format:
 > **Potential impact on hypotheses:**
 > Insufficient alone.
 
+## H2 Attack Questions
+
+*Pre-registered before any sources opened. These questions must be answered before H2 can be assessed.*
+
+**H2-Q1:** Were key risks visible somewhere inside GE before they became public? If risks were visible at any level of the organization, the question becomes one of transmission, not existence.
+
+**H2-Q2:** Did different parts of GE hold contradictory views of the same reality? If divisions understood their own deterioration while corporate reporting showed health, H2 gains traction.
+
+**H2-Q3:** Were warning signals transmitted upward? If signals existed internally but were not passed to leadership, organizational structure suppressed them. If they were passed, H2 weakens and H1 gains.
+
+**H2-Q4:** Did organizational complexity delay, distort, or suppress those signals? Specifically: were there identifiable structural mechanisms — layers, reporting conventions, metrics selection — that degraded signal quality in transmission?
+
+**H2-Q5:** Can external observers identify instances where internal reporting and external reality diverged? A gap between what GE reported externally and what was happening operationally would suggest either H2 (complexity prevented accurate reporting) or H3 (financial engineering suppressed it). The mechanism distinguishes them.
+
+**H2-Q6:** Did simplification efforts later reveal problems that were previously hidden? When GE Capital was wound down and GE's business units separated, did previously invisible problems surface? If yes, H2 gains — the complexity itself was concealing them.
+
+---
+
 ### H4 Evidence
 
 ---
@@ -310,3 +328,9 @@ All entries follow mandatory format:
 > **Interpretation:** The industrial segment showed real growth through 2014, decelerated sharply in 2015, and began declining in H1 2016 — 12 to 18 months before the November 2017 crisis. This trajectory was observable in real time through published quarterly earnings. The Alstom acquisition (2015) is a confound — integration effects and restructuring charges may have affected reported organics — but the direction of the trend is not obscured.
 > **Potential impact on hypotheses:** Against H4 on the "metrics remained healthy until external disruption" prediction. The deceleration and decline were observable 12-18 months before the crisis from sequential earnings releases. However, H4-E04 confirms genuine industrial health through 2014, so the "viable before external disruption" component of H4 has partial support for the pre-2015 period. The question becomes: when did the decline begin relative to the identifiable external triggers? Power generation market decline started 2012-2013 (H4-E03). Industrial organic revenue began declining H1 2016 — a multi-year lag from the market structural shift.
 > Insufficient alone.
+
+---
+
+### H2 Evidence
+
+*No evidence gathered yet. Attack questions frozen above.*
