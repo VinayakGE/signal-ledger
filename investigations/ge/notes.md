@@ -517,3 +517,86 @@ All entries follow mandatory format:
 > **Interpretation:** "Inadequate disclosure controls" is a structural verdict. It points to organizational failure to maintain systems that would catch and surface material information — consistent with H2's claim that complexity degraded signal transmission. However, inadequate controls can result from deliberate under-resourcing of oversight functions (consistent with H3 or C) as well as from genuine organizational complexity overwhelming control systems (consistent with H2). The SEC finding names the structural failure without identifying its cause.
 > **Potential impact on hypotheses:** Partially supports H2. The inadequate disclosure controls finding is the most direct external validation that GE's organizational structure failed to accurately surface and transmit material information — the core H2 claim. However, the finding does not establish whether the inadequacy resulted from complexity (H2) or from deliberate management choices (H3/C). H2 gains partial support from the structural diagnosis; the mechanism driving the inadequacy remains unresolved.
 > Insufficient alone.
+
+---
+
+## Investigation Checkpoint — H2-C Attack Sequence Setup Complete
+
+**Date:** June 20, 2026
+
+**Status:** Awaiting evidence
+
+**Reason:** Evidence inaccessible (environment network constraint)
+
+---
+
+**H2-C Investigation Status**
+
+**H2-C:**
+Alive
+
+**Primary Falsifier:**
+Named — Evidence that Immelt already integrated the implications of the energy transition into revised assumptions and decisions
+
+**Attack Surface:**
+Defined — Recognition → Implication → Assumption Revision → Decision
+
+**Search Protocol:**
+Frozen — Classification ladder established; no further framework refinement
+
+**Artifact Count:**
+0
+
+**Classified Artifacts:**
+0
+
+**Evidence Status:**
+Unavailable — Primary transcripts inaccessible due to environment network restrictions
+
+**Next Action:**
+Acquire primary artifacts — Full Immelt earnings call transcripts from 2014-2017 (Q3 2015, Q4 2016, Q2 2017 primary targets)
+
+---
+
+**What Has Been Established**
+
+- Core assumption identified: "Demand for natural gas and coal would track global economic growth" (Alstom acquisition rationale, April 2014)
+- Public renewable energy data available before assumption-setting decision (IRENA/EIA/NREL data 2015-2016 documented)
+- Q1-Q2 2017 diagnostic reversal identified: +39% Power profit (Q1) → -10% Power profit (Q2), 90 days apart
+- Flannery model divergence documented: directly contradicts Immelt's assumptions (overcapacity vs. stable growth)
+- Research infrastructure complete: four comprehensive source documents created mapping 50+ transcript URLs and accessibility status
+
+---
+
+**What Has NOT Been Established**
+
+- Any artifact classification (chain stops)
+- Any pattern across multiple artifacts
+- Any wound to H2-C hypothesis
+- Any confirmation of H2-C hypothesis
+
+**Critical Discipline: Awaiting Evidence**
+
+The investigation has reached the legitimate boundary of inference without primary artifacts. The temptation to infer from secondary summaries has been explicitly resisted because:
+
+The distinction between Recognition ("Renewables are growing") and Revision ("Renewables require revised demand assumptions") is exactly what H2-C testing measures. Secondary summaries collapse this distinction.
+
+**Therefore:**
+
+No new inference will be generated.
+No new framework will be developed.
+No new conclusion will be drawn.
+
+Until primary artifacts arrive for classification, the investigation remains intentionally held at the current position.
+
+This is not inactivity. This is disciplinary abstinence from premature synthesis.
+
+---
+
+**Investigation Order (Unchanged)**
+
+H2-C under direct attack (current phase)
+H4 paused
+H3 frozen (awaits H2-C outcome)
+H5 uninvestigated
+H1 default (last resort)
