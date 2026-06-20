@@ -134,9 +134,11 @@ Not yet earned as a formal constraint. Recorded here as a subsidiary pressure po
 
 **Date first recorded:** 2026-06-20
 
-**Status:** Observed. Not earned. Not promoted.
+**Status:** Active pressure point. Earned at moderate strength. Not promoted to constraint.
 
-**Cases generating pressure:** GE (#004), BlackBerry (#005)
+**Cross-case support:** GE (#004), BlackBerry (#005) — independent cases, different industries, different failure modes
+
+**Strength assessment:** Moderate. Two cases. Still vulnerable to later disclosure.
 
 ---
 
@@ -175,11 +177,16 @@ If this boundary appears consistently across independently selected cases, it ha
 
 Signal Ledger is built on the premise that organizational failures can be investigated through publicly available evidence. This pressure point is generating pressure on the boundary of that premise.
 
-The emerging candidate constraint:
+The emerging candidate observation (not yet a constraint):
 
-> Observable selection ≠ observable motivation.
+> Motivations may remain unrecoverable even when structural decisions are observable.
 
-An organization's decisions can be documented. An organization's internal causal process for those decisions may be structurally inaccessible from public evidence — not because the evidence was lost, but because the decisive content (what a specific person believed, or whether a belief was genuine vs. constrained) was never externalized in forms available to the public record.
+This is not a rule. It is an observation under pressure. The difference matters:
+
+- **Rule form:** "Motivations are unrecoverable." — not supported; too strong; closes the search prematurely
+- **Observation form:** "Motivations may remain unrecoverable even when structural decisions are observable." — supported by current evidence; leaves the search open; does not claim permanence
+
+An organization's decisions can be documented. An organization's internal causal process for those decisions may remain inaccessible from public evidence — not necessarily because the evidence was lost, but because the decisive content (what a specific person believed, or whether a belief was genuine vs. constrained) was not externalized in forms that reach the public record.
 
 ---
 
@@ -207,15 +214,17 @@ Until that search is exhausted, the zone is unresolved, not opaque. The distinct
 
 **What Would Strengthen This**
 
-- Multiple cases where repeated searches for decision rationale documentation return only structural descriptions, not motivational ones
-- A pattern where the same evidence (observable selection) consistently supports multiple competing motivational hypotheses, with no available artifact distinguishing them
-- Recognition from primary-source practitioners that this type of internal reasoning is rarely externalized in forms accessible to public evidence
+- Primary decision-maker available → decision directly questioned → motivation withheld. The pattern of active non-disclosure, not merely absence of evidence. BlackBerry has now contributed one instance of this (Lazaridis "declined to speak about board matters").
+- Multiple cases where the same pattern holds: observable structural sequence + explicit refusal or non-externalization at the primary-source level
+- Different failure modes (not just organizational decline) producing the same Zone A boundary — suggesting the boundary is domain-general rather than specific to corporate governance
 
 **What Would Weaken This**
 
-- Discovery of bridging artifacts in GE or BlackBerry that establish internal motivation from primary sources
-- A future case where the organizational selection and its internal motivation are both recoverable from public evidence (which would suggest the boundary is contingent on the specific cases, not structural)
-- Evidence that the two instances above are not actually comparable — that GE's opacity and BlackBerry's opacity arise from different mechanisms
+The weakening condition is now more precise than "find a bridging artifact somewhere."
+
+Specifically: A case where the structural sequence is observable **and** a later interview, memoir, board document, or email makes the internal motivation recoverable **and** that motivation can be checked against contemporaneous evidence (not just a post-hoc narrative the speaker could have constructed after knowing the outcome).
+
+One strong example of that form would wound PP#002 directly. The key is the checkability — post-hoc narratives do not bridge Zone A because the speaker's knowledge of the outcome may have shaped their memory of the motivation.
 
 ---
 
@@ -225,11 +234,24 @@ A search was conducted for primary-source documentation of why Lazaridis/Heins r
 
 **Finding 1 — Heins's stated model:** "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing." (2012–2013, BlackBerry World and pre-BB10 launch). This documents what Heins believed, not what generated that belief. Zone A-partial: model expressed, motivation behind model not established.
 
-**Finding 2 — Lazaridis explicit refusal:** When the BBM rejection became public (Globe and Mail, September 2013), Lazaridis "declined to speak about board matters." The primary decision-maker was available and declined. This is an active opacity, not a preservation gap.
+**Finding 2 — Lazaridis explicit refusal:** When the BBM rejection became public (Globe and Mail, September 2013), Lazaridis "declined to speak about board matters." The primary decision-maker was available and declined.
 
-**Interim conclusion:** Zone A for this specific question (why Lazaridis supported killing BBM) is opaque due to explicit primary-source refusal, not evidentiary absence. The distinction matters: it is a tighter claim than "we couldn't find the evidence."
+**The key distinction this finding introduces:**
 
-Further search targets exist (post-BlackBerry Lazaridis interviews, court records, published memoirs) and have not been exhausted. Zone A remains unresolved, not permanently closed.
+Before the search, Zone A looked like: *Unknown because unavailable.*
+
+After the search, it looks like: *Unknown despite direct opportunity for disclosure.*
+
+These are different epistemic states. The second is more informative than the first.
+
+- **"No evidence found"** — could reflect incomplete search, poor indexing, evidence not preserved
+- **"Evidence of deliberate non-disclosure"** — primary source present, directly questioned, motivation withheld
+
+The second is a fact about the opacity, not merely a fact about the search. The investigation did not fail to find the evidence. The evidence was actively kept internal.
+
+**Interim conclusion:** Zone A for this specific question (why Lazaridis supported killing BBM) is opaque due to explicit primary-source refusal, not evidentiary absence. This narrows the reason for opacity — it is a tighter claim than "we couldn't find the evidence."
+
+**Caution:** This does not upgrade Zone A to "permanently closed." Further search targets remain (post-BlackBerry Lazaridis interviews, court records, published memoirs) and have not been exhausted. The avenue through later disclosure is specifically what PP#002's weakening condition targets. Zone A remains unresolved, not permanently closed.
 
 ---
 
