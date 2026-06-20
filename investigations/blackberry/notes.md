@@ -683,3 +683,34 @@ Three possible outcomes:
 3. Both models repeatedly failed → neither was learning; both were wrong in different ways
 
 This separates H3, H4, H5 instead of accumulating pressure on all three simultaneously.
+
+---
+
+**BlackBerry Artifact #7**
+
+**Source:** BBC television interview, April 13, 2011. Reported by Globe and Mail, TechCrunch, Global News, MacDailyNews. Video clip went viral as BBC's most-viewed video that day.
+**Date:** April 13, 2011
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public — BBC interview. Questions about government interference with BlackBerry security in Middle East and India.
+
+**Quote/Action:** When asked whether RIM had "sorted out" security issues in the Middle East and India: "You implied that we have a security problem; we don't have a security problem." Followed by: "It's over, the interview. You can't use that, it's not fair, it's national security." [Terminated interview]
+
+> **Observation:** In April 2011, Lazaridis was challenged publicly by BBC about BlackBerry's security issues with governments in India and the Middle East. He rejected the premise of the challenge and terminated the interview. The clip went viral.
+> **Interpretation:** The challenge concerns security and government access — not directly smartphone strategy, touchscreen adoption, or consumer demand. What is observable: challenge received, challenge rejected, interview terminated. What is not yet established: whether this reflects model defense about smartphone strategy, media handling behavior, national security concerns about topic sensitivity, or organizational culture.
+> **Potential impact on hypotheses:** Observable: defensive response to external challenge. Probable: consistent with pattern from Artifact #5 (avoiding negative feedback). But similarity is not yet established recurrence — Artifact #5 was internal, this is external, and the subject matter differs. Artifact #7 does not yet separate H4 from H5, and does not answer whether either model was generating better predictions about market reality.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (challenge received)
+- Challenge: Yes
+- Response: Challenge rejected — "we don't have a security problem"
+- Decision: Interview terminated
+- **Chain stopped at: Response to challenge**
+
+**What this artifact clearly shows:** Challenge received. Challenge rejected. Interview terminated.
+
+**What this artifact does NOT show:** Model defense about smartphone strategy specifically. The subject is security/government access, not consumer market. The bridge between this challenge and the smartphone market model has not been established.
+
+**Why superficial similarity to Artifact #5 does not yet establish recurrence:** The interview could reflect personality, media handling practice, genuine national security concern about discussing the topic publicly, organizational culture, or model defense. The artifact alone does not separate these mechanisms.
+
+**What Artifact #7 does NOT answer:** The predictive-performance question. Behavior under challenge ≠ learning from market reality. The load-bearing attack — did either model generate better predictions 2009–2011? — remains open.
