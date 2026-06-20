@@ -531,5 +531,53 @@ Nokia built multiple app distribution experiments before Apple's App Store. None
 - U5a: Was Nokia's fear of Samsung a post-hoc rationalization or a contemporaneous belief? (Elop quote is from 2013)
 - U4: What organizational barriers prevented execution — structure, incentives, or belief?
 
-**Next step:**
-H4 (Organizational Constraint) is next. The evidence gathered from H2, H3, U5, and U8 has created enough surface area to investigate it with specific questions rather than generic inquiry.
+---
+
+## Frozen Investigation Questions
+
+Questions frozen before evidence is gathered. Do not revise after seeing results.
+
+---
+
+**U5 — Samsung vs Nokia (2005–2010)**
+
+Using information available between 2005–2010, what observable differences existed between Samsung's response to smartphones and Nokia's response?
+
+Sub-questions:
+- U5-A: Did Samsung recognize the threat earlier than Nokia?
+- U5-B: Did Samsung allocate capital differently?
+- U5-C: Did Samsung organize software development differently?
+- U5-D: Did Samsung make faster strategic decisions?
+- U5-E: Did Samsung possess information Nokia lacked?
+
+Note: U5-E is the most important. It attacks the assumption that both firms had the same informational environment. If Samsung had meaningfully different information, H2 survives. If they had the same information and acted differently, H2 weakens and H4 strengthens.
+
+---
+
+**U8 — Why did Download! fail to become a strategic platform?**
+
+Nokia operated a mobile app store before the App Store existed. Why did it not become a competitive moat?
+
+Sub-questions:
+- U8-A: Was Download! technically limited (device capability, network speed)?
+- U8-B: Was user adoption weak?
+- U8-C: Was leadership explicitly uninterested?
+- U8-D: Was monetization model poor?
+- U8-E: Was carrier control the bottleneck?
+- U8-F: Did Nokia explicitly deprioritize it in favor of something else?
+
+---
+
+**Evidence protocol (mandatory for every source):**
+
+> Observation:
+> Interpretation:
+> Potential impact on hypotheses:
+
+Final line must always include: "Insufficient alone."
+
+Patterns move hypotheses. Single observations do not.
+
+---
+
+**Next step:** Search for evidence against each sub-question above.
