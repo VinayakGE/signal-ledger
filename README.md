@@ -133,6 +133,7 @@ A notes file graduates to yaml only when:
 |--------|--------|--------------------|
 | Kodak | Audited | T1 (Signal Visible, Response Lagged) |
 | Nokia | Under Investigation | Unresolved |
+| WeWork | Under Investigation | Unresolved — H2 substantially weakened, H3 narrowed, H4/H5 unopened |
 
 ---
 
@@ -141,6 +142,7 @@ A notes file graduates to yaml only when:
 | ID | Statement | Status |
 |----|-----------|--------|
 | H2 | Systems may fail despite visible signals when execution capacity cannot adapt to reality | Candidate — Kodak consistent, Nokia unresolved |
+| H5 | Systems may fail when narrative mechanisms sustain capital allocation against available contrary evidence | Candidate — WeWork investigation opened this question; not yet earned |
 
 ---
 
