@@ -128,4 +128,105 @@ Not yet earned as a formal constraint. Recorded here as a subsidiary pressure po
 
 ---
 
-*No further entries yet.*
+---
+
+## Pressure Point #002 — Observable Selection, Opaque Motivation
+
+**Date first recorded:** 2026-06-20
+
+**Status:** Observed. Not earned. Not promoted.
+
+**Cases generating pressure:** GE (#004), BlackBerry (#005)
+
+---
+
+**Observation:**
+
+In two independent cases, the investigation has recovered an observable organizational event — a choice, a position, a decision — while the internal motivation driving that event has remained opaque to public evidence.
+
+The two instances:
+
+| Case | Observable Event | Opaque Interior |
+|------|-----------------|-----------------|
+| GE | Exposure position established in industrial conglomerates (visible from public filings, analyst records) | Whether Immelt privately understood the risk model being built; whether the exposure position was a deliberate strategic bet or an unexamined assumption |
+| BlackBerry | Alternative model (BBM cross-platform / SMS 2.0) formally developed, reached decision-makers, was rejected by Heins + Lazaridis coalition (visible from contemporaneous reporting, Balsillie's direct public statement) | Whether Lazaridis genuinely believed BB10 was the recovery path, or whether structural commitments (sunk costs, carrier relationships, organizational momentum) made the rejection mechanically inevitable regardless of genuine belief |
+
+In both cases, the investigation can describe **what was selected** and cannot recover **why the selection occurred**.
+
+---
+
+**The Distinction Being Generated**
+
+This is not the same as Nokia's uncertainty.
+
+Nokia's uncertainty: Which competing explanation best accounts for the evidence? (Hypothesis competition; uncertainty about what is true)
+
+GE/BlackBerry's boundary: The organizational event is established. What cannot be established is the internal causal mechanism driving the event. (Motivational opacity within a resolved structural sequence)
+
+These are different types of uncertainty:
+- Nokia: Which story is correct?
+- GE/BlackBerry: We know what happened; we cannot recover why it happened from available evidence.
+
+---
+
+**Why This May Matter**
+
+If this boundary appears consistently across independently selected cases, it has implications for what Signal Ledger can and cannot claim.
+
+Signal Ledger is built on the premise that organizational failures can be investigated through publicly available evidence. This pressure point is generating pressure on the boundary of that premise.
+
+The emerging candidate constraint:
+
+> Observable selection ≠ observable motivation.
+
+An organization's decisions can be documented. An organization's internal causal process for those decisions may be structurally inaccessible from public evidence — not because the evidence was lost, but because the decisive content (what a specific person believed, or whether a belief was genuine vs. constrained) was never externalized in forms available to the public record.
+
+---
+
+**The Constraint Is Falsifiable**
+
+This is not a philosophical statement. It is an empirical one, and it can be attacked.
+
+**Bridging artifacts:** If a board memo, executive communication, or contemporaneous interview explicitly states the internal reasoning for a decision in enough detail to distinguish genuine belief from structural constraint, the boundary weakens. The investigation should actively search for such artifacts before accepting the boundary as closed.
+
+**The test:** Search explicitly for decision rationale documentation — not just descriptions of what was decided, but primary-source statements of why the specific decision was made as opposed to the alternative. If such artifacts exist and repeatedly clarify the motivation-structure relationship, Zone A is not opaque — it is merely difficult. If such artifacts are searched for and not found across multiple cases, the boundary earns empirical weight.
+
+Until that search is exhausted, the zone is unresolved, not opaque. The distinction matters.
+
+---
+
+**Alternative Explanations**
+
+**Insufficient investigation:** The motivation may be recoverable from sources not yet accessed — internal documents obtained via journalism, court records, congressional testimony, executive memoirs. Absence of evidence is not evidence of absence.
+
+**Publication bias:** Executives who experienced these events may have given interviews explaining their internal reasoning. These may not have been indexed by search engines or accessible to WebSearch.
+
+**Zone A may be partially bridgeable:** Even if full internal motivation is not recoverable, specific evidence (e.g., Lazaridis saying "I genuinely believed BB10 would work" vs. "We had no choice given our commitments") could narrow the uncertainty substantially without eliminating it.
+
+---
+
+**What Would Strengthen This**
+
+- Multiple cases where repeated searches for decision rationale documentation return only structural descriptions, not motivational ones
+- A pattern where the same evidence (observable selection) consistently supports multiple competing motivational hypotheses, with no available artifact distinguishing them
+- Recognition from primary-source practitioners that this type of internal reasoning is rarely externalized in forms accessible to public evidence
+
+**What Would Weaken This**
+
+- Discovery of bridging artifacts in GE or BlackBerry that establish internal motivation from primary sources
+- A future case where the organizational selection and its internal motivation are both recoverable from public evidence (which would suggest the boundary is contingent on the specific cases, not structural)
+- Evidence that the two instances above are not actually comparable — that GE's opacity and BlackBerry's opacity arise from different mechanisms
+
+---
+
+**Relationship to Pressure Point #001 (Backward Excavation)**
+
+Pressure Point #001 observes that cases push the investigation toward earlier causal stages.
+
+Pressure Point #002 may be observing the epistemic consequence of reaching those early stages: the further back the causal chain goes, the less likely it is that the internal decision-making is documented in forms accessible to external investigation.
+
+If this relationship holds, the backward excavation of PP#001 naturally terminates at a Zone A boundary — not because investigation stops, but because public evidence ends.
+
+That would make PP#001 and PP#002 structurally connected — one describing a direction of travel, the other describing a wall it may be approaching.
+
+That connection is not yet earned. Recorded here for future pressure testing.
