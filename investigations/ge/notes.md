@@ -100,7 +100,57 @@ GE's institutional complexity degraded signal transmission. Problems existed but
 **Would weaken if:**
 Leadership had accurate operational information and chose not to act on it.
 
-**Status:** Under investigation — first evidence batch gathered (H2-E01 through H2-E04). Pattern emerging: evidence of organizational control failures (inadequate disclosure controls, CP target exceedance) partially supports H2. But the most visible signals — LTC insurance cost-lowering despite known trends, LTSA profit manipulation — look more like active management decisions than passive complexity-induced blindness. H2 and H3 may both be partially active. The key question is whether the signal degradation was internal (H2) or external-facing only (H3). Not yet resolved.
+**Status:** Under investigation — first evidence batch gathered (H2-E01 through H2-E04). Original form substantially pressured. H2-C remains as live survival path. Requires direct attack before H3 opens.
+
+---
+
+### H2 Decomposition
+
+The original H2 claim bundles three distinct sub-hypotheses:
+
+**H2-A — No Signals Existed**
+
+Claim: The problems GE faced were genuinely not visible to anyone inside the organization.
+
+Status: Substantially weakened by H2-E02 (LTC risks "internally acknowledged" 2015-2016) and H2-E03 (LTSA decisions required active cost estimate changes).
+
+**H2-B — Signals Existed But Never Reached Leadership**
+
+Claim: Divisional units understood their deterioration, but organizational structure prevented transmission to corporate leadership.
+
+Status: Substantially weakened by H2-E02 and H2-E04 (SEC finding of "inadequate disclosure controls" implies some organizational awareness at an observable level; LTC and LTSA decisions involved levels capable of affecting consolidated reporting).
+
+**H2-C — Signals Reached Leadership But Could Not Be Assembled Into Coherent Understanding**
+
+Claim: Pieces of the problem were known at various organizational levels, including corporate. But organizational complexity and structure prevented leadership from synthesizing these pieces into an accurate model of GE's actual condition.
+
+Status: Not yet directly attacked. Remains live and internally consistent with evidence gathered so far.
+
+**Why H2-C Survives Current Evidence:**
+
+The evidence shows internal visibility ("known continuing trends," corporate-level cost decisions on LTSAs) but external non-disclosure. This is consistent with:
+- Leadership understood pieces but not the whole
+- Different business units painted contradictory pictures
+- No one at the top held an integrated model
+- Decisions were made on partial information
+
+None of the current evidence directly contradicts this scenario. It merely suggests external boundary-management occurred afterward.
+
+---
+
+### H2-C Attack Questions
+
+*Pre-registered before opening sources targeting H2-C specifically. These questions directly test whether corporate leadership could assemble a coherent picture of GE's actual condition.*
+
+**H2-C-Q1:** Did different business units forecast contradictory futures from GE's perspective? If Power unit was forecasting decline while Capital was planning for stability, and these forecasts were never reconciled at the corporate level, that supports H2-C.
+
+**H2-C-Q2:** Did leadership repeatedly express public or private surprise at outcomes that should have been predictable from integrated divisional data? A pattern of "we didn't see that coming" despite divisional visibility would support H2-C.
+
+**H2-C-Q3:** Did simplification efforts (GE Capital wind-down, business unit separation 2017-2018) reveal previously unseen dependencies or hidden problems that integrated organizational data should have surfaced? If separation revealed problems no one knew about, that supports H2-C.
+
+**H2-C-Q4:** Did post-Immelt investigations (Flannery's 2017 discovery period, new leadership reviews) uncover problems known to divisions but never successfully communicated upward to form a coherent corporate understanding? Flannery discovering "things the organization didn't know it contained" vs. "things the organization knew but didn't act on."
+
+**H2-C-Q5:** Were board-level discussions operating with materially different assumptions about GE's condition than divisional realities? Board minutes, investor meetings, board presentations vs. divisional forecasts—evidence of model divergence rather than signal absence.
 
 ---
 
@@ -118,7 +168,7 @@ GE Capital and financial engineering mechanisms created apparent health metrics 
 **Would weaken if:**
 GE's financial reporting accurately reflected operational health in the years before collapse.
 
-**Status:** Uninvestigated
+**Status:** Not yet opened. H2-C must be directly attacked first. Current evidence (LTC disclosures, LTSA accounting, inadequate disclosure controls) resembles H3 predictions but H3 battlefield remains frozen until H2's surviving path is exhausted. This prevents the current evidence from emotionally framing H3 investigation.
 
 ---
 
