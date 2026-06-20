@@ -1234,3 +1234,151 @@ H5: Regained force — alternative model existed, was killed by institutional co
 H4/H5: Genuinely entangled; may not be resolvable from available public evidence
 
 **Preferred Explanation:** None
+
+---
+
+## Methodological Checkpoint — Irreducible Zones
+
+After Artifact #14, the investigation can distinguish two different zones where uncertainty may be permanent. This distinction changes what counts as "resolution."
+
+### Irreducible Zone A: Motivation
+
+**Question:** Why did Lazaridis support killing BBM Platform?
+
+**Possible answers:**
+- Genuine conviction that BB10 was the path
+- Sunk commitments to hardware/OS strategy
+- Identity attachment (founder of BlackBerry)
+- Board or investor pressure
+- Execution concerns (couldn't execute both)
+- Organizational incentive structures
+
+**Status:** Opaque. Public evidence cannot separate these. This is the classic internal-interpretation problem that GE exposed. Access to Lazaridis's private reasoning, board minutes, or personal correspondence might resolve it. Public evidence will not.
+
+**Why this is not the strongest observation:** Claims about Zone A (Lazaridis chose wrong; Lazaridis was constrained) require access to internal states the investigation does not have.
+
+### Irreducible Zone B: Structure
+
+**Question:** What happened when an alternative model appeared?
+
+**Observable sequence (established):**
+1. Alternative model existed — BBM cross-platform / SMS 2.0
+2. Alternative model was formally developed — not speculative, formally built
+3. Alternative model reached decision-makers — pitched to Balsillie (co-CEO), reached Lazaridis and Heins (board/CEO)
+4. Alternative model was rejected — killed weeks after Heins took over
+5. Existing model survived — BB10 strategy continued
+
+**Status:** Observable. Not opaque. The sequence is recoverable from available evidence.
+
+**Why this is the strongest observation:** Does not require access to Lazaridis's mind. Does not require assumptions about his internal conviction or constraints. Requires only documentation of what happened.
+
+---
+
+## The Asymmetry with Prior Cases
+
+**Kodak Investigation #001:**
+- Type: Closure
+- Finding: Organization understood the problem; failed to execute response
+- Zone: Motivation (internal state) was interpretable from evidence
+
+**Nokia Investigation #002:**
+- Type: Structured uncertainty
+- Finding: Multiple competing causal hypotheses; no clean resolution
+- Zone: Both motivation and structure remain contested
+
+**WeWork Investigation #003:**
+- Type: State-space refinement
+- Finding: Expanded understanding of what "model failure" means in founder-led private companies
+- Zone: Motivation (founder's self-narrative) partly observable; structure (incentive misalignment) partly observable
+
+**GE Investigation #004:**
+- Type: Model-failure pressure test (active)
+- Finding: Information available but model disputed (gap between data visible and model held)
+- Zone: Model motivation (why Immelt held this model) is the open question; zone A
+
+**BlackBerry Investigation #005 (emerging):**
+- Type: Selection without explanation
+- Finding: Alternative existed, was considered, was rejected. Reason for rejection not recoverable.
+- Zone: Structure (Zone B) is observable. Motivation (Zone A) is opaque.
+
+---
+
+## The Distinction That Matters
+
+**Not:** Lazaridis chose wrong / Lazaridis was constrained
+
+**But:** The organization generated an alternative model and selected against it. The selection was observable. The reason for the selection may not be.
+
+This is a different class of statement. It does not require access to Lazaridis's mind.
+
+---
+
+## BlackBerry's Emerging Finding Type
+
+If the boundary between Zone A and Zone B holds under further attacks, BlackBerry may produce a unique output:
+
+**Selection without explanation:**
+
+An organizational mechanism that is observable but not interpretable from available public evidence.
+
+- Not: An alternative was absent
+- Not: An alternative was invisible  
+- Not: An alternative was considered but immediately dismissed
+
+But: An alternative existed, was formally developed, reached decision-makers, was rejected, and the reason the rejection won remains irrecoverable from available evidence.
+
+That is not the same as "uncertainty about the reason."
+
+It is "observable selection without explanatory access."
+
+---
+
+## Zone B as a Finding (Not Zone A)
+
+The investigation's strongest earned statement may therefore be:
+
+> Between 2010–2012, BlackBerry's leadership generated an alternative organizational strategy (BBM cross-platform licensing). The alternative was formally developed by executive leadership, was pitched to major carriers, and was rejected within weeks of the CEO transition, with the founder's support. The stated rationale for rejection ("focus on BB10 — couldn't be distracted") was consistent with the enterprise-extension model the alternative would have replaced. Whether that consistency reflects genuine conviction, sunk commitments, organizational constraints, or other mechanisms cannot be determined from available public evidence.
+
+This statement:
+- Does not claim to know what Lazaridis believed
+- Does not claim to know what constrained whom
+- Does describe an observable organizational selection against an alternative
+- Does identify the boundary of available evidence
+
+That boundary is where the investigation currently stands.
+
+---
+
+## Pressure Accounting Refined (after Zone A/B distinction)
+
+**H1: Substantially pressured** — threat explicitly recognized; no blindness claim survives
+
+**H2: Substantially pressured** — threat visible and acted upon in real time; not a blind external shock
+
+**H3: Active** — "focus on BB10" is an execution framing; execution failure remains competitive with model failure
+
+**H4 (Model Failure):** 
+- Supported by Zone B evidence: model persistence observable through alternative's defeat
+- Weakened by Zone A opacity: cannot establish genuine belief vs. constraint without accessing Lazaridis's internal state
+- Strongest specific evidence: Lazaridis's five-year arc (2007 private recognition → 2012 active support for hardware strategy)
+
+**H5 (Organizational Constraint):**
+- Supported by Zone B evidence: alternative model generated and defeated by institutional coalition
+- Remains competitive because: the defeat mechanism is observable; the reason for the defeat is not
+- Strongest specific evidence: Balsillie's departure directly consequent to model rejection
+
+**H4 and H5 entangled at Zone A boundary:** Both hypotheses have purchase on the observable structure (Zone B). Neither can be conclusively established without resolving what cannot be resolved (Zone A).
+
+**Preferred Explanation:** None. H1 and H2 pressured. H3, H4, H5 competitive.
+
+---
+
+## What Changes If Zone B Boundary Holds
+
+If further attacks confirm that Zone B is observable and knowable, while Zone A remains opaque, then BlackBerry teaches:
+
+The distinction between "why a choice was made" and "what choice was made" may be the most important methodological boundary in organizational failure analysis.
+
+Organizations can be understood at the level of their selections without being understood at the level of their motivations.
+
+And that level of understanding may be precise enough to be useful while remaining incomplete enough to be honest about its limits.
