@@ -124,17 +124,25 @@ Status: Substantially weakened by H2-E02 and H2-E04 (SEC finding of "inadequate 
 
 Claim: Pieces of the problem were known at various organizational levels, including corporate. But organizational complexity and structure prevented leadership from synthesizing these pieces into an accurate model of GE's actual condition.
 
-Status: Not yet directly attacked. Remains live and internally consistent with evidence gathered so far.
+Status: Supported by H2-C-E01 and H2-C-E02, but not yet dominant. Model divergence is established; synthesis failure remains testable but unproven.
 
 **Why H2-C Survives Current Evidence:**
 
-The evidence shows internal visibility ("known continuing trends," corporate-level cost decisions on LTSAs) but external non-disclosure. This is consistent with:
-- Leadership understood pieces but not the whole
-- Different business units painted contradictory pictures
-- No one at the top held an integrated model
-- Decisions were made on partial information
+H2-C-E01 shows model divergence: Q1 2017 "fundamentals particularly strong" vs. Q2 2017 profit down 10% — suggesting incomplete corporate synthesis.
 
-None of the current evidence directly contradicts this scenario. It merely suggests external boundary-management occurred afterward.
+H2-C-E02 shows divergence on publicly observable variables: renewable energy acceleration 2015-2016 was public data via IRENA/EIA/NREL. Immelt's model assumed gas/coal demand tracking GDP. Flannery's model acknowledged structural market change due to renewables and overcapacity. Same publicly available data; different synthesis.
+
+**Three Remaining Worlds Not Yet Distinguished:**
+
+**World B1 (Pure H2-C):** Same facts available. Immelt synthesized poorly. Flannery synthesized correctly.
+
+**World B2 (Information Asymmetry):** Public renewable data existed. But internal order books, customer forecasts, utilization data, project pipelines looked materially different in 2015-2016. Immelt's model may be wrong but was not irrational given internal information. Later data changed the picture.
+
+**World C (H3/C2):** Immelt understood the renewable transition and overcapacity. Strategy and disclosure did not reflect this understanding.
+
+H2-C has produced a successful prediction (model divergence on publicly observable variables exists) and remains falsifiable. But "same data available" does not yet equal "same information possessed" or prove "synthesis failure."
+
+The next wound: Evidence that Immelt explicitly recognized overcapacity, renewables as structural competition, or breaking gas demand assumptions. If found, model divergence collapses and World C becomes more plausible. If not found, H2-C remains viable.
 
 ---
 
