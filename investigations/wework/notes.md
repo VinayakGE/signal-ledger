@@ -310,22 +310,11 @@ Insufficient alone.
 
 ---
 
-## Current Position
+---
 
-Status: H2 assessment near sufficient. H3 not yet investigated. H4 and H5 not yet investigated.
+*[H2 investigation complete. Assessment below. H3 follows.]*
 
-H2 pattern (seven entries):
-Criticisms rapid and specific once S-1 public (2019). IWG provided profitable comparison model throughout growth period. Lease mismatch analytically derivable from publicly available information. Bloomberg named $18B lease liability and duration mismatch in April 2018 — 16 months before S-1. Galloway named valuation disconnection in May 2017. Early investors (Benchmark) sold shares before collapse. Son's January 2019 stated rationale tracked categorically different variables than April 2018 critics, and postdated the mechanism-specific criticism.
-
-H2 assessment (earned, not final):
-H2 in its dominant form — "observers could not reasonably have identified the mechanisms" — is substantially weakened. The evidence shows: the category was understood (IWG), the mechanism was analytically derivable, it was publicly named before the S-1, and sophisticated critics identified it in real time. H2 is not eliminated — absence of evidence of widespread concern in 2015-2016 leaves partial space. But the strongest form of H2 does not survive the Bloomberg April 2018 finding.
-
-Variable divergence observation (not a finding):
-The gap between Son's stated rationale variables ("technology platform," "disruption," "Adam's vision") and critics' variables ("$18B lease obligation," "duration mismatch," "occupancy requirements") is a clean observation. It does not establish H5. It earns the right to investigate H5.
-
-Next: H3 (External Discontinuity). Battlefield frozen below before sources are opened.
-
-No hypothesis has earned support. No hypothesis has been rejected. H2 is substantially weakened. Investigation continues.
+---
 
 ---
 
@@ -364,3 +353,95 @@ A weak H3 would show:
 Cash burn was accelerating regardless of expansion rate. Unit economics at the location level were not converging toward profitability. The funding dependency was structural, not transitional.
 
 ---
+
+**H3-E01 (H3-Q1: Location-level unit economics)**
+
+Observation:
+WeWork's S-1 (August 2019) defined "mature locations" as those open for 24+ months. Mature locations achieved contribution margins of 24-27% (target: 30%). WeWork stated that once locations reached maturity, they generated "a recurring stream of revenues, contribution margin, and cash flow." As of June 2019, however, only 30% of WeWork's open locations were mature. The remaining 70% had been open for fewer than 24 months and had not yet reached sustained profitability at the contribution margin level.
+
+Interpretation:
+The location-level model showed positive economics at maturity. This is evidence that the underlying concept was not inherently unworkable — a mature WeWork location did produce positive contribution. However, the portfolio composition as of mid-2019 was overwhelmingly immature. A company with 70% of its locations below break-even is not demonstrating a mature business — it is demonstrating an expansion machine that hasn't stopped to let its own economics prove out.
+
+Potential impact on hypotheses:
+Ambiguous for H3. The mature location economics are consistent with "viable model." The 30% mature / 70% immature split is consistent with "expansion rate that prevented the model from ever demonstrating viability at company level." H3 requires the business to have been viable before the external shock. The location model shows potential; the portfolio composition shows the potential was never converted into aggregate viability before the IPO attempt.
+Insufficient alone.
+
+---
+
+**H3-E02 (H3-Q2 + H3-Q3: Cash burn trajectory and occupancy trend)**
+
+Observation:
+WeWork's net losses by year: 2016 $0.4B on $436M revenue (-92% net margin); 2017 $0.9B on $886M revenue (-102% net margin); 2018 $1.9B on $1.82B revenue (-104% net margin). Revenue doubled each year. Net margin as a percentage of revenue was essentially flat or slightly worsening across the entire period. Separately: occupancy improved from 73% (Q1 2017) to ~84% (Q2 2018). Mature location occupancy reached ~90%. Estimated company-wide breakeven occupancy: approximately 93%. The company never sustainably reached breakeven occupancy.
+
+Interpretation:
+Revenue grew at 100%+ annually. Net margin did not improve. This is the critical pattern: a company scaling revenue at 100% per year while net margin stays flat at -104% is not moving toward profitability — it is moving toward larger losses at the same structural efficiency. Occupancy improved, but the improvement stalled below the threshold required for breakeven. Both metrics suggest the expansion rate was outrunning the underlying economics, not allowing them to prove out.
+
+Potential impact on hypotheses:
+Against H3. A viable business approaching profitability should show margin improvement as it scales — fixed costs spread across more revenue. WeWork showed no margin improvement despite revenue doubling twice. The occupancy improvement is consistent with H3 (trajectory was positive), but the failure to cross the 93% breakeven threshold combined with flat net margin is more consistent with a business structurally unable to reach company-level profitability at the rate it was operating.
+Insufficient alone.
+
+---
+
+**H3-E03 (H3-Q4 + H3-Q6: Funding dependency and IWG control group)**
+
+Observation:
+WeWork's expansion from approximately 0 to 528+ locations (Q2 2019) was funded by successive external capital rounds, principally from SoftBank ($4.4B in 2017, $2B in January 2019). Without external capital infusions, WeWork could not have funded its expansion rate from operating cash flows — operating losses exceeded revenue each year. Separately: IWG/Regus operated under broadly similar macroeconomic conditions and survived the 2008-2009 global financial crisis. During the GFC, IWG revenue fell 2.1%, gross profit fell 22.9%, and occupancy fell from 82.9% to 77.7% — but the business continued operating. A structural difference: IWG held approximately 40% of its lease liabilities in flexible terms; WeWork's leases were predominantly fixed long-term obligations.
+
+Interpretation:
+WeWork's expansion was not self-funded. The capital to open new locations came from outside the business. The IWG comparison shows a structurally similar category survived a comparable external shock — but IWG's lease flexibility gave it a buffer WeWork did not have. WeWork's fixed lease structure meant that in any demand downturn, the revenue side (short-term memberships) would fall while the cost side (long-term lease obligations) would not. IWG had partially protected itself against precisely this risk. WeWork had not.
+
+Potential impact on hypotheses:
+Against H3. If WeWork's expansion was externally funded and its lease structure removed the flexibility buffer that allowed IWG to survive the GFC, then WeWork was not merely "vulnerable to external shocks" — it had systematically removed the structural mechanisms that allowed comparable firms to survive those shocks. H3 becomes harder to sustain when the control group (IWG) survived because it maintained the protections that WeWork chose not to maintain.
+Insufficient alone.
+
+---
+
+**H3-E04 (H3-Q4: Was there a credible pre-IPO path to company-level profitability?)**
+
+Observation:
+Aswath Damodaran (NYU Stern, "Dean of Valuation"), writing in September 2019 after analyzing WeWork's S-1, stated: "the hope is that as the company matures, and its leaseholds age, they will turn profitable, but this is a model built on a knife's edge that, by design, will be sensitive to the smallest economic perturbations." Damodaran estimated WeWork's equity value at approximately $14B — roughly 70% below the $47B valuation at last private raise. Separately: WeWork's S-1 reported "Community Adjusted EBITDA" as a positive figure ($340M in H1 2019, $467M for full year 2018). This metric explicitly excluded: general and administrative expenses, sales and marketing expenses, growth and new market development expenses, pre-opening community expenses, and other operating expenses not incurred at the location level. G&A alone represented WeWork's primary corporate overhead — the costs of operating the company above the location level. The metric showing "positive economics" was constructed by excluding the costs that would determine whether company-level profitability was achievable.
+
+Interpretation:
+Damodaran's "knife's edge" framing simultaneously acknowledges a theoretical path to profitability and characterizes the conditions required as extremely narrow. "Sensitive to the smallest economic perturbations" is not a description of a viable business — it is a description of a business where any normal operating environment deviation becomes potentially fatal. WeWork's own custom metric ("Community Adjusted EBITDA") appeared to show the model working precisely because it excluded the corporate overhead layer that would have shown otherwise. A company that requires a custom profitability metric excluding G&A to demonstrate positive economics is not demonstrating company-level viability — it is demonstrating that the location model, in isolation, can work, while the company as a whole cannot.
+
+Potential impact on hypotheses:
+Against H3, with nuance. The theoretical path existed — Damodaran acknowledged it. But the conditions required were "knife's edge." A business requiring perfect conditions to reach profitability occupies an uncomfortable middle ground: not quite "non-viable" (the path exists), but not "viable but shock-sensitive" in any normal sense (any perturbation destroys the path). H3's strongest claim — that external events converted a viable trajectory into collapse — requires the trajectory to have been genuinely viable, not merely theoretically possible under ideal conditions. The "knife's edge" finding substantially narrows the space where H3 can operate.
+Insufficient alone.
+
+---
+
+---
+
+## Current Position
+
+**H2 — Investigated. Substantially weakened.**
+
+Seven entries gathered. The dominant form of H2 — "observers could not reasonably have identified the mechanisms" — does not survive the evidence. The category was understood (IWG existed as a profitable comparison). The specific failure mechanism (duration mismatch) was publicly named in April 2018, 16 months before the S-1, derived from WeWork's own bond offering documents. Named observers (Galloway, May 2017) identified valuation disconnection before the S-1. Early investors (Benchmark) sold before collapse. H2 is not eliminated — absence of documented widespread concern in 2015-2016 leaves a narrowed space. But the dominant form does not survive.
+
+Variable divergence observation (recorded, not promoted):
+Son's January 2019 stated rationale used categorically different variables than the April 2018 mechanism-specific criticism — "technology platform," "disruption," "Adam's vision" vs. "$18B lease obligation," "duration mismatch," "occupancy requirements." This is an observation. It earns the right to investigate H5. It does not establish H5.
+
+---
+
+**H3 — Investigated. Survives in a narrowed form. Under significant pressure.**
+
+Four entries gathered. The evidence does not resolve cleanly as World A (non-viable) or World B (viable but shock-sensitive). The investigation produced a more precise third description:
+
+**Knife-edge viable:** A path to profitability theoretically existed — mature locations showed positive contribution margins (24-27%), and Damodaran in September 2019 acknowledged the theoretical path. But the conditions required were, in his words, "a knife's edge... sensitive to the smallest economic perturbations." Net margin was flat at -104% despite revenue doubling annually. Expansion continuously added immature locations faster than existing ones matured. The lease structure removed the flexibility buffer (present at IWG) that allowed comparable operators to survive comparable shocks. The custom profitability metric (Community Adjusted EBITDA) excluded G&A — the costs determining company-level viability.
+
+*Knife-edge viable is not a new hypothesis. It is not a topology. It is a more accurate description of the state space than the original World A / World B binary. It has been recorded here for precision. It has not been promoted.*
+
+H3's remaining question: does "knife-edge viable" count as viable for H3's purposes? H3 requires the business to have been able to survive the external shock in its absence. A business sensitive to "the smallest perturbation" is not meaningfully viable in that sense. H3 retains partial force — the failed IPO was the proximate trigger — but it was not the only possible trigger. Any sufficiently large perturbation would have been fatal.
+
+---
+
+**H4 — Not yet investigated.**
+**H5 — Not yet investigated.**
+
+What H4 and H5 have earned: not advancement from H2/H3 weakening. They have earned the right to be investigated because specific observations point toward them — the lieutenant override (H4), and the variable divergence between Son's rationale and the critics' framework (H5). Those observations are recorded. They are not evidence for H4 or H5. They are the reason H4 and H5 deserve a fair investigation.
+
+The question that now requires a decision — not automatic tournament advancement — is: which of H4 or H5 carries the heavier evidentiary burden given what has already been gathered? That decision should be made before sources are opened.
+
+**Status: Unresolved.**
+
+No hypothesis has earned support. No hypothesis has been rejected. H2 substantially weakened. H3 survives in a narrowed form. Investigation continues.
