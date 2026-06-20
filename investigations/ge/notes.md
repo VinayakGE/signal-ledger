@@ -402,6 +402,15 @@ All entries follow mandatory format:
 
 ---
 
+**H2-C-E02 — Model Divergence: Immelt Assumption vs. Flannery Acknowledgment of Energy Transition**
+
+> **Observation:** (1) Renewable energy capacity additions were publicly documented and tracked by IRENA, EIA, and NREL. In 2015, renewable electricity accounted for 64% of U.S. electricity capacity additions (vs. 52% in 2014). In 2016, renewables accounted for 61.5% of all new U.S. capacity. Solar generation increased 35.8% in 2015; wind increased 5.1%. Global renewable capacity increased 152 GW in 2015 — the highest annual growth rate on record. This data was publicly available in 2015-2016. (2) Immelt and GE made the Alstom acquisition (closed November 2015) on the assumption that "demand for natural gas and coal would continue to track global economic growth" — an assumption that contradicted the publicly available renewable energy acceleration data. (3) Flannery's November 2017 assessment of the same market: "traditional power markets including gas and coal have softened. Volumes are down significantly... overcapacity, lower utilization... overall growth in renewables." Same market; different model.
+> **Interpretation:** This is direct evidence of World B (H2-C): the organization possessed the necessary information (renewable transition data was public in 2015-2016) but failed to synthesize it into an accurate strategic model. Immelt's model treated fossil fuel demand as a given (tracking GDP). Flannery's model treated renewable energy growth as a primary driver of market structure. Both leaders had access to the same underlying public data. The divergence between models (Immelt's assumption vs. Flannery's acknowledgment) was not driven by new information becoming available; it was driven by different synthesis of existing, publicly available information.
+> **Potential impact on hypotheses:** Strong support for H2-C. This is the pure form of the hypothesis: the organization possessed the necessary information; the organization lacked the ability to synthesize it into an accurate model. The renewable energy transition data was not hidden. It was published by authoritative sources (IRENA, EIA, NREL) in 2015-2016. GE's assumption that coal and gas demand would track GDP despite contradicting public evidence of renewable acceleration is inconsistent with accurate synthesis of available information. This supports the interpretation that organizational complexity prevented coherent integration of signals that were publicly visible.
+> Insufficient alone.
+
+---
+
 ### H2 Evidence (H2-A/B)
 
 ---
