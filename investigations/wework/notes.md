@@ -310,22 +310,11 @@ Insufficient alone.
 
 ---
 
-## Current Position
+---
 
-Status: H2 assessment near sufficient. H3 not yet investigated. H4 and H5 not yet investigated.
+*[H2 investigation complete. Assessment below. H3 follows.]*
 
-H2 pattern (seven entries):
-Criticisms rapid and specific once S-1 public (2019). IWG provided profitable comparison model throughout growth period. Lease mismatch analytically derivable from publicly available information. Bloomberg named $18B lease liability and duration mismatch in April 2018 — 16 months before S-1. Galloway named valuation disconnection in May 2017. Early investors (Benchmark) sold shares before collapse. Son's January 2019 stated rationale tracked categorically different variables than April 2018 critics, and postdated the mechanism-specific criticism.
-
-H2 assessment (earned, not final):
-H2 in its dominant form — "observers could not reasonably have identified the mechanisms" — is substantially weakened. The evidence shows: the category was understood (IWG), the mechanism was analytically derivable, it was publicly named before the S-1, and sophisticated critics identified it in real time. H2 is not eliminated — absence of evidence of widespread concern in 2015-2016 leaves partial space. But the strongest form of H2 does not survive the Bloomberg April 2018 finding.
-
-Variable divergence observation (not a finding):
-The gap between Son's stated rationale variables ("technology platform," "disruption," "Adam's vision") and critics' variables ("$18B lease obligation," "duration mismatch," "occupancy requirements") is a clean observation. It does not establish H5. It earns the right to investigate H5.
-
-Next: H3 (External Discontinuity). Battlefield frozen below before sources are opened.
-
-No hypothesis has earned support. No hypothesis has been rejected. H2 is substantially weakened. Investigation continues.
+---
 
 ---
 
@@ -407,16 +396,6 @@ Insufficient alone.
 
 ---
 
-## Current Position
-
-Status: H2 substantially weakened. H3 evidence gathering in progress.
-
-H3 pattern emerging (three entries, not yet sufficient for assessment):
-Mature location contribution margins were positive (24-27%), suggesting the model could work at the individual location level. However: only 30% of locations were mature as of June 2019 (70% still immature); net margin was flat at approximately -104% despite revenue doubling annually; occupancy improved but never crossed company-wide breakeven (~93%); expansion was externally funded rather than self-sustaining; and WeWork lacked the lease flexibility (present at IWG) that allowed comparable operators to survive comparable external shocks.
-
-H3 open question:
-The most important unresolved question for H3 is the counterfactual: if WeWork had stopped expanding and allowed its existing portfolio to mature, would the mature location economics have been sufficient to cover corporate overhead and eventually reach company-level profitability? If yes, H3 retains some force (external capital withdrawal cut short a viable path). If no, H3 weakens further (the business was structurally below survival threshold regardless of external events).
-
 **H3-E04 (H3-Q4: Was there a credible pre-IPO path to company-level profitability?)**
 
 Observation:
@@ -431,17 +410,38 @@ Insufficient alone.
 
 ---
 
+---
+
 ## Current Position
 
-Status: H2 substantially weakened. H3 four entries gathered, assessment forming.
+**H2 — Investigated. Substantially weakened.**
 
-H3 pattern (four entries):
-Mature locations: positive contribution margins (24-27%). Occupancy: improving but never reached breakeven (~93%). Net margin: flat at -104% despite revenue doubling. Expansion: externally funded, continuously adding immature locations. Lease structure: fixed long-term obligations without IWG's flexibility buffer. Path to profitability: acknowledged by Damodaran as theoretically possible, characterized simultaneously as "a knife's edge" requiring conditions sensitive to "the smallest economic perturbations."
+Seven entries gathered. The dominant form of H2 — "observers could not reasonably have identified the mechanisms" — does not survive the evidence. The category was understood (IWG existed as a profitable comparison). The specific failure mechanism (duration mismatch) was publicly named in April 2018, 16 months before the S-1, derived from WeWork's own bond offering documents. Named observers (Galloway, May 2017) identified valuation disconnection before the S-1. Early investors (Benchmark) sold before collapse. H2 is not eliminated — absence of documented widespread concern in 2015-2016 leaves a narrowed space. But the dominant form does not survive.
 
-H3 provisional assessment (not final — H3 not fully investigated):
-The evidence does not cleanly resolve World A (non-viable) vs. World B (viable but shock-sensitive). What the evidence shows is a third condition: **theoretically viable under ideal conditions, structurally sensitive to any normal perturbation.** This is closer to World A than World B. The failed IPO may have been the event that triggered collapse — but the structural conditions had narrowed the survival window to the point where any sufficiently large disruption would have been fatal. The distinction between "failed IPO as cause" and "failed IPO as proximate trigger of pre-existing non-viability" becomes increasingly difficult to maintain.
+Variable divergence observation (recorded, not promoted):
+Son's January 2019 stated rationale used categorically different variables than the April 2018 mechanism-specific criticism — "technology platform," "disruption," "Adam's vision" vs. "$18B lease obligation," "duration mismatch," "occupancy requirements." This is an observation. It earns the right to investigate H5. It does not establish H5.
 
-Open question for H3:
-Does "knife's edge viable" count as viable for H3's purposes? H3 requires the business to have been able to survive the external shock if the shock had not occurred. A knife's edge may survive in the absence of perturbation — but a business that cannot survive the smallest perturbation is not usefully "viable."
+---
 
-No hypothesis has earned support. No hypothesis has been rejected. H2 substantially weakened. H3 is under significant pressure. Investigation continues.
+**H3 — Investigated. Survives in a narrowed form. Under significant pressure.**
+
+Four entries gathered. The evidence does not resolve cleanly as World A (non-viable) or World B (viable but shock-sensitive). The investigation produced a more precise third description:
+
+**Knife-edge viable:** A path to profitability theoretically existed — mature locations showed positive contribution margins (24-27%), and Damodaran in September 2019 acknowledged the theoretical path. But the conditions required were, in his words, "a knife's edge... sensitive to the smallest economic perturbations." Net margin was flat at -104% despite revenue doubling annually. Expansion continuously added immature locations faster than existing ones matured. The lease structure removed the flexibility buffer (present at IWG) that allowed comparable operators to survive comparable shocks. The custom profitability metric (Community Adjusted EBITDA) excluded G&A — the costs determining company-level viability.
+
+*Knife-edge viable is not a new hypothesis. It is not a topology. It is a more accurate description of the state space than the original World A / World B binary. It has been recorded here for precision. It has not been promoted.*
+
+H3's remaining question: does "knife-edge viable" count as viable for H3's purposes? H3 requires the business to have been able to survive the external shock in its absence. A business sensitive to "the smallest perturbation" is not meaningfully viable in that sense. H3 retains partial force — the failed IPO was the proximate trigger — but it was not the only possible trigger. Any sufficiently large perturbation would have been fatal.
+
+---
+
+**H4 — Not yet investigated.**
+**H5 — Not yet investigated.**
+
+What H4 and H5 have earned: not advancement from H2/H3 weakening. They have earned the right to be investigated because specific observations point toward them — the lieutenant override (H4), and the variable divergence between Son's rationale and the critics' framework (H5). Those observations are recorded. They are not evidence for H4 or H5. They are the reason H4 and H5 deserve a fair investigation.
+
+The question that now requires a decision — not automatic tournament advancement — is: which of H4 or H5 carries the heavier evidentiary burden given what has already been gathered? That decision should be made before sources are opened.
+
+**Status: Unresolved.**
+
+No hypothesis has earned support. No hypothesis has been rejected. H2 substantially weakened. H3 survives in a narrowed form. Investigation continues.
