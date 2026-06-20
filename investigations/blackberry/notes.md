@@ -279,4 +279,179 @@ Not Assigned
 
 ---
 
-*No investigations yet. Research battlefield frozen. Awaiting evidence collection.*
+---
+
+## Evidence Log
+
+All entries follow mandatory format:
+
+> **Observation:**
+> **Interpretation:**
+> **Potential impact on hypotheses:**
+> Insufficient alone.
+
+---
+
+**BlackBerry Artifact #1**
+
+**Source:** Reuters, February 12, 2007
+**Date:** February 12, 2007
+**Subject:** Jim Balsillie, co-CEO Research In Motion
+**Setting:** Press statement, 34 days after iPhone announcement (January 9, 2007)
+
+**Quote:** "It's kind of one more entrant into an already very busy space with lots of choice for consumers... in terms of a sort of a sea-change for BlackBerry, I would think that's overstating it."
+
+> **Observation:** Balsillie publicly characterized the iPhone as one competitor among many. Explicitly denied "sea-change" framing 34 days after iPhone announcement.
+> **Interpretation:** The quote does not stop at Recognition. "Not a sea-change" is an interpretation of significance — an embedded model. Balsillie is not merely noting the iPhone exists; he is asserting what the iPhone means. The model embedded in the denial: iPhone is another competitor, not a category shift. This is Recognition + Implication. The implication reached is wrong (as later established), but it is an implication.
+> **Potential impact on hypotheses:** H4 gains pressure — public model holds that iPhone is not a category-level threat. H5 gains possible pressure — public statement may not reflect private assessment (cannot confirm from this artifact alone). H1 loses no pressure yet — the public "not a sea-change" is consistent with industry blindness.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes — "iPhone is another competitor, not a category shift"
+- Revision: Not observed
+- Decision: Not observed
+- **Chain stopped at: Implication**
+
+---
+
+**BlackBerry Artifact #2**
+
+**Source:** *Losing the Signal* (McNish and Silcoff, 2015); reported in Globe and Mail, 2013. Attributed to internal contemporaneous record.
+**Date:** Summer 2007
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Internal — reaction after physically examining iPhone
+
+**Quotes:** "They've put a Mac in this thing." / "If that thing catches on, we're competing with a Mac, not a Nokia."
+
+> **Observation:** Lazaridis privately grasped the iPhone's architecture and competitive category immediately in summer 2007. His internal framing was category redefinition: not a smartphone competitor, but a computing platform competitor.
+> **Interpretation:** Lazaridis reached the implication level ("competing with a Mac, not a Nokia") privately in summer 2007 — the same period Balsillie was publicly stating "not a sea-change." These are not merely different opinions. They are different models. The divergence exists inside BlackBerry, not between BlackBerry and Apple. This is leadership model divergence — neither H1 nor H4 currently captures it cleanly.
+> **Potential impact on hypotheses:** H1 (Industry blindness) absorbs first pressure — category threat was privately recognized almost immediately. H2 (External discontinuity) weakened — iPhone was not a blind external shock if co-CEO immediately recognized its category implications. H4 gains pressure — if Lazaridis recognized the implication, the question becomes whether it became Assumption Revision and Decision. H5 gains pressure — private recognition without operational/public change is consistent with organizational constraint.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes (internal) — "competing with a Mac, not a Nokia"
+- Revision: Not established
+- Decision: Not established
+- **Chain stopped at: Implication (internal)**
+
+**Sourcing note:** Attributed through secondary source (*Losing the Signal*, 2015) and journalism reconstruction (2013), not primary document. Admissible but flagged.
+
+---
+
+## Pressure Accounting — After Artifact #1 and #2
+
+H1 Industry Blindness: **Negative pressure** — category threat recognized internally (Artifact #2)
+H2 External Discontinuity: **Slightly negative pressure** — threat recognized in 2007, not emerging later
+H3 Execution Failure: **Neutral** — no direct pressure yet
+H4 Incorrect Demand Model: **Positive pressure** — public "not a sea-change" model (Artifact #1)
+H5 Organizational Constraint: **Positive pressure** — private/public divergence between Lazaridis and Balsillie
+
+**Preferred Explanation:** None
+
+Two artifacts is nowhere near enough for synthesis.
+
+---
+
+## Observation — Leadership Model Divergence
+
+**Not a hypothesis. Not a promotion. An observation.**
+
+Artifact #1 and Artifact #2, taken together, show:
+
+- Balsillie (public, February 2007): "iPhone is not a sea-change"
+- Lazaridis (private, Summer 2007): "Competing with a Mac, not a Nokia"
+
+These are different models, held by the two co-CEOs of the same company, in the same period.
+
+The divergence exists inside BlackBerry — not between BlackBerry and Apple.
+
+This means neither H4 nor H5 alone captures the situation cleanly. H4 predicts a single organizational model that is wrong. H5 predicts organizational constraint preventing revision. Leadership model divergence is a different structure: two different models coexisting in the same leadership team, with the public model diverging from the private one.
+
+This observation is recorded here. It has not earned hypothesis status. It is awaiting additional artifacts.
+
+---
+
+## Next Attack Target
+
+Artifact #2 reached Implication (internal) in Summer 2007.
+
+Lazaridis privately concluded: "competing with a Mac, not a Nokia."
+
+The next highest-value question:
+
+> What changed inside BlackBerry after Lazaridis reached this conclusion?
+
+Attack surface:
+
+Implication (internal, Summer 2007)
+↓
+Assumption Revision?
+↓
+Decision Revision?
+
+If Lazaridis's internal implication translated into revised assumptions and decisions, H4 weakens and H5 or H3 gain.
+
+If Lazaridis's internal implication did not translate — if the organization continued operating under the "not a sea-change" model — then something is suppressing the chain. H4 or H5 gains.
+
+**Next artifact target:** Evidence of what changed (or did not change) in BlackBerry's strategy, product decisions, or executive statements after Summer 2007.
+
+---
+
+**BlackBerry Artifact #3**
+
+**Source:** *Losing the Signal* (McNish and Silcoff, 2015), reported in Globe and Mail and iDownloadBlog (May 2015). Attributed to internal accounts of June 2007 management meeting.
+**Date:** June 2007
+**Subject:** Jim Balsillie, co-CEO Research In Motion
+**Setting:** Internal management meeting — Verizon approaches RIM about "iPhone killer" device
+
+**Quote/Action:** Balsillie called the Verizon "iPhone killer" opportunity "RIM's most important strategic opportunity since the launch of its two-way e-mail pager."
+
+> **Observation:** In June 2007 — the same month iPhone launched commercially — Balsillie internally framed the Verizon partnership as RIM's most important strategic opportunity in its history. This is not the "one more entrant" framing of his February 2007 public statement. Internally, the iPhone had escalated from "not a sea-change" to the driver of RIM's most significant strategic inflection. RIM responded with a decision: build a touchscreen competitor (Storm) on a nine-month deadline. Verizon committed $100 million marketing. RIM's engineers faced a nine-month window against their normal 18-month cycle.
+> **Interpretation:** Between February 2007 (public: "not a sea-change") and June 2007 (internal: "most important strategic opportunity"), the internal model had shifted significantly — or the public statement had always concealed a different private assessment. A decision was made and executed: the Storm project. This is the first artifact reaching Decision. However, the decision itself may reflect a constrained or partial revision: building a touchscreen competitor on a carrier's timeline rather than reconceiving the platform (the "Mac" implication Lazaridis reached privately). The chain reached Decision, but the decision may not have matched the implication.
+> **Potential impact on hypotheses:** H1 weakens further — strategic urgency recognized internally by June 2007. H3 (Execution failure) gains first pressure — nine-month deadline against 18-month engineering cycle created structural conditions for failure. H4 receives mixed pressure — a decision was made, but the decision may itself reflect the wrong model (touchscreen device vs. platform reconception). H5 still active — carrier deadline and relationship constraints shaped the decision.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes — iPhone created RIM's most important strategic opportunity
+- Revision: Partial — decision to build touchscreen competitor
+- Decision: Yes — Storm project initiated, nine-month deadline accepted
+- **Chain stopped at: Decision (partial — decision may not match private implication)**
+
+**Sourcing note:** Secondary source (*Losing the Signal*, 2015). Admissible but flagged.
+
+---
+
+## Pressure Accounting — After Artifacts #1, #2, #3
+
+H1 Industry Blindness: **Negative pressure** — category threat recognized internally (Artifact #2); strategic urgency acknowledged internally June 2007 (Artifact #3)
+H2 External Discontinuity: **Slightly negative pressure** — threat recognized and acted upon in 2007, not blind external shock
+H3 Execution Failure: **Positive pressure** — nine-month deadline against 18-month engineering cycle (Artifact #3)
+H4 Incorrect Demand Model: **Mixed** — public model wrong (Artifact #1); but decision made (Artifact #3); question is whether decision matched private implication
+H5 Organizational Constraint: **Positive pressure** — private/public divergence; carrier relationship and deadline shaping decision
+
+**Preferred Explanation:** None
+
+Three artifacts. Pattern not yet established.
+
+---
+
+## Critical Open Question After Artifact #3
+
+The chain reached Decision (Storm project). But:
+
+> Did the decision match the implication?
+
+Lazaridis's private implication: "competing with a Mac, not a Nokia" — a platform-level threat requiring platform-level response.
+
+Storm decision: a touchscreen device built to carrier deadline, designed to replicate keyboard tactile feel on glass.
+
+If the decision did not match the implication, the chain structure is more complex:
+
+Recognition → Implication (internal) → Decision → Wrong decision
+
+That is not cleanly H4 or H5. It may be a new structure.
+
+**Next artifact target:** What model drove the Storm's design decisions? Did leadership treat Storm as a platform reconception or as a feature-level response?
