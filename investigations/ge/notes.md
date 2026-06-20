@@ -152,6 +152,14 @@ None of the current evidence directly contradicts this scenario. It merely sugge
 
 **H2-C-Q5:** Were board-level discussions operating with materially different assumptions about GE's condition than divisional realities? Board minutes, investor meetings, board presentations vs. divisional forecasts—evidence of model divergence rather than signal absence.
 
+**H2-C-Q6:** What explicit assumptions did Immelt-era leadership hold about Power segment and Alstom acquisition trajectory? Documented forecasts, board materials, investor presentations, strategic rationale—the Immelt model in its own terms.
+
+**H2-C-Q7:** What explicit assumptions did Flannery-era leadership replace those with? What was the new model, stated in its own terms? The Flannery model in its own terms.
+
+**H2-C-Q8:** Did the model change result from new information becoming available, or from existing information receiving a different interpretation? This is the diagnostic question. If Flannery had access to the same data Immelt had, and reinterpreted it, that suggests synthesis failure (H2-C). If Flannery received genuinely new data, that suggests either genuine external change or deliberate non-disclosure of previously known facts (H3/C2).
+
+**Note on Q6-Q8:** These are model-comparison questions, not problem-discovery questions. H2-C is about model quality, not fact discovery. The strongest H2-C evidence would be: the organization possessed the necessary information; the organization lacked the ability to synthesize it into an accurate model. That is the pure form of the hypothesis.
+
 ---
 
 ### H3 — Financial Engineering Masked Fragility
