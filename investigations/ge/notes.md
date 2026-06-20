@@ -250,9 +250,55 @@ Not Assigned
 
 ---
 
+## Investigation Checkpoint — After H2-C-E02
+
+**Transition in Question Class**
+
+GE Before H2-C: Information problem (signals absent, blocked, hidden by complexity)
+
+GE After H2-C: Model problem (assuming information existed, what model was derived from it?)
+
+This marks a shift from asking "Did GE fail to see?" to "Did GE see but misinterpret?"
+
+**What has been Established**
+
+- H2-A substantially pressured (data generally existed)
+- H2-B substantially pressured (information reached some organizational level)
+- H2-C produced a successful prediction (model divergence on publicly observable variables)
+
+**What Remains to Test**
+
+H2-C is now under direct adversarial attack. The single question:
+
+> Did Immelt already hold Flannery's model of the power market transition?
+
+If yes: Model divergence collapses. World C (disclosure lag) strengthens. H2-C absorbs a wound.
+
+If no: Model failure becomes harder to dismiss. Information Failure → Model Failure distinction earns support.
+
+**Attack Sequence**
+
+Stage 1: Find explicit Immelt statements on overcapacity, renewable substitution, demand decoupling.
+
+Stage 2: Distinguish between:
+- Recognition: "Renewables are growing" (data acknowledgment)
+- Recognition + Implication: "Renewables structurally reduce gas turbine demand" (model integration)
+
+H2-C hypothesis depends on finding the first without the second in Immelt's statements.
+
+**Potential Repository Contribution**
+
+Not earned yet. But the investigation has now clarified what would support it:
+
+The repository's first clean distinction between **Information Failure** and **Model Failure**.
+
+This parallels Kodak's lesson (Visibility ≠ Response) but sits at a different cognitive layer — interpreting reality, not acting on it.
+
+---
+
 ## Investigation Order
 
-H4 first. Not because most likely. Because most threatening to the emerging pattern.
+H4 investigation paused during H2-C focus. To resume after H2-C attack sequence completes.
 
 After Kodak, Nokia, and WeWork (H2 and H3), there is gravitational pull toward:
 
