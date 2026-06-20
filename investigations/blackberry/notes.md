@@ -1089,3 +1089,65 @@ The "model reconsideration" attack has now produced evidence across three levels
 This is the first time the investigation has accumulated evidence answering a direct attack question with a consistent direction across three independent sources at different levels of the organization.
 
 The observation is: the enterprise-extension model persisted without explicit reconsideration through the period when market evidence most strongly challenged it. This strengthens model persistence (H4) and pressures the distinction between H4 and H5.
+
+---
+
+## Investigation Fork — H4 vs H5 Separation
+
+**State after Artifact #13:**
+
+H4 is carrying the strongest positive pressure. H5 has absorbed a wound. But the wound is specific: person-level H5 (co-CEO structure as constraint) is challenged by Heins's continuity statement. Institution-level H5 remains alive.
+
+**The wounded version of H5:**
+
+> Co-CEO structure prevented model revision.
+
+Challenged by: Heins's "no drastic change needed" after both co-CEOs departed.
+
+**The surviving version of H5:**
+
+> The organization was optimized around the enterprise-extension model. Leadership changes did not change the model because the model was institutionalized — embedded at the board level, carrier relationship level, enterprise contract level. The constraint was not the co-CEOs. The constraint was the institution.
+
+This is a different claim. It is not the same as "co-CEO divergence prevented revision." The constraint moved from person-level to institution-level. That move has not been defeated by Artifact #13.
+
+**The test that has not been run:**
+
+The evidence shows:
+- Lazaridis defended the model
+- Balsillie partially diverged
+- Heins continued the model
+
+What it does not show: **Did an alternative model exist inside BlackBerry and lose?**
+
+That question separates H4 from H5 more cleanly than any artifact so far.
+
+- **If an alternative model existed and was systematically defeated:** H5 regains force. Persistence may reflect institutional selection mechanisms, not genuine shared belief.
+- **If no alternative model existed at all:** H4 gains force. The dominant model may have been genuinely believed across the institution.
+
+These are different worlds. The investigation has not yet established which one BlackBerry occupied.
+
+**Next Attack Question (replacing "model reconsideration"):**
+
+> Was there an identifiable alternative model inside BlackBerry between 2010–2012?
+
+Not whether that model was correct. Only whether it existed.
+
+Candidates to search:
+- Balsillie's BBM-as-platform / SMS 2.0 proposal
+- Any internal proposal for Android adoption or touchscreen-first design
+- Any consumer-first strategic option explicitly considered and rejected
+- Any app-ecosystem-first model proposed internally
+
+**Why this attack matters:**
+
+If the alternative model existed and lost internally → the mechanism of persistence matters, not just the fact of persistence → H5 institution-level survives.
+
+If no alternative model existed → the institution genuinely held one model → H4 compresses toward established.
+
+**Research discipline for this attack:**
+
+Do not search for: "BlackBerry rejected Android" (smuggles the conclusion)
+
+Search for: "BlackBerry internal strategy debate" / "RIM Android proposal" / "Balsillie BBM platform pitch" / "RIM board strategic options 2011"
+
+Same discipline as all prior attacks. First locate the evidence. Then classify.
