@@ -475,17 +475,18 @@ That is not cleanly H4 or H5. It may be a new structure.
 > Insufficient alone.
 
 **Classification:**
-- Recognition: Yes (both iPhone threat and keyboard trend)
-- Implication: Yes — keyboard dominance (public); Mac-level platform threat (private, Artifact #2)
-- Revision: Not observed in public model
+- Recognition: Yes
+- Implication: Yes
+- Observed Model: Physical QWERTY remains dominant market trend
+- Revision: Unknown
 - Decision: Prior (Storm already under development)
-- **Chain stopped at: Public model has not integrated private implication. Eleven-month gap between private implication and contradicting public model.**
+- **Chain stopped at: Competing model identified**
 
-**Critical finding:** Two coexisting models in same executive, eleven months apart:
-- Summer 2007 (private): "Competing with a Mac, not a Nokia"
-- May 2008 (public): "The most exciting trend is full QWERTY keyboards"
+**Why "Competing model identified" and not "public model has not integrated private implication":** The latter assumes the private implication is the "correct" model and the public one is lagging. That is a conclusion not yet earned. What is observable: the existence of the private implication (Artifact #2) did not eliminate the public keyboard model (Artifact #4). Why it happened remains open.
 
-Storm designed to public model. Not to private implication.
+**What has been learned:** The existence of the private implication did not eliminate the public keyboard model. That is observable. The mechanism remains unknown.
+
+**New observation (not a hypothesis):** Competing models now directly observed — private implication (Mac-level platform threat, Summer 2007) coexisting with explicit public market model (keyboards remain dominant trend, May 2008). The May 2008 statement is a prediction about the market, not merely a communication event.
 
 ---
 
@@ -507,10 +508,77 @@ Four artifacts. Pattern emerging but not yet established.
 
 The case is not reproducing GE's shape.
 
-GE: Recognition → Implication gap (Flannery vs. Immelt model divergence)
+GE's battlefield: Information → Interpretation (gap between recognition and implication)
 
-BlackBerry so far: Recognition → Implication (private) → Decision → Public model contradicts private implication → Storm designed to wrong model
+BlackBerry's battlefield: Competing interpretations → Which one drives decisions?
 
-The structure involves coexisting models — private recognition of category threat, public assertion of keyboard dominance — with the public model driving operational decisions (Storm design). This is not yet cleanly H3, H4, or H5.
+That is a different pressure point. The fact that it is different is what makes Artifact #4 valuable.
 
-**Next attack target:** Did Storm's failure produce model revision? Or did the public model persist after Storm?
+**New Observation (not a hypothesis, not promoted):** Competing models directly observed. Private implication (Mac-level threat, Summer 2007) coexisting with explicit public market model (keyboards remain dominant trend, May 2008). Which model drives decisions is now the load-bearing question.
+
+**Next attack target:** What evidence exists that the keyboard model was revised, defended, or doubled down on after contradictory market feedback arrived?
+
+Three possible outcomes:
+1. Revised → H4 absorbs a wound
+2. Defended → H4 gains pressure
+3. Doubled down → H4 gains stronger pressure
+
+The investigation does not yet know which world it is in. Storm launched November 2008 and was a documented failure. The load-bearing question is what happened to the keyboard model after reality started providing feedback.
+
+---
+
+**BlackBerry Artifact #5**
+
+**Source:** *Losing the Signal* (McNish and Silcoff, 2015), attributed to Balsillie's account. Secondary reports including Macleans ("BlackBerry blow-up"), Gulf News.
+**Date:** Spring 2009 — response to Storm failure (1M+ units needing replacement)
+**Subject:** Mike Lazaridis and Jim Balsillie, co-CEOs; RIM organization
+**Setting:** Internal — leadership response to Storm failure
+
+**Quotes/Actions:**
+- Balsillie: "The Storm failure made it clear we were not the dominant smartphone company anymore."
+- Lazaridis (per Balsillie's account): Did not acknowledge material technical issues; missed meetings to avoid negative feedback; proceeded with Storm 2 development.
+- RIM organizational response: Reverted focus to corporate/enterprise clientele.
+
+> **Observation:** Storm failure produced three distinct responses within the same leadership team and organization: (1) Balsillie drew a model-level conclusion — "not dominant anymore." (2) Lazaridis treated Storm as a first iteration requiring improvement, not as evidence against the keyboard-dominance model, and avoided negative feedback. (3) RIM organizationally retreated to enterprise customers. Storm 2 was initiated. No unified model revision occurred.
+> **Interpretation:** The three responses to the same failure do not form a coherent model revision. Balsillie's conclusion acknowledged market position shift; Lazaridis's response defended the design approach; RIM's strategy doubled down on enterprise. The keyboard model was not eliminated by Storm's failure — it was defended by one co-CEO while the organization retreated to its stronghold. Lazaridis avoiding negative feedback meetings is a structural signal about information flow inside the organization — consistent with H5.
+> **Potential impact on hypotheses:** H4 gains significant pressure — Storm failure did not produce unified model revision; keyboard-feel approach continued (Storm 2). H3 gains pressure — Storm 2 frames execution as the problem, not model. H5 gains pressure — avoiding negative feedback is a mechanism that prevents information from reaching decision-making; leadership meeting avoidance is structural. H1 weakens further — Balsillie explicitly acknowledged competitive position shift from same evidence.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (Storm failure observed by both)
+- Implication: Divergent — Balsillie: "not dominant anymore"; Lazaridis: "first iteration, needs improvement"
+- Revision: Divergent — Balsillie revised; Lazaridis defended; organization retreated to enterprise
+- Decision: Yes — Storm 2 proceeded; enterprise retrenchment
+- **Chain stopped at: Model divergence between co-CEOs on same evidence; keyboard model defended not revised**
+
+**Critical finding:** Same failure, three responses: Balsillie revised model ("not dominant"), Lazaridis defended design (Storm 2), organization retreated (enterprise). The keyboard model was not eliminated by contradictory market feedback.
+
+**Answer to three-outcome test:**
+Not revised. Not merely defended. Partially doubled down (Storm 2) while one leader revised and the other defended. The investigation is in a fourth world not anticipated: divergent responses producing no unified revision.
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #5
+
+H1 Industry Blindness: **Negative pressure** — category threat recognized early (Artifact #2); Balsillie revised model from Storm failure (Artifact #5)
+H2 External Discontinuity: **Negative pressure** — threat visible, acted upon, and interpreted in real time
+H3 Execution Failure: **Positive pressure** — Storm 2 treats execution as the problem, not model (Artifact #5)
+H4 Incorrect Demand Model: **Positive pressure** — keyboard model defended after contradictory feedback (Artifact #5); public model did not integrate private implication (Artifact #4)
+H5 Organizational Constraint: **Positive pressure** — Lazaridis avoiding negative feedback meetings (Artifact #5); sustained private/public divergence
+
+**Preferred Explanation:** None
+
+Five artifacts. Pattern strengthening but H3, H4, H5 remain competitive.
+
+---
+
+**Observation After Five Artifacts (Not a Hypothesis)**
+
+Leadership model divergence is now recurring across multiple artifacts:
+- Balsillie vs. Lazaridis on iPhone significance (Artifacts 1-2)
+- Lazaridis private vs. public model (Artifacts 2, 4)
+- Balsillie vs. Lazaridis on Storm failure implications (Artifact 5)
+
+The divergence is not random. It follows a pattern: Balsillie consistently reaches more pessimistic model conclusions from the same evidence; Lazaridis consistently defends the keyboard-centered model. The organization follows neither fully — it retreats to enterprise.
+
+**Next attack target:** What happened to the leadership divergence as market share began materially declining 2010-2011?
