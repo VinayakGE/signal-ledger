@@ -417,6 +417,31 @@ Mature location contribution margins were positive (24-27%), suggesting the mode
 H3 open question:
 The most important unresolved question for H3 is the counterfactual: if WeWork had stopped expanding and allowed its existing portfolio to mature, would the mature location economics have been sufficient to cover corporate overhead and eventually reach company-level profitability? If yes, H3 retains some force (external capital withdrawal cut short a viable path). If no, H3 weakens further (the business was structurally below survival threshold regardless of external events).
 
-Next: The counterfactual is not directly observable. H3 investigation may be near its evidence ceiling — the 30%/70% maturity split, flat net margins, and lease inflexibility collectively suggest H3's "viable but shock-sensitive" framing faces significant pressure. One more search target: whether WeWork management or credible analysts identified a specific timeline to profitability that was credible before external events intervened.
+**H3-E04 (H3-Q4: Was there a credible pre-IPO path to company-level profitability?)**
 
-No hypothesis has earned support. No hypothesis has been rejected. H2 substantially weakened. H3 is under pressure. Investigation continues.
+Observation:
+Aswath Damodaran (NYU Stern, "Dean of Valuation"), writing in September 2019 after analyzing WeWork's S-1, stated: "the hope is that as the company matures, and its leaseholds age, they will turn profitable, but this is a model built on a knife's edge that, by design, will be sensitive to the smallest economic perturbations." Damodaran estimated WeWork's equity value at approximately $14B — roughly 70% below the $47B valuation at last private raise. Separately: WeWork's S-1 reported "Community Adjusted EBITDA" as a positive figure ($340M in H1 2019, $467M for full year 2018). This metric explicitly excluded: general and administrative expenses, sales and marketing expenses, growth and new market development expenses, pre-opening community expenses, and other operating expenses not incurred at the location level. G&A alone represented WeWork's primary corporate overhead — the costs of operating the company above the location level. The metric showing "positive economics" was constructed by excluding the costs that would determine whether company-level profitability was achievable.
+
+Interpretation:
+Damodaran's "knife's edge" framing simultaneously acknowledges a theoretical path to profitability and characterizes the conditions required as extremely narrow. "Sensitive to the smallest economic perturbations" is not a description of a viable business — it is a description of a business where any normal operating environment deviation becomes potentially fatal. WeWork's own custom metric ("Community Adjusted EBITDA") appeared to show the model working precisely because it excluded the corporate overhead layer that would have shown otherwise. A company that requires a custom profitability metric excluding G&A to demonstrate positive economics is not demonstrating company-level viability — it is demonstrating that the location model, in isolation, can work, while the company as a whole cannot.
+
+Potential impact on hypotheses:
+Against H3, with nuance. The theoretical path existed — Damodaran acknowledged it. But the conditions required were "knife's edge." A business requiring perfect conditions to reach profitability occupies an uncomfortable middle ground: not quite "non-viable" (the path exists), but not "viable but shock-sensitive" in any normal sense (any perturbation destroys the path). H3's strongest claim — that external events converted a viable trajectory into collapse — requires the trajectory to have been genuinely viable, not merely theoretically possible under ideal conditions. The "knife's edge" finding substantially narrows the space where H3 can operate.
+Insufficient alone.
+
+---
+
+## Current Position
+
+Status: H2 substantially weakened. H3 four entries gathered, assessment forming.
+
+H3 pattern (four entries):
+Mature locations: positive contribution margins (24-27%). Occupancy: improving but never reached breakeven (~93%). Net margin: flat at -104% despite revenue doubling. Expansion: externally funded, continuously adding immature locations. Lease structure: fixed long-term obligations without IWG's flexibility buffer. Path to profitability: acknowledged by Damodaran as theoretically possible, characterized simultaneously as "a knife's edge" requiring conditions sensitive to "the smallest economic perturbations."
+
+H3 provisional assessment (not final — H3 not fully investigated):
+The evidence does not cleanly resolve World A (non-viable) vs. World B (viable but shock-sensitive). What the evidence shows is a third condition: **theoretically viable under ideal conditions, structurally sensitive to any normal perturbation.** This is closer to World A than World B. The failed IPO may have been the event that triggered collapse — but the structural conditions had narrowed the survival window to the point where any sufficiently large disruption would have been fatal. The distinction between "failed IPO as cause" and "failed IPO as proximate trigger of pre-existing non-viability" becomes increasingly difficult to maintain.
+
+Open question for H3:
+Does "knife's edge viable" count as viable for H3's purposes? H3 requires the business to have been able to survive the external shock if the shock had not occurred. A knife's edge may survive in the absence of perturbation — but a business that cannot survive the smallest perturbation is not usefully "viable."
+
+No hypothesis has earned support. No hypothesis has been rejected. H2 substantially weakened. H3 is under significant pressure. Investigation continues.
