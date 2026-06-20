@@ -219,6 +219,20 @@ Until that search is exhausted, the zone is unresolved, not opaque. The distinct
 
 ---
 
+**Bridging Artifact Search — BlackBerry (First Pass)**
+
+A search was conducted for primary-source documentation of why Lazaridis/Heins rejected the BBM cross-platform alternative in favor of BB10.
+
+**Finding 1 — Heins's stated model:** "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing." (2012–2013, BlackBerry World and pre-BB10 launch). This documents what Heins believed, not what generated that belief. Zone A-partial: model expressed, motivation behind model not established.
+
+**Finding 2 — Lazaridis explicit refusal:** When the BBM rejection became public (Globe and Mail, September 2013), Lazaridis "declined to speak about board matters." The primary decision-maker was available and declined. This is an active opacity, not a preservation gap.
+
+**Interim conclusion:** Zone A for this specific question (why Lazaridis supported killing BBM) is opaque due to explicit primary-source refusal, not evidentiary absence. The distinction matters: it is a tighter claim than "we couldn't find the evidence."
+
+Further search targets exist (post-BlackBerry Lazaridis interviews, court records, published memoirs) and have not been exhausted. Zone A remains unresolved, not permanently closed.
+
+---
+
 **Relationship to Pressure Point #001 (Backward Excavation)**
 
 Pressure Point #001 observes that cases push the investigation toward earlier causal stages.

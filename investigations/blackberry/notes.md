@@ -1382,3 +1382,87 @@ The distinction between "why a choice was made" and "what choice was made" may b
 Organizations can be understood at the level of their selections without being understood at the level of their motivations.
 
 And that level of understanding may be precise enough to be useful while remaining incomplete enough to be honest about its limits.
+
+---
+
+## Bridging Artifact Search — Result Log
+
+**Attack question:** Can any public artifact bridge Zone A and Zone B — provide explicit primary-source documentation of why the BBM alternative was rejected, in terms that distinguish genuine belief from structural constraint?
+
+**Search conducted:** Lazaridis/Heins explicit rationale for BB10 over BBM platform; decision rationale interviews; "why we chose" BlackBerry 10 statements.
+
+---
+
+**Bridging Artifact Search — Finding 1**
+
+**What was found:** Heins's stated model of competition (2012–2013):
+
+> "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing."
+
+Additionally: "Android and Windows Phone are not mobile computing platforms."
+
+Source: PhoneArena, BlackBerry World 2012 reporting, multiple contemporaneous outlets.
+
+**Classification:** This is a Zone A-partial artifact. It documents what Heins believed about BB10's competitive positioning — the stated model is clear. But a stated model is not the same as a bridging artifact. The statement tells us what the model claimed (BB10 = genuine computing superiority), not what generated the model (genuine conviction vs. post-hoc rationalization of structural commitment). The Zone A question remains open.
+
+**Observation:** Heins's framing ("true mobile computing") is structurally parallel to the enterprise-extension model. Instead of "keyboard/security/enterprise = dominant," it is "architecture/computing power/platform = dominant." The model type is the same (hardware/OS superiority claim) applied to a new product. The model that killed the BBM alternative (BB10 superiority) is now explicitly stated. Whether that superiority was genuinely believed or was the closest available rationalization of structural constraint is still not recoverable.
+
+---
+
+**Bridging Artifact Search — Finding 2**
+
+**What was found:** Lazaridis's explicit refusal.
+
+When the BBM rejection became public knowledge (Globe and Mail, September 2013), Lazaridis "declined to speak about board matters" and had already resigned as a director. The primary decision-maker explicitly chose not to provide a public explanation for his reasoning.
+
+Source: Globe and Mail reporting, September 2013.
+
+**Classification:** This is not a gap in evidence. It is an active choice by the primary decision-maker not to externalize his motivation. The difference matters:
+
+- A gap: the evidence exists but was not preserved or accessed.
+- An explicit refusal: the decision-maker was available, was asked, and declined.
+
+This is the strongest available confirmation that Zone A is opaque — not because documentation was lost, but because the decision-maker actively kept it internal.
+
+**What this changes:** PP#002 records that Zone A may be permanently unresolved. Finding 2 narrows the claim: in the specific case of Lazaridis's rationale for killing the BBM proposal, Zone A is opaque because the primary source declined to speak. That is a more precise epistemic claim than "we couldn't find the evidence."
+
+---
+
+**Bridging Artifact Search — Interim Conclusion**
+
+Two searches, two relevant findings. Neither bridges Zone A.
+
+Finding 1 (Heins "true mobile computing"): Expresses a model; does not explain what generated it.
+
+Finding 2 (Lazaridis "declined to speak"): Explicitly confirms opacity at the primary-source level.
+
+**Zone A remains unresolved for the specific question of why Lazaridis supported killing the BBM alternative.** Further searches targeting Lazaridis's post-BlackBerry interviews, court records, or published memoirs could theoretically find bridging material. Until exhausted, this is unresolved — not permanently opaque.
+
+---
+
+**BlackBerry Artifact #15**
+
+**Source:** PhoneArena, BlackBerry World 2012 coverage; multiple contemporaneous outlets (TechRadar, CrackBerry). Reporting on Heins's public statements 2012–2013.
+**Date:** 2012 (BlackBerry World May 2012) and 2013 (BB10 launch preparation)
+**Subject:** Thorsten Heins, CEO Research In Motion / BlackBerry
+**Setting:** Public — CEO model statements about competitive landscape and BB10 positioning
+
+**Quotes:**
+- "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing."
+- "Android and Windows Phone are not mobile computing platforms."
+- (BlackBerry World 2012): "We will transform mobile communications into true mobile computing."
+
+> **Observation:** The incoming CEO chose BB10 and stated his model of why. The model: iOS, Android, and Windows Phone were architecturally inferior — "downsized PC platforms" or "not mobile computing platforms." BB10 was genuinely architecturally superior ("true mobile computing"). This was the model driving the decision to focus on BB10 rather than the BBM platform alternative.
+> **Interpretation:** Heins's stated model is a new version of the hardware-superiority claim. The enterprise-extension model said keyboard + security + enterprise relationships = dominant. Heins's BB10 model said architecture + computing platform + OS superiority = dominant. Both are "BlackBerry product will win because it is genuinely better" claims. What changed: the specific axis of superiority. What did not change: the basic model type (product superiority drives market position). The BBM alternative was a different model type entirely — revenue from platform/licensing, independent of product superiority. The BB10 model and the BBM model are not just different strategies. They encode different theories of what RIM is and what it competes on.
+> **Potential impact on hypotheses:** H4 gains a specific articulation: the model that killed the BBM alternative is now explicit. Heins believed BB10 was architecturally superior to competing platforms. Whether this is correct or not is observable in hindsight. Whether it was genuinely believed vs. structural rationalization remains Zone A-opaque. H3 receives an important nuance: if Heins genuinely believed BB10 was architecturally superior, then BB10's failure was execution failure of a genuinely held (if incorrect) model — which is an H3 reading inside an H4 frame. H5 receives indirect pressure: the model that killed the BBM alternative is not "we had no choice"; it is "we have a better option." That framing is more consistent with genuine conviction (H4) than structural constraint (H5).
+> Insufficient alone.
+
+**Classification:**
+- Model stated: BB10 = true mobile computing; iOS/Android = architecturally inferior
+- Zone: Zone A-partial — model expressed, not motivation behind model established
+- Chain position: Explicit model statement about what justified the BB10 decision
+- **Classification: Stated model for BB10 bet — not a bridging artifact for Zone A**
+
+**Why H5 receives indirect pressure from this artifact:** H5 (organizational constraint prevents revision) predicts that the rejection of BBM was mechanically driven by structure, regardless of belief. Heins's explicit "we have a better option" framing is inconsistent with "we had no choice." If structural constraint was the operative mechanism, the expected language would be "we couldn't afford to dilute our core business" or "carrier relationships prevented it" — not "iOS is architecturally inferior." The conviction-language is more consistent with H4 than H5. This does not establish H4; it pressures H5's claim of constraint.
+
+**Note:** Heins launched BB10 in January 2013. BB10 did not achieve the anticipated market recovery. BlackBerry's market share continued declining.
