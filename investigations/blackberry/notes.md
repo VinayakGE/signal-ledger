@@ -545,40 +545,59 @@ The investigation does not yet know which world it is in. Storm launched Novembe
 > Insufficient alone.
 
 **Classification:**
-- Recognition: Yes (Storm failure observed by both)
-- Implication: Divergent — Balsillie: "not dominant anymore"; Lazaridis: "first iteration, needs improvement"
-- Revision: Divergent — Balsillie revised; Lazaridis defended; organization retreated to enterprise
-- Decision: Yes — Storm 2 proceeded; enterprise retrenchment
-- **Chain stopped at: Model divergence between co-CEOs on same evidence; keyboard model defended not revised**
+- Recognition: Yes
+- Implication: Yes
+- Revision: Yes (but divergent — Balsillie revised; Lazaridis defended)
+- Decision: Yes (Storm 2 proceeded; enterprise retrenchment)
+- **Chain stopped at: Decision reached through competing models**
 
-**Critical finding:** Same failure, three responses: Balsillie revised model ("not dominant"), Lazaridis defended design (Storm 2), organization retreated (enterprise). The keyboard model was not eliminated by contradictory market feedback.
+**Why "competing models" and not "divergence": The chain did not stop. The chain reached Decision. What is unusual is that the chain reached Decision through multiple competing model revisions happening inside the same leadership team simultaneously, not sequentially.**
 
-**Answer to three-outcome test:**
-Not revised. Not merely defended. Partially doubled down (Storm 2) while one leader revised and the other defended. The investigation is in a fourth world not anticipated: divergent responses producing no unified revision.
+**Critical finding:** Same failure, three responses: Balsillie revised model ("not dominant"), Lazaridis defended design (Storm 2), organization retreated (enterprise). The keyboard model was not eliminated by contradictory market feedback. Revision occurred, but divergent.
 
 ---
 
 ## Pressure Accounting — After Artifacts #1 through #5
 
-H1 Industry Blindness: **Negative pressure** — category threat recognized early (Artifact #2); Balsillie revised model from Storm failure (Artifact #5)
-H2 External Discontinuity: **Negative pressure** — threat visible, acted upon, and interpreted in real time
-H3 Execution Failure: **Positive pressure** — Storm 2 treats execution as the problem, not model (Artifact #5)
-H4 Incorrect Demand Model: **Positive pressure** — keyboard model defended after contradictory feedback (Artifact #5); public model did not integrate private implication (Artifact #4)
-H5 Organizational Constraint: **Positive pressure** — Lazaridis avoiding negative feedback meetings (Artifact #5); sustained private/public divergence
+H1 Industry Blindness: **Negative pressure increasing** — threat explicitly processed by both leaders (Balsillie revised; Lazaridis responded), not unrecognized
+H2 External Discontinuity: **Negative pressure** — threat visible, acted upon, interpreted in real time
+H3 Execution Failure: **Positive pressure** — Storm 2 treats execution as the problem; but leaders interpret same failure differently
+H4 Incorrect Demand Model: **Positive pressure** — keyboard model defended after contradictory feedback; Balsillie revised but Lazaridis did not
+H5 Organizational Constraint: **Positive pressure** — Lazaridis avoiding negative feedback suggests structural information barrier; divergent revisions suggest constraint prevents unified integration
 
 **Preferred Explanation:** None
 
-Five artifacts. Pattern strengthening but H3, H4, H5 remain competitive.
+Five artifacts. H1 is clearly carrying the most negative pressure so far. No winner.
 
 ---
 
-**Observation After Five Artifacts (Not a Hypothesis)**
+**Observation (Not a Hypothesis, Not Promoted)**
 
-Leadership model divergence is now recurring across multiple artifacts:
-- Balsillie vs. Lazaridis on iPhone significance (Artifacts 1-2)
-- Lazaridis private vs. public model (Artifacts 2, 4)
-- Balsillie vs. Lazaridis on Storm failure implications (Artifact 5)
+After five artifacts, the strongest observable pattern is not:
 
-The divergence is not random. It follows a pattern: Balsillie consistently reaches more pessimistic model conclusions from the same evidence; Lazaridis consistently defends the keyboard-centered model. The organization follows neither fully — it retreats to enterprise.
+- Keyboard model survived (true, but not the load-bearing fact)
+- Storm failed (true, but not the mechanism)
+- Leadership disagreed (true, but not the explanation)
 
-**Next attack target:** What happened to the leadership divergence as market share began materially declining 2010-2011?
+**The strongest observable pattern is:**
+
+The same evidence generated different model revisions inside the same leadership team.
+
+Balsillie saw Storm failure → revised model ("not dominant anymore")
+Lazaridis saw Storm failure → defended model (Storm 2, avoided negative feedback)
+
+This is directly observable. This is not a hypothesis. This is not an explanation. This is a recurring pattern recorded.
+
+**Research discipline:** Do not drift from observation into explanation. Leadership divergence is not yet an explanation. It is an observed recurring pattern: Different leaders derive different revisions from the same evidence.
+
+---
+
+**Next Attack Target**
+
+When contradictory market feedback accumulated, did the leadership models converge, diverge further, or remain stable?
+
+Three possible outcomes. Each pressures different hypotheses.
+
+Market share decline became undeniable 2010-2011. The question is what happened to the divergence as the contradiction accumulated.
+
+This attack does not presuppose that either Balsillie or Lazaridis was "correct." It asks what happened to the relationship between their models as evidence accumulated.
