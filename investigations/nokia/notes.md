@@ -393,18 +393,78 @@ Not Assigned
 
 ## Current Position
 
-**H2 (Industry Blindness):**
-Weakened. Multiple incumbents missed the signal (RIM, Motorola, Sony Ericsson) — consistent with H2. But Samsung faced identical disruption and adapted by adopting Android. Nokia had the same option and declined. The blindness appears selective, not universal. H2 cannot explain why Samsung adapted while Nokia did not from the same available information.
+**Status:** Unresolved
 
-Revised claim H2 now supports: "Many incumbents were blind" — not "the signal was unreadable."
+After initial investigation of H2 (Industry Blindness) and H3 (External Discontinuity):
 
-**H3 (External Discontinuity):**
-Weakened. The strongest evidence was App Store timing (2008, not foreseeable from 2007 iPhone). But Nokia ran Download! in 2005, suggesting app platform awareness existed. And Nokia rejected Android in 2008 when it was available — meaning post-2008 decisions cannot be attributed to unavailability of alternatives. H3 may explain the 2005-2007 window; it does not explain 2008 onward.
+---
 
-**H4 (Organizational Constraint):**
-Not yet formally investigated, but two observations (E-H2-08, E-H3-06) already point here. Nokia's Symbian ownership, its rejection of Android, and its Download! deprioritization all suggest organizational factors. Opening H4 next is now earned.
+**H2 — Industry Blindness**
 
-**H1 (Signal Visible, Response Lagged):**
-Not yet investigated. Evidence count still insufficient to earn this. Do not classify.
+Current Assessment: Partially Supported
 
-**Next Step:** Open H4. Investigate Symbian ownership identity, internal debates about Android, and organizational incentives.
+Observations show that multiple incumbent handset manufacturers underestimated the significance of the iPhone and smartphone transition.
+
+However, evidence also shows that some actors adapted successfully or positioned themselves early enough to benefit from the transition.
+
+Current conclusion:
+Industry blindness was not universal.
+
+Open question:
+Why did some firms adapt while others did not?
+
+Confidence: Low-Medium
+
+---
+
+**H3 — External Discontinuity**
+
+Current Assessment: Partially Supported
+
+Observations suggest that platform economics and app ecosystems became increasingly important after the introduction of the App Store.
+
+However, evidence also indicates that Nokia had prior exposure to app-distribution concepts through Download! and related initiatives.
+
+Current conclusion:
+The disruption may have been partially foreseeable.
+
+Open question:
+Why were Nokia's early platform efforts not pursued aggressively?
+
+Confidence: Low-Medium
+
+---
+
+**H1 — Signal Visible, Response Lagged**
+
+Current Assessment: Not Yet Investigated
+
+No conclusion assigned.
+
+Evidence collection not yet sufficient.
+
+---
+
+**H4 — Organizational Constraint**
+
+Current Assessment: Not Yet Investigated
+
+No conclusion assigned.
+
+Evidence collection not yet sufficient.
+
+---
+
+**Overall Position**
+
+No hypothesis currently has sufficient support to justify classification.
+
+The investigation remains open.
+
+Most important unresolved questions:
+
+- U5: Why did Samsung adapt while Nokia did not?
+- U8: Why were Nokia's early platform efforts deprioritized?
+
+Next step:
+Continue evidence gathering focused on U5 and U8 before investigating H1 or H4.
