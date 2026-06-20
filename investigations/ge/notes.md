@@ -100,7 +100,7 @@ GE's institutional complexity degraded signal transmission. Problems existed but
 **Would weaken if:**
 Leadership had accurate operational information and chose not to act on it.
 
-**Status:** Uninvestigated
+**Status:** Under investigation — first evidence batch gathered (H2-E01 through H2-E04). Pattern emerging: evidence of organizational control failures (inadequate disclosure controls, CP target exceedance) partially supports H2. But the most visible signals — LTC insurance cost-lowering despite known trends, LTSA profit manipulation — look more like active management decisions than passive complexity-induced blindness. H2 and H3 may both be partially active. The key question is whether the signal degradation was internal (H2) or external-facing only (H3). Not yet resolved.
 
 ---
 
@@ -333,4 +333,38 @@ All entries follow mandatory format:
 
 ### H2 Evidence
 
-*No evidence gathered yet. Attack questions frozen above.*
+---
+
+**H2-E01 — GE Capital CP Target Exceedance, 2002**
+
+> **Observation:** GE Capital's stated internal target for commercial paper as a percentage of total debt was 25–35%. At the start of 2002, actual CP was approximately 42% of total debt — already exceeding the stated internal risk limit. By 2007, the CP position had grown to ~$106 billion. GE Capital was already operating above its own published risk parameters five years before the GFC.
+> **Interpretation:** Two readings are possible. First: the organization set limits it could not enforce — a signal that complexity or growth dynamics were overriding internal controls, consistent with H2. Second: the limits were treated as advisory rather than binding, and leadership chose to exceed them — consistent with C (strategic acceptance). The fact that the exceedance grew from 42% (2002) to an even larger position by 2007 — over five years — without correction suggests either sustained inability to enforce controls or sustained acceptance that the limits did not apply. These are different mechanisms with different H2 implications.
+> **Potential impact on hypotheses:** Ambiguous for H2. The target exceedance is consistent with organizational failure to enforce risk parameters (H2 — complexity preventing effective internal control), but also consistent with strategic choice to grow beyond the targets (C). Does not resolve the mechanism. Insufficient to establish H2. Opens H2-Q4 (did complexity delay or suppress signals?) as partially relevant.
+> Insufficient alone.
+
+---
+
+**H2-E02 — Long-Term Care Insurance: Internal Awareness, External Non-Disclosure, 2015–2017**
+
+> **Observation:** SEC found that during 2015 and 2016, it was internally acknowledged that GE's legacy long-term care insurance policies would be "a source of continuing and expected losses" and "posed a growing risk to GE's financial statements." Despite this internal acknowledgment, GE's insurance business (a) lowered projected claims costs in 2015 and 2016, and (b) did not publicly disclose the growing risk. In July 2017, GE disclosed a portfolio review. In January 2018, GE recorded an $8.9 billion reserve increase and $0.6 billion intangible write-off. The SEC found violations of antifraud provisions and inadequate accounting and disclosure controls. GE settled for $200 million.
+> **Interpretation:** This is the most important H2/H3 battleground in the evidence gathered so far. Three interpretations are possible. H2 reading: the insurance business unit made actuarial decisions in isolation, without adequate corporate-level oversight of the growing risk — organizational complexity prevented the signal from being properly surfaced or controlled. H3 reading: the risk was known at a sufficient organizational level and a decision was made to lower cost estimates anyway, suppressing the signal through accounting choices. C reading: leadership understood the growing risk and deliberately did not disclose it, accepting the exposure while managing external perception. The SEC's finding of "inadequate disclosure controls" is specifically relevant to H2 — it identifies a structural failure in how information was controlled and surfaced. But "lowered projected claims costs despite known rising trends" describes an active decision that cuts against pure H2.
+> **Potential impact on hypotheses:** Ambiguous between H2, H3, and C. The "inadequate disclosure controls" finding partially supports H2 — organizational structure failed to surface and control the risk signal. The active lowering of cost estimates despite known trends partially supports H3 — a mechanism was employed to suppress the signal. The two findings coexist in the same case, which means H2 and H3 may both be partially active, and distinguishing their relative contribution requires knowing at what organizational level the cost-lowering decision was made. If made at the business unit level without corporate oversight, H2 gains. If made with corporate direction, H3 and C gain.
+> Insufficient alone.
+
+---
+
+**H2-E03 — GE Power LTSA Manipulation: Mechanism Analysis**
+
+> **Observation:** SEC found that GE misled investors about GE Power's profitability. $1.4 billion in 2016 and $1.1 billion in the first three quarters of 2017 of GE Power's profits stemmed from reductions in cost estimates on Long Term Service Agreements (LTSAs) — representing approximately 25% of Power profits in 2016 and nearly 50% in H1 2017. Additionally, GE Capital was used to factor (purchase) LTSA receivables from the Power unit, bringing future cash flows into the present to improve reported near-term cash generation. The SEC found these practices constituted disclosure violations. Known publicly from December 2020 SEC settlement.
+> **Interpretation:** The LTSA mechanism is complex and cross-divisional — it involves Power unit cost estimates, GE Capital as the factoring counterparty, and consolidated corporate reporting. The complexity of the mechanism is genuinely relevant to H2: a reader of GE's consolidated financials would have had difficulty understanding that Power's profitability was contingent on favorable LTSA cost assumptions, or that cash was being advanced from GE Capital. However, the mechanism also required active management decisions at multiple levels (Power unit cost estimate changes, GE Capital factoring arrangements) — these are not passive consequences of organizational complexity. They are constructed financial arrangements.
+> **Potential impact on hypotheses:** Mixed for H2, stronger for H3. The opacity of the mechanism to external observers is consistent with H2's prediction that complexity degrades signal quality — but the relevant degradation was external (to investors), not internal (to leadership). H2 predicts that decision-makers lacked access to accurate signals. The LTSA evidence suggests decision-makers had access (they were making the cost estimate decisions) but that external parties lacked clarity. This is more precisely H3 (financial engineering suppressing signal visibility) than H2 (organizational complexity destroying internal signal quality). However, the cross-divisional structure (Power + Capital) may have reduced internal challenge or oversight — H2 and H3 may both be partially active.
+> Insufficient alone.
+
+---
+
+**H2-E04 — SEC Finding: Inadequate Accounting and Disclosure Controls**
+
+> **Observation:** In its 2020 settlement, the SEC cited GE not only for disclosure violations (antifraud provisions) but specifically for "inadequate accounting and disclosure controls." This is a structural finding about GE's organizational control mechanisms — not just about what was disclosed, but about whether the system for ensuring accurate disclosure was adequate. GE settled without admitting or denying the findings.
+> **Interpretation:** "Inadequate disclosure controls" is a structural verdict. It points to organizational failure to maintain systems that would catch and surface material information — consistent with H2's claim that complexity degraded signal transmission. However, inadequate controls can result from deliberate under-resourcing of oversight functions (consistent with H3 or C) as well as from genuine organizational complexity overwhelming control systems (consistent with H2). The SEC finding names the structural failure without identifying its cause.
+> **Potential impact on hypotheses:** Partially supports H2. The inadequate disclosure controls finding is the most direct external validation that GE's organizational structure failed to accurately surface and transmit material information — the core H2 claim. However, the finding does not establish whether the inadequacy resulted from complexity (H2) or from deliberate management choices (H3/C). H2 gains partial support from the structural diagnosis; the mechanism driving the inadequacy remains unresolved.
+> Insufficient alone.
