@@ -2,9 +2,9 @@
 
 **System:** BlackBerry (Research In Motion)
 
-**Status:** Battlefield frozen — Evidence = 0
+**Status:** Active — Evidence accumulating
 
-**Classification:** None
+**Classification:** In progress — 10 artifacts classified
 
 **Preferred Hypothesis:** None
 
@@ -601,3 +601,868 @@ Three possible outcomes. Each pressures different hypotheses.
 Market share decline became undeniable 2010-2011. The question is what happened to the divergence as the contradiction accumulated.
 
 This attack does not presuppose that either Balsillie or Lazaridis was "correct." It asks what happened to the relationship between their models as evidence accumulated.
+
+---
+
+**BlackBerry Artifact #6**
+
+**Source:** Multiple secondary sources (Business Standard, NBC News, Wirefly) reporting on 2011–2012 leadership situation. Primary facts from contemporaneous coverage.
+**Date:** 2011–January 2012
+**Subject:** Jim Balsillie and Mike Lazaridis, co-CEOs; RIM board
+**Setting:** Market inflection period; board removed both co-CEOs
+
+**Observable Facts:**
+- US market share: 37% (Sept 2010) → iPhone surpassed BlackBerry (April 2011) → 14.6% by end of 2011
+- PlayBook launch 2011: no email feature on launch, poor sales, $485M write-down
+- Balsillie: concerned with device quality; attempted to address problems
+- Lazaridis: per accounts, struggled to acknowledge technical/quality issues despite returns and complaints
+- Strategic decision-making described as "ineffective" during this period
+- Board: lost confidence end of 2011; both resigned January 2012
+
+> **Observation:** As market evidence accumulated through 2011 — iPhone surpassing BlackBerry in April 2011, market share collapsing — the leadership models did not converge. They persisted and diverged further. Balsillie moved toward quality and consumer market revision; Lazaridis continued to maintain his model despite accumulating market evidence. PlayBook launched without email — a core BlackBerry value proposition — suggesting organizational incoherence between what the product represented and what leadership's different models required. Board intervention was required to resolve what market evidence could not.
+> **Interpretation:** Contradictory market feedback did not force model convergence. This survived Storm failure (2009), market share collapse (2010–2011), and PlayBook failure (2011). Leadership models did not converge through repeated feedback. External intervention (board) was required. This is a stronger observation than "leadership disagreed" — temporary disagreement resolves under pressure. This disagreement persisted across multiple rounds of contradictory feedback.
+> **Potential impact on hypotheses:** H1 weakens further — both leaders actively processing threat throughout this period. H3 positive pressure — PlayBook execution failure is real. H4 positive pressure — keyboard model persisted through market evidence. H5 strongest positive pressure so far — organizational constraint (co-CEO divergence) prevented unified revision across multiple feedback rounds; required external intervention.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes (multiple, competing)
+- Revision: Yes (multiple competing revisions, no unified revision)
+- Decision: Yes (PlayBook launched; enterprise retrenchment continued)
+- **Chain reached Decision. Unusual feature: no unified organizational model emerged. Leadership models diverged further through accumulating market feedback.**
+
+**Strongest observation after Artifact #6 (not a hypothesis):**
+
+Contradictory market feedback did not force model convergence.
+
+This is stronger than "leadership disagreed" because disagreement can be temporary. This observation survived:
+- Storm failure (2009)
+- Market share collapse (2010–2011)
+- PlayBook failure (2011)
+- Board intervention (2012)
+
+The disagreement persisted through all of them.
+
+**Research discipline:** The observation is: divergence persisted. The mechanism remains open. Possible mechanisms still include H3, H4, H5. Do not drift from "divergence persisted" to "therefore H5." The observation belongs to all three.
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #6
+
+H1 Industry Blindness: **Strong negative pressure** — both leaders actively processing threat throughout 2007–2012
+H2 External Discontinuity: **Negative pressure** — threat visible, acted upon, interpreted in real time
+H3 Execution Failure: **Moderate positive pressure** — Storm execution (Artifact #3), PlayBook execution (Artifact #6)
+H4 Incorrect Demand Model: **Moderate positive pressure** — keyboard model persisted through contradictory feedback
+H5 Organizational Constraint: **Strongest positive pressure** — divergence persisted across multiple feedback rounds; required board intervention to resolve (Artifacts #5, #6)
+
+**Preferred Explanation:** None
+
+H1 is carrying the most negative pressure. H5 is carrying the most positive. But H3, H4, H5 remain competitive — the mechanism is not yet established.
+
+---
+
+**BlackBerry's Emerging Pressure Point (Not GE's Shape)**
+
+GE's pressure point: Information → Model (gap between information available and model held)
+
+BlackBerry's pressure point: Evidence → Model Revision (the surprising thing is not that leaders had different models; it is that accumulating evidence did not eliminate those differences)
+
+These are different pressure points. The fact that they differ is the finding.
+
+---
+
+**Next Attack Target**
+
+Not: What happened after 2012?
+
+Instead: Did either leadership model produce superior predictions between 2009–2011?
+
+Three possible outcomes:
+1. Balsillie's model consistently anticipated reality better → divergence becomes informative about who was learning
+2. Lazaridis's model consistently anticipated reality better → divergence inverts the apparent story
+3. Both models repeatedly failed → neither was learning; both were wrong in different ways
+
+This separates H3, H4, H5 instead of accumulating pressure on all three simultaneously.
+
+---
+
+**BlackBerry Artifact #7**
+
+**Source:** BBC television interview, April 13, 2011. Reported by Globe and Mail, TechCrunch, Global News, MacDailyNews. Video clip went viral as BBC's most-viewed video that day.
+**Date:** April 13, 2011
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public — BBC interview. Questions about government interference with BlackBerry security in Middle East and India.
+
+**Quote/Action:** When asked whether RIM had "sorted out" security issues in the Middle East and India: "You implied that we have a security problem; we don't have a security problem." Followed by: "It's over, the interview. You can't use that, it's not fair, it's national security." [Terminated interview]
+
+> **Observation:** In April 2011, Lazaridis was challenged publicly by BBC about BlackBerry's security issues with governments in India and the Middle East. He rejected the premise of the challenge and terminated the interview. The clip went viral.
+> **Interpretation:** The challenge concerns security and government access — not directly smartphone strategy, touchscreen adoption, or consumer demand. What is observable: challenge received, challenge rejected, interview terminated. What is not yet established: whether this reflects model defense about smartphone strategy, media handling behavior, national security concerns about topic sensitivity, or organizational culture.
+> **Potential impact on hypotheses:** Observable: defensive response to external challenge. Probable: consistent with pattern from Artifact #5 (avoiding negative feedback). But similarity is not yet established recurrence — Artifact #5 was internal, this is external, and the subject matter differs. Artifact #7 does not yet separate H4 from H5, and does not answer whether either model was generating better predictions about market reality.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (challenge received)
+- Challenge: Yes
+- Response: Challenge rejected — "we don't have a security problem"
+- Decision: Interview terminated
+- **Chain stopped at: Response to challenge**
+
+**What this artifact clearly shows:** Challenge received. Challenge rejected. Interview terminated.
+
+**What this artifact does NOT show:** Model defense about smartphone strategy specifically. The subject is security/government access, not consumer market. The bridge between this challenge and the smartphone market model has not been established.
+
+**Why superficial similarity to Artifact #5 does not yet establish recurrence:** The interview could reflect personality, media handling practice, genuine national security concern about discussing the topic publicly, organizational culture, or model defense. The artifact alone does not separate these mechanisms.
+
+**What Artifact #7 does NOT answer:** The predictive-performance question. Behavior under challenge ≠ learning from market reality. The load-bearing attack — did either model generate better predictions 2009–2011? — remains open.
+
+---
+
+**BlackBerry Artifact #8**
+
+**Source:** Balsillie public statement, October 19, 2010. Reported by Engadget, CBC News, Computerworld, Fortune, CTV News. Response to Steve Jobs earnings call remarks.
+**Date:** October 19, 2010
+**Subject:** Jim Balsillie, co-CEO Research In Motion
+**Setting:** Public — statement responding to Steve Jobs's investor call comments comparing iPhone vs. BlackBerry shipments
+
+**Quote:** "For those of us who live outside of Apple's distortion field, we know that 7-inch tablets will actually be a big portion of the market and we know that Adobe Flash support actually matters to customers who want a real web experience."
+
+> **Observation:** October 2010 — BlackBerry at US market share peak-to-trough inflection (~37%). Balsillie is making two specific, falsifiable market predictions: (1) 7-inch tablets will be a big portion of the market; (2) Adobe Flash support matters to real customers. Context: RIM had just announced the PlayBook (7-inch tablet with Flash support). Both claims are forward-looking and testable. Outcome of predictions: Flash was deprecated by major browsers by 2020; 7-inch Android tablets did gain some market share but not in ways that vindicated PlayBook; PlayBook launched April 2011 without email, to poor reception; $485M write-down (Artifact #6).
+> **Interpretation:** This is the first artifact that directly addresses the predictive-performance question. Balsillie's model in October 2010 was generating specific, testable claims. Flash prediction: directionally wrong. 7-inch form factor prediction: partially right (Android tablets grew) but did not vindicate RIM's specific bet. Balsillie's model-level diagnosis from Artifact #5 ("not dominant anymore") may have been correct; his specific product predictions in Artifact #8 were partially wrong. This means Balsillie's model was not uniformly superior — it correctly identified the competitive problem while misidentifying the specific strategic response.
+> **Potential impact on hypotheses:** Partial answer to predictive-performance question. Balsillie was generating specific predictions, at least one of which (Flash) was directionally wrong. This complicates the story: Balsillie's model may have been better at diagnosing the problem (Artifact #5) while worse at identifying the solution (Artifact #8). H3 gains pressure — both leaders may have been wrong about the solution even when one was right about the problem. H4 gains pressure — incorrect demand model extends beyond Lazaridis to Balsillie's specific product predictions. H5 still active.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes
+- Implication: Yes — 7-inch tablets big market; Flash matters to consumers
+- Revision: Not observed (forward-looking prediction, not retrospective revision)
+- Decision: Prior (PlayBook already underway)
+- **Chain stopped at: Implication (forward-looking prediction)**
+
+**Predictions recorded (not yet evaluated):**
+- Prediction P1: 7-inch tablets will be a large portion of the market
+- Prediction P2: Adobe Flash support matters to customers
+
+Outcome evaluation kept separate to prevent hindsight contamination. Predictions are recorded here as made. Comparison to reality logged when both models have been exposed to the same standard.
+
+**What Artifact #8 wounds:** A hidden assumption beginning to form — "Balsillie revised → therefore Balsillie understood." A leader can correctly diagnose decline (Artifact #5: "not dominant anymore") and still produce poor forward predictions. Diagnosis and Prediction are different capabilities. The artifact separates them.
+
+**Lazaridis predictive performance still needed** to complete the comparison.
+
+---
+
+**BlackBerry Artifact #9**
+
+**Source:** TD Newcrest technology conference, Toronto, April 2010. Reported Engadget (April 16, 2010), CrackBerry (updated with full context). Note: initial summary reports may have simplified his position; fuller transcript context shows more nuanced framing.
+**Date:** April 2010
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public investor/technology conference keynote. Seventeen months post-Storm launch; eleven months post-Storm failure documentation.
+
+**Statements:**
+- Neither a touchscreen-only nor a QWERTY-only handset fully satisfies enterprise and consumer needs
+- Many customers of touchscreen phones intend to switch to a QWERTY device; touchscreen alone unable to provide needed convenience for daily tasks
+- Tablet market: "not clear yet"
+
+> **Observation:** April 2010, seventeen months after Storm launch and eleven months after Storm failure documented, Lazaridis made specific claims about consumer behavior at an investor conference. The position is more nuanced than "keyboards only" — neither form factor alone wins; users will seek QWERTY eventually. Tablet market characterized as unclear.
+> **Interpretation:** First Lazaridis prediction artifact. Equivalent in structure to Balsillie's Artifact #8. Specific falsifiable claims: (1) touchscreen-only users will return to QWERTY, (2) neither form factor alone satisfies, (3) tablets unclear. Sourcing note: initial reports may have condensed position; fuller context suggests more nuanced framing. Recording based on fuller-context version. Evaluation deferred to prevent hindsight contamination.
+> **Potential impact on hypotheses:** H4 gains pressure — April 2010 model predicts consumer behavior (QWERTY return) that market did not validate. H3 still active — position could reflect engineering judgment on usability rather than demand model error. H5 active — investor conference setting may shape public statement.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (touchscreen adoption acknowledged as real)
+- Implication: Yes — neither form factor alone satisfies; consumers will migrate back to QWERTY
+- Revision: Not observed
+- Decision: Not established from this artifact
+- **Chain stopped at: Implication (forward-looking prediction about consumer behavior)**
+
+**Predictions recorded (not yet evaluated):**
+- Prediction P3: Touchscreen-only users will switch to QWERTY devices
+- Prediction P4: Neither touchscreen-only nor QWERTY-only fully satisfies user needs
+- Prediction P5: Tablet market not yet clear (April 2010)
+
+**Sourcing note:** Reports differ on exact wording; full transcript context differs from initial summaries. Classification based on conservative, fuller-context version.
+
+---
+
+## New Distinction Emerging (Not a Hypothesis, Not Promoted)
+
+BlackBerry is quietly separating two capabilities that the investigation had been treating as one:
+
+**Diagnosis:** Accurately reading current competitive position
+**Prediction:** Accurately forecasting what follows from that position
+
+Artifact #5 showed Balsillie diagnosing: "We are no longer dominant."
+Artifact #8 asks: What future did Balsillie predict follows from that diagnosis?
+
+These do not necessarily travel together.
+
+A leader can:
+- Diagnose correctly and predict correctly → learning from reality
+- Diagnose correctly and predict incorrectly → seeing the problem, wrong about the solution
+- Diagnose incorrectly and predict incorrectly → not learning from reality
+- Diagnose incorrectly and predict correctly → wrong model, right outcome (luck or coincidence)
+
+GE's parallel distinction: Information vs. Understanding (data visible, model wrong)
+BlackBerry's emerging distinction: Diagnosis vs. Prediction (decline recognized, future misread)
+
+These are different pressure points. The fact that they differ is what makes BlackBerry a distinct case.
+
+**Current Predictive Performance State:**
+
+Balsillie:
+- Diagnosis: Some evidence of accuracy (Artifact #5)
+- Prediction: P1 and P2 recorded (Artifact #8), outcomes not yet evaluated
+
+Lazaridis:
+- Diagnosis: Unresolved
+- Prediction: P3, P4, P5 recorded (Artifact #9), outcomes not yet evaluated
+
+**Attack mode shift:** Collection phase complete. Both leaders now on same playing field. Attack now pairs Prediction → Outcome for both.
+
+**Not yet established:** Which model learned better. The investigation has not earned "Balsillie good / Lazaridis bad."
+
+---
+
+## Prediction Ledger
+
+Prediction record for outcome pairing. Outcomes populated when observable by 2011-2012.
+
+**Balsillie (October 2010):**
+
+| ID | Prediction | Outcome by 2011-2012 | Source |
+|----|-----------|----------------------|--------|
+| P1 | 7-inch tablets will be a large portion of the market | Partially supported: 7-inch Android tablet segment grew 100% in 2012 (34M units). However, iPad (9.7-inch) dominated at 55-61% market share. P1 directionally right on 7-inch growth but wrong on scale of dominance. | TechCrunch, Pew Research, Gulf News 2012 |
+| P2 | Adobe Flash support matters to customers | Not supported: Adobe killed mobile Flash November 2011, 13 months after prediction. HTML5 replaced it. Apple's ban proved predictive of industry direction. | Adobe announcement Nov 2011; InfoQ 2011 |
+
+**Lazaridis (April 2010):**
+
+| ID | Prediction | Outcome by 2011-2012 | Source |
+|----|-----------|----------------------|--------|
+| P3 | Touchscreen-only users will switch to QWERTY devices | Not supported: Touchscreen adoption accelerated. In Q1 2010, 60% of smartphones were touch-driven, 27% QWERTY. By 2011-2012, touchscreen share continued to grow; QWERTY declined. No evidence of switching wave. | GSMArena, PhoneArena market reports |
+| P4 | Neither touchscreen-only nor QWERTY-only fully satisfies | Partially complex: Market bifurcated — touchscreen-only dominated consumer; enterprise retained some QWERTY preference temporarily. Not a clear market validation; the dominant trend was touchscreen-only winning consumer, not compromise form factors. | Market share reports 2011-2012 |
+| P5 | Tablet market not yet clear (April 2010) | Not supported as strategic ambiguity: By April 2010, iPad had launched (April 3, 2010 — same month as prediction). iPad sold 3 million units in first 80 days. The tablet market was clarifying rapidly at the moment Lazaridis called it unclear. | Apple Q2 2010 earnings |
+
+**Outcome summary (preliminary — not yet full evaluation):**
+
+- Balsillie P1: Directionally right, scale wrong
+- Balsillie P2: Wrong (Flash killed within 13 months)
+- Lazaridis P3: Not supported by market behavior
+- Lazaridis P4: Partially complex, not validated as stated
+- Lazaridis P5: Wrong — market was clarifying at time of statement
+
+**Critical discipline note:** Outcome evaluation is logged separately from artifact classification. The above is outcome data observable by 2011-2012, not retrospective judgment. The timing of iPad launch (April 3, 2010) relative to Lazaridis's P5 (April 2010) deserves specific scrutiny — he called tablets unclear while iPad had already launched.
+
+**What the outcome pairing does NOT yet establish:** Which model improved when reality pushed back. Outcome accuracy of initial predictions is one data point. Whether either leader updated their model after outcomes became visible is the deeper question — still open.
+
+**Important nuance on P3/P4:** Lazaridis's prediction is not "keyboards beat touchscreens." It is "neither pure form factor wins." The investigation should not compress this into "Keyboard good, Touchscreen bad."
+
+---
+
+## Attack Surface Transition — After Prediction Ledger
+
+**Before:** Who had the better model?
+
+**Now:** What happened after reality graded the models?
+
+These are different questions. Prediction accuracy and model revision are different objects. A model can generate poor predictions and still update rapidly. A model can generate good predictions and refuse revision.
+
+**What has actually been learned:**
+
+Both leaders produced falsifiable market predictions.
+Both leaders accumulated contradictory market feedback.
+Predictive superiority: Not established.
+
+**Resist:** "Both models roughly equal because P1 partly right, P2 wrong, P3 wrong, P4 complex." The ledger has not earned that. Accuracy is not revision.
+
+**The distinction that matters now:**
+
+Wrong model → H4 territory
+
+Model that remained wrong after feedback arrived → much more informative; pressures H5
+
+**The next attack question (for each prediction whose outcome became visible):**
+
+1. Did the prediction survive unchanged?
+2. Did the leader revise it?
+3. Did the organization revise it?
+4. Did decisions change?
+
+These levels can separate — BlackBerry has already shown leader revision and organization revision can diverge (Artifact #5).
+
+**Best first target:** P5 (Lazaridis: "tablet market not yet clear," April 2010) → iPad launched April 3, 2010, same month → iPad dominance became clear within months → PlayBook launched April 2011 without email feature. This is the tightest prediction-outcome-response sequence available.
+
+**Next artifact:** First clean example of prediction meeting reality and the organizational response to it. That is where H4 vs H5 separation becomes visible.
+
+---
+
+**BlackBerry Artifact #10**
+
+**Source:** NBC News (PlayBook coverage, April 2011); CrackBerry (September 2010 PlayBook announcement coverage); Apple Q2 2010 earnings call; multiple contemporaneous 2010–2011 reports.
+**Date:** April 2010 (P5 stated) → April 3, 2010 (iPad launched) → September 2010 (PlayBook announced) → April 2011 (PlayBook launched)
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Prediction → Market outcome → Organizational response → Product decision
+
+**P5 sequence:**
+
+1. **Prediction (April 2010, Artifact #9):** Lazaridis: "Tablet market not yet clear."
+2. **Outcome:** iPad launched April 3, 2010 — same month. iPad achieved rapid market adoption. Tablet demand materialized much faster than the "not yet clear" framing implied. Apple sold 3 million units in first 80 days.
+3. **Response (September 2010):** RIM announced the BlackBerry PlayBook — 7-inch tablet, designed without native email client.
+4. **Decision-encoding statement (April 2011):** Lazaridis, on PlayBook launch: "It's an amplified view of what's already on your BlackBerry."
+
+> **Observation:** P5 was stated in April 2010. iPad launched the same month and achieved rapid market adoption. RIM's organizational response (PlayBook, announced September 2010, launched April 2011) did not reconceive the tablet as a new device category. It was framed as an extension of the BlackBerry platform — "an amplified view of what's already on your BlackBerry." The PlayBook launched without native email — the defining BlackBerry value proposition. The design encoded the enterprise-extension model: you needed a BlackBerry phone nearby to use full PlayBook features.
+> **Interpretation:** This is the tightest prediction-outcome-response sequence in the investigation. The prediction ("market unclear") was contradicted by observable market evidence within weeks. The organizational response did not integrate that contradiction — it produced a product that extended the existing BlackBerry model rather than reconceiving it. The "amplified view" framing is not neutral: it encodes the assumption that tablets are auxiliary to phones and that phones remain the primary device. That assumption had already been challenged by iPad's adoption pattern. The chain reached Decision. The decision encodes the existing model.
+> **Potential impact on hypotheses:** H4 gains significant pressure — decision encoded existing enterprise-extension model despite prediction outcome clearly visible. H5 gains partial pressure — the "bridge-to-phone" design may reflect organizational constraint (enterprise customer expectation) or may reflect model itself (genuine belief that extension is right). Critical: this artifact begins to separate H4 from H5. If PlayBook's design reflects the model, H4. If it reflects organizational constraint that prevented a different desired approach, H5. The evidence does not yet establish which.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (tablet market existed and was growing — iPad launch same month)
+- Implication: Yes — market was clarifying faster than predicted
+- Revision: Not observed — PlayBook design extends existing model
+- Decision: Yes — PlayBook launched as enterprise-extension device, requiring BlackBerry phone, without native email
+- **Chain stopped at: Decision that encodes existing model**
+
+**Why this is the strongest artifact so far:** This is the first artifact that completes the entire chain — Prediction → Outcome → Response → Decision — with all four stages observable and documented. Previous artifacts reached Decision (Artifacts #3, #5, #6) but without clear Prediction → Outcome pairing. Artifacts #8 and #9 recorded predictions without yet reaching the response stage. Artifact #10 closes the loop.
+
+**H4 vs H5 partial separation:**
+
+- **H4 path:** PlayBook was designed as enterprise-extension because the leadership model genuinely believed phones remain primary, tablets are auxiliary. The design reflects a genuine demand model.
+- **H5 path:** PlayBook was designed as enterprise-extension because enterprise customer contracts, carrier relationships, or organizational processes prevented a different approach that leadership might have preferred.
+- **What distinguishes them:** H4 predicts the "amplified view" framing reflects genuine belief. H5 predicts it reflects constraint — that leadership privately recognized a different design was needed but could not execute it.
+- **What Artifact #10 does not establish:** Which path is active. It establishes the Decision and the model it encodes. It does not establish whether the model drove the decision or whether the decision was forced onto the model.
+
+**Evidence of model persistence observed (not proven):**
+
+The prediction-to-decision sequence provides the first direct evidence that the enterprise-extension model persisted after prediction outcome contradicted it. This is stronger than model existence (Artifacts #1, #4); it is model persistence after feedback. Whether that persistence is H4 or H5 remains open.
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #10
+
+H1 Industry Blindness: **Substantially pressured** — threat explicitly processed by both leaders across multiple rounds of evidence (Artifacts #1–#6); neither leader was blind
+H2 External Discontinuity: **Substantially pressured** — threat was visible, acted upon, and interpreted in real time; PlayBook announced same month as iPad launch
+H3 Execution Failure: **Moderate positive pressure** — nine-month Storm deadline (Artifact #3); PlayBook launched without email (Artifact #6, #10); evidence of technical constraint
+H4 Incorrect Demand Model: **Strengthened** — now carries "model persistence after feedback" (Artifact #10), not merely "model existence" (Artifacts #1, #4); H4 and H5 not yet separated
+H5 Organizational Constraint: **Positive pressure** — divergence persisted across multiple feedback rounds (Artifacts #5, #6); bridge-device design possibly reflects constraint (Artifact #10); not yet separated from H4
+
+**Preferred Explanation:** None
+
+**Critical distinction:** H4 and H5 have moved together through Artifacts #1–#9. Artifact #10 begins to separate them. The separation question: does the enterprise-extension model persist because leadership believed it (H4) or because organizational structure prevented a different approach (H5)?
+
+---
+
+## Next Attack Surface
+
+**The load-bearing question now:**
+
+> When reality contradicted the model, what evidence exists that the model was reconsidered?
+
+Not revised successfully. Not revised correctly. Simply reconsidered.
+
+The first evidence that leadership explicitly questioned the enterprise-extension thesis would be the first direct wound against the model-persistence line that Artifact #10 is building.
+
+**For each prediction with observable outcome (P1–P5), the four-level sequence:**
+
+1. Did the prediction survive unchanged?
+2. Did the leader revise it?
+3. Did the organization revise it?
+4. Did decisions change?
+
+These levels can separate independently. BlackBerry has already shown leader revision and organization revision can diverge (Artifact #5).
+
+**Search target:** Lazaridis or Balsillie statements between April 2011 (PlayBook launch) and January 2012 (resignation) that explicitly reconsider the enterprise-extension model — not statements defending it, not statements about execution, but statements questioning whether the model itself is correct.
+
+---
+
+**BlackBerry Artifact #11**
+
+**Source:** New York Times interview, approximately April 2011. Secondary reporting: PhoneArena (April 13, 2011), TechRadar ("RIM bosses don't understand BlackBerry negativity"). Original NYT article not directly retrieved.
+**Date:** Approximately April 2011
+**Subject:** Mike Lazaridis, co-CEO Research In Motion
+**Setting:** Public interview with New York Times. Approximate timing: same month as PlayBook launch (April 19, 2011), during documented market share decline (37% → 14.6% from 2010 to end of 2011), after BBC interview termination (April 13, 2011, Artifact #7).
+
+**Quote:** "Why is it that people don't appreciate our profits? Why is it that people don't appreciate our growth? Why is it that people don't appreciate the fact that we spent the last four years going global? Why is it that people don't appreciate that we have 500 carriers in 170 countries with products in almost 30 languages?"
+
+> **Observation:** April 2011 — market share falling, PlayBook launched without email (Artifact #10), BBC interview terminated (Artifact #7). When directly confronted with accumulated external criticism, Lazaridis did not reconsider the enterprise-extension model. He reframed the challenge as a failure of external understanding: critics don't appreciate the company's fundamentals. The model embedded in the response: RIM's operational footprint (profits, growth, carriers, geographic reach) is evidence of soundness. The problem is misperception, not model error.
+> **Interpretation:** The question "why don't people appreciate us" is structurally different from "what are we doing wrong." The first encodes the assumption that the problem is external (critics are wrong). The second opens the model to reconsideration. Lazaridis's April 2011 response is the clearest evidence yet that the enterprise-extension model was not being reconsidered — it was being defended against external pressure. The framing of carrier count and geographic reach as evidence of soundness is notable: these are metrics of the enterprise-extension model's execution, not of competitive position in the consumer smartphone market. The model defines which facts count as evidence of health.
+> **Potential impact on hypotheses:** H4 gains strong pressure — in April 2011, with clear market evidence visible, Lazaridis was defending the model rather than reconsidering it. The metrics cited (carriers, countries, languages, profits) are not the metrics that measure consumer smartphone competitive position. H5 receives a partial challenge — if Lazaridis genuinely believes "they don't appreciate us," this is consistent with H4 (model is wrong, but genuinely held) rather than H5 (model is doubted internally, constraint prevents change). First artifact that begins to separate H4 from H5 on Lazaridis's side.
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes (criticism received, challenge acknowledged)
+- Implication: Not reconsidered — reframed as external misunderstanding
+- Revision: Not observed — no indication model is being questioned
+- Decision: Not established from this artifact
+- **Chain stopped at: Challenge defended — model not reconsidered**
+
+**What this artifact directly answers:** The question "was the model reconsidered?" Lazaridis's response is not reconsideration. It is bewilderment at criticism. This is the closest available evidence to a direct negative answer: in April 2011, the enterprise-extension model's metrics were cited as evidence of soundness, not as evidence of a problem.
+
+**Sourcing note:** Quote attributed through secondary reporting; original NYT article not directly retrieved. Admissible but flagged. Multiple independent secondary sources (PhoneArena, TechRadar) reproduce substantially the same quote.
+
+---
+
+**BlackBerry Artifact #12**
+
+**Source:** InvestorPlace, "A Brief History of Research In Motion" (January 29, 2013), attributed to July 2011 statement during RIM workforce reduction announcement. Additional citations: The Canadian Encyclopedia ("The Fall of the BlackBerry Titans").
+**Date:** July 2011
+**Subject:** Jim Balsillie, co-CEO Research In Motion
+**Setting:** Public — during announcement of 10% workforce reduction (approximately 2,000 employees). RIM US market share approximately 14-15% and falling.
+
+**Quote:** "No other technology company other than Apple has successfully transitioned their platform. It's almost never done, and it's way harder than you realize. This transition is where tech companies go to die."
+
+> **Observation:** July 2011 — during workforce reduction announcement, with market share in confirmed decline, Balsillie made a public statement about platform transitions. The statement acknowledges: (1) the transition is existential; (2) success is rare; (3) the transition specifically "is where tech companies go to die." This is not a reassurance. It is an explicit acknowledgment of the danger zone. Context: separately, Balsillie was internally developing the "SMS 2.0" / BBM licensing proposal — an alternative model that would pivot RIM from handset company to messaging platform.
+> **Interpretation:** The question for this artifact is whether "this is where tech companies go to die" represents model reconsideration. Two readings: (A) Acknowledgment reading — Balsillie is stating that they are in the death zone and the implication is that something must change radically. (B) Exculpatory reading — Balsillie is pre-empting future failure by establishing that success was statistically unlikely, framing any outcome as expected. The investigation cannot establish which reading is correct from this quote alone. What can be established: the quote acknowledges the transition's danger without specifying what model revision is required. It names a problem; it does not name what must change about the enterprise-extension model. Compared to Artifact #11 (Lazaridis: model defended), Artifact #12 (Balsillie: danger acknowledged) represents a different response to the same period. But "danger acknowledged" is not "enterprise-extension model reconsidered."
+> **Potential impact on hypotheses:** H4 receives mixed pressure — Balsillie acknowledging danger zone is consistent with recognition; but not identifying the model as the problem is consistent with model persistence. H5 gains pressure — Balsillie separately proposing BBM pivot while making this public statement suggests public acknowledgment of danger and private reconsideration of model; but the two leaders are again diverging in their responses (Lazaridis defending, Balsillie acknowledging). H4 and H5 separate further: Lazaridis behavior in April 2011 is more consistent with H4 (genuinely wrong model); Balsillie behavior in July 2011 is more consistent with H5 (recognizes problem, constrained from acting on alternative model).
+> Insufficient alone.
+
+**Classification:**
+- Recognition: Yes — transition is dangerous; platform transitions kill tech companies
+- Implication: Yes — existing state is not viable (implicit)
+- Revision: Not established — danger acknowledged but specific model not named for revision
+- Decision: Not established from this artifact
+- **Chain stopped at: Danger acknowledged — model unspecified for revision**
+
+**Why this is structurally different from Artifact #11 (Lazaridis):**
+Lazaridis: "Critics don't appreciate us" → model defended
+Balsillie: "This is where tech companies go to die" → danger acknowledged
+
+Same period. Same declining market. Different responses. The divergence has persisted from 2007 (Artifact #1 vs. #2) through April-July 2011.
+
+**Sourcing note:** Quote attributed through secondary reporting (InvestorPlace, 2013). Context (July 2011, layoff announcement) confirmed by multiple sources. Original primary statement not directly retrieved. Admissible but flagged.
+
+---
+
+**BlackBerry Artifact #13**
+
+**Source:** TechCrunch, January 23, 2012 ("New RIM CEO: 'I Don't Think There Is A Drastic Change Needed'"); phys.org, January 23, 2012; Gulf News; NBC News. All reporting on Heins's first press conference/conference call as CEO, January 22, 2012.
+**Date:** January 22, 2012
+**Subject:** Thorsten Heins, incoming CEO, Research In Motion
+**Setting:** Public — first press conference as new CEO, the day after Lazaridis and Balsillie announced resignation. RIM stock fell 8% following remarks.
+
+**Quote:** "I don't think there is some drastic change needed."
+
+> **Observation:** January 22, 2012 — the day after both co-CEOs stepped down. The board's choice of successor (Heins, former COO) made his first public statement as CEO: no drastic change is needed. The company would "evolve strategy, evolve tactics, evolve processes." RIM stock fell 8% after this remark. This is not a co-CEO statement — it is the board's organizational choice and its first public model statement after the leadership departure.
+> **Interpretation:** The investigation has been asking whether the model was reconsidered between April 2011 (PlayBook launch) and January 2012 (resignations). Artifact #13 is the organizational answer: the board chose a successor who publicly stated on day one that no drastic change was needed. This is not evidence about what Lazaridis or Balsillie privately believed. It is evidence about what the organization — as represented by its new CEO, chosen by its board — concluded was required. The conclusion: evolution, not reconception. The enterprise-extension model was not explicitly identified for revision at the moment of leadership transition.
+> **Potential impact on hypotheses:** H4 gains further pressure — the organization's own conclusion (via board choice and Heins statement) was that the model was sound and only execution required evolution. H5 receives a structural challenge: if the problem was organizational constraint preventing a desired change, the removal of Lazaridis and Balsillie would have been expected to release that constraint. The incoming CEO's statement suggests the constraint, if it existed, was deeper than the co-CEO level — embedded in board-level understanding of the company. H3 (execution failure) gains some support — "evolve tactics, evolve processes" is an execution framing.
+> Insufficient alone.
+
+**Classification:**
+- Source: Organizational (incoming CEO / board choice, not co-CEO)
+- Model statement: Enterprise-extension model endorsed — no drastic change needed
+- Revision: Explicitly denied at organizational level
+- Decision: Continuity framed as evolution
+- **Chain stopped at: Model continuity explicitly stated**
+
+**Why this artifact matters for the attack question:** The attack was: "What evidence exists that the model was reconsidered?" Artifact #13 is the most direct negative answer available: after both co-CEOs left, the organization chose a successor who stated no drastic change was needed. This is not evidence that the model was correct. It is evidence that the model was not reconsidered at the organizational level even at the moment of maximum external pressure (leadership departure, stock decline).
+
+---
+
+## Pressure Accounting — After Artifacts #1 through #13
+
+H1 Industry Blindness: **Substantially pressured** — both leaders explicitly processed the threat across seven years; neither displayed blindness
+H2 External Discontinuity: **Substantially pressured** — threat visible, acted upon, and processed in real time; market data was available and cited
+H3 Execution Failure: **Moderate positive pressure** — Heins framing ("evolve tactics, processes") consistent with H3; Storm nine-month deadline (Artifact #3); PlayBook without email (Artifact #10); but execution framing may itself reflect the model
+H4 Incorrect Demand Model: **Strongest positive pressure** — model persistence documented through market share collapse (Artifacts #10–#13); Lazaridis defended model in April 2011; Heins explicitly stated no drastic change January 2012; enterprise-extension model never publicly identified for revision
+H5 Organizational Constraint: **Positive pressure, weakened slightly** — Artifact #13 challenges H5: if co-CEO divergence was the constraint, removing both co-CEOs should have enabled model revision; Heins "no drastic change" suggests the model persisted beyond the co-CEOs, which is consistent with H4 (genuine belief) more than H5 (constraint prevents desired change)
+
+**Critical separation:** Artifacts #11–#13 have begun to separate H4 from H5:
+- H4 path (model genuinely held): Lazaridis's April 2011 defense, Heins's January 2012 continuity, organizational "evolution not reconception" are all consistent with genuine belief
+- H5 path (constraint prevents revision): Challenged by Artifact #13 — the constraint was expected to ease when co-CEOs left; it did not
+- Balsillie's behavior (Artifact #12) remains more H5-compatible: acknowledged danger, internally proposed BBM pivot, was constrained from executing
+
+**Current state of investigation:** H4 is carrying the strongest positive pressure. H5 remains active but weakened. H3 active but may be downstream of H4 (execution framing chosen because model told them what to execute). H1 and H2 substantially pressured.
+
+**Preferred Explanation:** None. Sufficient pressure exists to make H4 the leading hypothesis, but not sufficient to close H5 or H3.
+
+---
+
+## Observation — Model Reconsideration Attack Result (Not a Hypothesis)
+
+The "model reconsideration" attack has now produced evidence across three levels:
+
+**Individual (Lazaridis, April 2011, Artifact #11):** Model defended. Critics reframed as not appreciating the company's fundamentals. No reconsideration.
+
+**Individual (Balsillie, July 2011, Artifact #12):** Danger acknowledged. "This is where tech companies go to die." Separate private proposal (BBM pivot) developing. No explicit model reconsideration in public statement.
+
+**Organizational (Heins, January 2012, Artifact #13):** Model explicitly confirmed. "No drastic change needed." Evolution framing. No reconception.
+
+**Across all three levels:** No evidence found that the enterprise-extension model was explicitly reconsidered — named as wrong, questioned at its core, or identified for revision — between April 2011 and January 2012.
+
+This is the first time the investigation has accumulated evidence answering a direct attack question with a consistent direction across three independent sources at different levels of the organization.
+
+The observation is: the enterprise-extension model persisted without explicit reconsideration through the period when market evidence most strongly challenged it. This strengthens model persistence (H4) and pressures the distinction between H4 and H5.
+
+---
+
+## Investigation Fork — H4 vs H5 Separation
+
+**State after Artifact #13:**
+
+H4 is carrying the strongest positive pressure. H5 has absorbed a wound. But the wound is specific: person-level H5 (co-CEO structure as constraint) is challenged by Heins's continuity statement. Institution-level H5 remains alive.
+
+**The wounded version of H5:**
+
+> Co-CEO structure prevented model revision.
+
+Challenged by: Heins's "no drastic change needed" after both co-CEOs departed.
+
+**The surviving version of H5:**
+
+> The organization was optimized around the enterprise-extension model. Leadership changes did not change the model because the model was institutionalized — embedded at the board level, carrier relationship level, enterprise contract level. The constraint was not the co-CEOs. The constraint was the institution.
+
+This is a different claim. It is not the same as "co-CEO divergence prevented revision." The constraint moved from person-level to institution-level. That move has not been defeated by Artifact #13.
+
+**The test that has not been run:**
+
+The evidence shows:
+- Lazaridis defended the model
+- Balsillie partially diverged
+- Heins continued the model
+
+What it does not show: **Did an alternative model exist inside BlackBerry and lose?**
+
+That question separates H4 from H5 more cleanly than any artifact so far.
+
+- **If an alternative model existed and was systematically defeated:** H5 regains force. Persistence may reflect institutional selection mechanisms, not genuine shared belief.
+- **If no alternative model existed at all:** H4 gains force. The dominant model may have been genuinely believed across the institution.
+
+These are different worlds. The investigation has not yet established which one BlackBerry occupied.
+
+**Next Attack Question (replacing "model reconsideration"):**
+
+> Was there an identifiable alternative model inside BlackBerry between 2010–2012?
+
+Not whether that model was correct. Only whether it existed.
+
+Candidates to search:
+- Balsillie's BBM-as-platform / SMS 2.0 proposal
+- Any internal proposal for Android adoption or touchscreen-first design
+- Any consumer-first strategic option explicitly considered and rejected
+- Any app-ecosystem-first model proposed internally
+
+**Why this attack matters:**
+
+If the alternative model existed and lost internally → the mechanism of persistence matters, not just the fact of persistence → H5 institution-level survives.
+
+If no alternative model existed → the institution genuinely held one model → H4 compresses toward established.
+
+**Research discipline for this attack:**
+
+Do not search for: "BlackBerry rejected Android" (smuggles the conclusion)
+
+Search for: "BlackBerry internal strategy debate" / "RIM Android proposal" / "Balsillie BBM platform pitch" / "RIM board strategic options 2011"
+
+Same discipline as all prior attacks. First locate the evidence. Then classify.
+
+---
+
+**BlackBerry Artifact #14**
+
+**Source:** Globe and Mail (September 2013, Balsillie direct statement); CBC News (reporting on Globe and Mail); Silicon.co.uk; CrackBerry ("An inside look at BlackBerry — from the 'iPhone killer' to SMS 2.0"); International Business Times (BBM cross-platform history). Multiple independent sources confirm the same sequence.
+**Date:** Late 2011 (Balsillie develops proposal; pitches to AT&T and carriers) → January 2012 (Heins takes over) → February 2012 (Heins kills BBM cross-platform, backed by Lazaridis) → March 29, 2012 (Balsillie leaves RIM board)
+**Subject:** Jim Balsillie (co-CEO until January 2012, board director until March 2012); Thorsten Heins (incoming CEO); Mike Lazaridis (co-founder, board member)
+**Setting:** Internal strategy — alternative model proposed, debated, killed
+
+**The Alternative Model (Balsillie):**
+
+Balsillie proposed making BlackBerry Messenger available on all smartphones — not just BlackBerry devices — via carrier licensing. Carriers would offer BBM as "SMS 2.0," a premium replacement for standard text messaging. Revenue source: platform/licensing fees from carriers, not hardware margins. The model decouples RIM's value proposition from BlackBerry hardware entirely.
+
+Balsillie pitched this to AT&T and other major carriers before his January 2012 resignation as co-CEO.
+
+**The Rejection:**
+
+Weeks after Heins became CEO in January 2012, he killed the BBM cross-platform strategy. Lazaridis supported the decision. The stated reason, per a source close to the board: "We had to get the BlackBerry 10 out, and we couldn't be distracted."
+
+Balsillie left the RIM board on March 29, 2012. His public explanation (Globe and Mail, September 2013): "My reason for leaving the RIM board in March, 2012, was due to the company's decision to cancel the BBM cross-platform strategy."
+
+> **Observation:** An alternative model existed, was formally developed, was actively pitched to carriers, and was killed within weeks of Heins taking over — with Lazaridis's support. The rejection rationale was "focus on BlackBerry 10" — not "the platform model is wrong," but "the platform model is a distraction from the hardware model." The mechanism of rejection: Heins + Lazaridis coalition outvoting the proposal; Balsillie's departure followed.
+> **Interpretation:** This artifact answers the fork question: an alternative model DID exist inside BlackBerry between 2010–2012. It was named (BBM cross-platform / SMS 2.0), formally proposed by a co-CEO, pitched externally to carriers, and killed by an institutional coalition. The investigation is now in a more complex position. The existence of the alternative model provides evidence for institution-level H5: a competing model was present and lost. But the rejection mechanism — "focus on BB10, can't be distracted" — is itself an expression of the enterprise-extension model. The model that killed the alternative model IS the enterprise-extension model. This creates an entanglement: was the alternative killed because the institution genuinely believed BB10 was the right path (H4), or because structural commitments to the hardware/OS model made killing alternatives mechanically predictable regardless of genuine belief (H5)?
+> **Potential impact on hypotheses:** H5 (institution-level) regains significant force — alternative model existed, was defeated by institutional coalition; Balsillie's departure is direct evidence that the institutional structure selected against the competing model. H4 also gains a specific nuance — Lazaridis's support for killing the BBM proposal is striking: the same person who privately concluded "competing with a Mac" in 2007 chose the hardware/OS path over the platform path in 2012. That five-year arc is the clearest evidence of model persistence in the investigation. H4 and H5 are now genuinely entangled around this artifact.
+> Insufficient alone.
+
+**Classification:**
+- Alternative model: Yes — BBM cross-platform / SMS 2.0 (platform-licensing model)
+- Formally proposed: Yes — by co-CEO, pitched to major carriers
+- Killed: Yes — Heins decision, backed by Lazaridis
+- Stated rationale: "Focus on BB10 — couldn't be distracted"
+- Proposer's departure: Direct consequence (Balsillie, March 2012)
+- **Classification: Alternative model existed, was defeated by institutional coalition**
+
+**The critical observation this artifact generates:**
+
+The stated reason for killing the BBM model — "focus on BB10" — is not a neutral operational priority. It is a commitment to a specific theory of recovery: that a better BlackBerry hardware product will recapture the market. That theory is the enterprise-extension model. The alternative model was killed by the model it would have replaced. This is circular in a specific way: the model's adherents had institutional power, used that power to kill the alternative, and the exercise of that power is itself the model in action.
+
+This does not resolve H4 vs H5. It deepens the entanglement. H4 says: the model was genuinely believed; BB10 focus was a genuine strategic conviction. H5 says: the institutional structures (BB10 investment, carrier relationships, hardware margins) made killing the alternative mechanically predictable regardless of whether anyone "genuinely believed" in BB10.
+
+**What this artifact does NOT establish:** Whether the rejection reflected genuine belief (H4) or structural constraint on available choices (H5). That distinction may not be resolvable from external evidence.
+
+---
+
+## H4/H5 Entanglement — Observation After Artifact #14
+
+**Not a hypothesis. Not promoted. An observation about the investigation's current state.**
+
+The fork question was: Did an alternative model exist?
+
+Answer: Yes.
+
+The follow-up question was: What happened to it?
+
+Answer: Killed by institutional coalition. Proposer departed.
+
+The question this raises: Was the killing H4 (genuine belief in BB10) or H5 (structural commitment to hardware model prevented platform pivot)?
+
+**The entanglement:** These two explanations are not cleanly separable from available evidence.
+
+H4 evidence: Lazaridis — who privately recognized the Mac-level threat in 2007 — chose to support killing the platform alternative in 2012. If anyone in the institution understood the threat, it was Lazaridis. His choice of BB10 over BBM-platform is the most direct evidence of genuine model persistence through five years of contradictory feedback.
+
+H5 evidence: The rejection rationale ("can't be distracted") encodes the very model it is protecting. The institutional structure gave the BB10-focused coalition veto power. Balsillie — the leader who already held the divergent model from 2007 — was outvoted and departed. The structure selected against the alternative.
+
+**What would separate them:**
+
+Evidence that Lazaridis (or Heins) privately doubted BB10 but chose it anyway due to structural commitments → H5.
+
+Evidence that Lazaridis genuinely believed BB10 was the path to recovery despite five years of contradictory feedback → H4.
+
+That distinction is likely not recoverable from available public evidence. The investigation may be approaching an irreducible zone.
+
+**Current hypothesis state:**
+
+H1: Substantially pressured
+H2: Substantially pressured
+H3: Active — "focus on BB10" is an execution framing; H3 predicts execution was the problem
+H4: Leading — model persistence documented through Lazaridis's five-year arc; BB10 focus as genuine conviction
+H5: Regained force — alternative model existed, was killed by institutional coalition; Balsillie's departure is structural evidence
+H4/H5: Genuinely entangled; may not be resolvable from available public evidence
+
+**Preferred Explanation:** None
+
+---
+
+## Methodological Checkpoint — Irreducible Zones
+
+After Artifact #14, the investigation can distinguish two different zones where uncertainty may be permanent. This distinction changes what counts as "resolution."
+
+### Irreducible Zone A: Motivation
+
+**Question:** Why did Lazaridis support killing BBM Platform?
+
+**Possible answers:**
+- Genuine conviction that BB10 was the path
+- Sunk commitments to hardware/OS strategy
+- Identity attachment (founder of BlackBerry)
+- Board or investor pressure
+- Execution concerns (couldn't execute both)
+- Organizational incentive structures
+
+**Status:** Opaque. Public evidence cannot separate these. This is the classic internal-interpretation problem that GE exposed. Access to Lazaridis's private reasoning, board minutes, or personal correspondence might resolve it. Public evidence will not.
+
+**Why this is not the strongest observation:** Claims about Zone A (Lazaridis chose wrong; Lazaridis was constrained) require access to internal states the investigation does not have.
+
+### Irreducible Zone B: Structure
+
+**Question:** What happened when an alternative model appeared?
+
+**Observable sequence (established):**
+1. Alternative model existed — BBM cross-platform / SMS 2.0
+2. Alternative model was formally developed — not speculative, formally built
+3. Alternative model reached decision-makers — pitched to Balsillie (co-CEO), reached Lazaridis and Heins (board/CEO)
+4. Alternative model was rejected — killed weeks after Heins took over
+5. Existing model survived — BB10 strategy continued
+
+**Status:** Observable. Not opaque. The sequence is recoverable from available evidence.
+
+**Why this is the strongest observation:** Does not require access to Lazaridis's mind. Does not require assumptions about his internal conviction or constraints. Requires only documentation of what happened.
+
+---
+
+## The Asymmetry with Prior Cases
+
+**Kodak Investigation #001:**
+- Type: Closure
+- Finding: Organization understood the problem; failed to execute response
+- Zone: Motivation (internal state) was interpretable from evidence
+
+**Nokia Investigation #002:**
+- Type: Structured uncertainty
+- Finding: Multiple competing causal hypotheses; no clean resolution
+- Zone: Both motivation and structure remain contested
+
+**WeWork Investigation #003:**
+- Type: State-space refinement
+- Finding: Expanded understanding of what "model failure" means in founder-led private companies
+- Zone: Motivation (founder's self-narrative) partly observable; structure (incentive misalignment) partly observable
+
+**GE Investigation #004:**
+- Type: Model-failure pressure test (active)
+- Finding: Information available but model disputed (gap between data visible and model held)
+- Zone: Model motivation (why Immelt held this model) is the open question; zone A
+
+**BlackBerry Investigation #005 (emerging):**
+- Type: Selection without explanation
+- Finding: Alternative existed, was considered, was rejected. Reason for rejection not recoverable.
+- Zone: Structure (Zone B) is observable. Motivation (Zone A) is opaque.
+
+---
+
+## The Distinction That Matters
+
+**Not:** Lazaridis chose wrong / Lazaridis was constrained
+
+**But:** The organization generated an alternative model and selected against it. The selection was observable. The reason for the selection may not be.
+
+This is a different class of statement. It does not require access to Lazaridis's mind.
+
+---
+
+## BlackBerry's Emerging Finding Type
+
+If the boundary between Zone A and Zone B holds under further attacks, BlackBerry may produce a unique output:
+
+**Selection without explanation:**
+
+An organizational mechanism that is observable but not interpretable from available public evidence.
+
+- Not: An alternative was absent
+- Not: An alternative was invisible  
+- Not: An alternative was considered but immediately dismissed
+
+But: An alternative existed, was formally developed, reached decision-makers, was rejected, and the reason the rejection won remains irrecoverable from available evidence.
+
+That is not the same as "uncertainty about the reason."
+
+It is "observable selection without explanatory access."
+
+---
+
+## Zone B as a Finding (Not Zone A)
+
+The investigation's strongest earned statement may therefore be:
+
+> Between 2010–2012, BlackBerry's leadership generated an alternative organizational strategy (BBM cross-platform licensing). The alternative was formally developed by executive leadership, was pitched to major carriers, and was rejected within weeks of the CEO transition, with the founder's support. The stated rationale for rejection ("focus on BB10 — couldn't be distracted") was consistent with the enterprise-extension model the alternative would have replaced. Whether that consistency reflects genuine conviction, sunk commitments, organizational constraints, or other mechanisms cannot be determined from available public evidence.
+
+This statement:
+- Does not claim to know what Lazaridis believed
+- Does not claim to know what constrained whom
+- Does describe an observable organizational selection against an alternative
+- Does identify the boundary of available evidence
+
+That boundary is where the investigation currently stands.
+
+---
+
+## Pressure Accounting Refined (after Zone A/B distinction)
+
+**H1: Substantially pressured** — threat explicitly recognized; no blindness claim survives
+
+**H2: Substantially pressured** — threat visible and acted upon in real time; not a blind external shock
+
+**H3: Active** — "focus on BB10" is an execution framing; execution failure remains competitive with model failure
+
+**H4 (Model Failure):** 
+- Supported by Zone B evidence: model persistence observable through alternative's defeat
+- Weakened by Zone A opacity: cannot establish genuine belief vs. constraint without accessing Lazaridis's internal state
+- Strongest specific evidence: Lazaridis's five-year arc (2007 private recognition → 2012 active support for hardware strategy)
+
+**H5 (Organizational Constraint):**
+- Supported by Zone B evidence: alternative model generated and defeated by institutional coalition
+- Remains competitive because: the defeat mechanism is observable; the reason for the defeat is not
+- Strongest specific evidence: Balsillie's departure directly consequent to model rejection
+
+**H4 and H5 entangled at Zone A boundary:** Both hypotheses have purchase on the observable structure (Zone B). Neither can be conclusively established without resolving what cannot be resolved (Zone A).
+
+**Preferred Explanation:** None. H1 and H2 pressured. H3, H4, H5 competitive.
+
+---
+
+## What Changes If Zone B Boundary Holds
+
+If further attacks confirm that Zone B is observable and knowable, while Zone A remains opaque, then BlackBerry teaches:
+
+The distinction between "why a choice was made" and "what choice was made" may be the most important methodological boundary in organizational failure analysis.
+
+Organizations can be understood at the level of their selections without being understood at the level of their motivations.
+
+And that level of understanding may be precise enough to be useful while remaining incomplete enough to be honest about its limits.
+
+---
+
+## Bridging Artifact Search — Result Log
+
+**Attack question:** Can any public artifact bridge Zone A and Zone B — provide explicit primary-source documentation of why the BBM alternative was rejected, in terms that distinguish genuine belief from structural constraint?
+
+**Search conducted:** Lazaridis/Heins explicit rationale for BB10 over BBM platform; decision rationale interviews; "why we chose" BlackBerry 10 statements.
+
+---
+
+**Bridging Artifact Search — Finding 1**
+
+**What was found:** Heins's stated model of competition (2012–2013):
+
+> "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing."
+
+Additionally: "Android and Windows Phone are not mobile computing platforms."
+
+Source: PhoneArena, BlackBerry World 2012 reporting, multiple contemporaneous outlets.
+
+**Classification:** This is a Zone A-partial artifact. It documents what Heins believed about BB10's competitive positioning — the stated model is clear. But a stated model is not the same as a bridging artifact. The statement tells us what the model claimed (BB10 = genuine computing superiority), not what generated the model (genuine conviction vs. post-hoc rationalization of structural commitment). The Zone A question remains open.
+
+**Observation:** Heins's framing ("true mobile computing") is structurally parallel to the enterprise-extension model. Instead of "keyboard/security/enterprise = dominant," it is "architecture/computing power/platform = dominant." The model type is the same (hardware/OS superiority claim) applied to a new product. The model that killed the BBM alternative (BB10 superiority) is now explicitly stated. Whether that superiority was genuinely believed or was the closest available rationalization of structural constraint is still not recoverable.
+
+---
+
+**Bridging Artifact Search — Finding 2**
+
+**What was found:** Lazaridis's explicit refusal.
+
+When the BBM rejection became public knowledge (Globe and Mail, September 2013), Lazaridis "declined to speak about board matters" and had already resigned as a director. The primary decision-maker explicitly chose not to provide a public explanation for his reasoning.
+
+Source: Globe and Mail reporting, September 2013.
+
+**Classification:** This is not a gap in evidence. It is an active choice by the primary decision-maker not to externalize his motivation. The difference matters:
+
+- A gap: the evidence exists but was not preserved or accessed.
+- An explicit refusal: the decision-maker was available, was asked, and declined.
+
+This is the strongest available confirmation that Zone A is opaque — not because documentation was lost, but because the decision-maker actively kept it internal.
+
+**What this changes:** PP#002 records that Zone A may be permanently unresolved. Finding 2 narrows the claim: in the specific case of Lazaridis's rationale for killing the BBM proposal, Zone A is opaque because the primary source declined to speak. That is a more precise epistemic claim than "we couldn't find the evidence."
+
+---
+
+**Bridging Artifact Search — Interim Conclusion**
+
+Two searches, two relevant findings. Neither bridges Zone A.
+
+Finding 1 (Heins "true mobile computing"): Expresses a model; does not explain what generated it.
+
+Finding 2 (Lazaridis "declined to speak"): Explicitly confirms opacity at the primary-source level.
+
+**Zone A remains unresolved for the specific question of why Lazaridis supported killing the BBM alternative.** Further searches targeting Lazaridis's post-BlackBerry interviews, court records, or published memoirs could theoretically find bridging material. Until exhausted, this is unresolved — not permanently opaque.
+
+---
+
+**BlackBerry Artifact #15**
+
+**Source:** PhoneArena, BlackBerry World 2012 coverage; multiple contemporaneous outlets (TechRadar, CrackBerry). Reporting on Heins's public statements 2012–2013.
+**Date:** 2012 (BlackBerry World May 2012) and 2013 (BB10 launch preparation)
+**Subject:** Thorsten Heins, CEO Research In Motion / BlackBerry
+**Setting:** Public — CEO model statements about competitive landscape and BB10 positioning
+
+**Quotes:**
+- "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing."
+- "Android and Windows Phone are not mobile computing platforms."
+- (BlackBerry World 2012): "We will transform mobile communications into true mobile computing."
+
+> **Observation:** The incoming CEO chose BB10 and stated his model of why. The model: iOS, Android, and Windows Phone were architecturally inferior — "downsized PC platforms" or "not mobile computing platforms." BB10 was genuinely architecturally superior ("true mobile computing"). This was the model driving the decision to focus on BB10 rather than the BBM platform alternative.
+> **Interpretation:** Heins's stated model is a new version of the hardware-superiority claim. The enterprise-extension model said keyboard + security + enterprise relationships = dominant. Heins's BB10 model said architecture + computing platform + OS superiority = dominant. Both are "BlackBerry product will win because it is genuinely better" claims. What changed: the specific axis of superiority. What did not change: the basic model type (product superiority drives market position). The BBM alternative was a different model type entirely — revenue from platform/licensing, independent of product superiority. The BB10 model and the BBM model are not just different strategies. They encode different theories of what RIM is and what it competes on.
+> **Potential impact on hypotheses:** H4 gains a specific articulation: the model that killed the BBM alternative is now explicit. Heins believed BB10 was architecturally superior to competing platforms. Whether this is correct or not is observable in hindsight. Whether it was genuinely believed vs. structural rationalization remains Zone A-opaque. H3 receives an important nuance: if Heins genuinely believed BB10 was architecturally superior, then BB10's failure was execution failure of a genuinely held (if incorrect) model — which is an H3 reading inside an H4 frame. H5 receives indirect pressure: the model that killed the BBM alternative is not "we had no choice"; it is "we have a better option." That framing is more consistent with genuine conviction (H4) than structural constraint (H5).
+> Insufficient alone.
+
+**Classification:**
+- Model stated: BB10 = true mobile computing; iOS/Android = architecturally inferior
+- Zone: Zone A-partial — model expressed, not motivation behind model established
+- Chain position: Explicit model statement about what justified the BB10 decision
+- **Classification: Stated model for BB10 bet — not a bridging artifact for Zone A**
+
+**Why H5 receives indirect pressure from this artifact:** H5 (organizational constraint prevents revision) predicts that the rejection of BBM was mechanically driven by structure, regardless of belief. Heins's explicit "we have a better option" framing is inconsistent with "we had no choice." If structural constraint was the operative mechanism, the expected language would be "we couldn't afford to dilute our core business" or "carrier relationships prevented it" — not "iOS is architecturally inferior." The conviction-language is more consistent with H4 than H5. This does not establish H4; it pressures H5's claim of constraint.
+
+**Note:** Heins launched BB10 in January 2013. BB10 did not achieve the anticipated market recovery. BlackBerry's market share continued declining.

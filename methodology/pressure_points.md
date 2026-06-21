@@ -128,4 +128,234 @@ Not yet earned as a formal constraint. Recorded here as a subsidiary pressure po
 
 ---
 
-*No further entries yet.*
+---
+
+## Pressure Point #002 — Observable Selection, Opaque Motivation
+
+**Date first recorded:** 2026-06-20
+
+**Status:** Active pressure point. Earned at moderate strength. Not promoted to constraint.
+
+**Cross-case support:** GE (#004), BlackBerry (#005) — independent cases, different industries, different failure modes, boundaries appear in different locations
+
+**Strength assessment:** Moderate. Two cases. Specific falsification condition established. Remains vulnerable to Class C evidence.
+
+---
+
+**Observation:**
+
+In two independent cases, the investigation has recovered an observable organizational event — a choice, a position, a decision — while the internal motivation driving that event has remained opaque to public evidence.
+
+The two instances:
+
+| Case | Observable Event | Opaque Interior |
+|------|-----------------|-----------------|
+| GE | Exposure position established in industrial conglomerates (visible from public filings, analyst records) | Whether Immelt privately understood the risk model being built; whether the exposure position was a deliberate strategic bet or an unexamined assumption |
+| BlackBerry | Alternative model (BBM cross-platform / SMS 2.0) formally developed, reached decision-makers, was rejected by Heins + Lazaridis coalition (visible from contemporaneous reporting, Balsillie's direct public statement) | Whether Lazaridis genuinely believed BB10 was the recovery path, or whether structural commitments (sunk costs, carrier relationships, organizational momentum) made the rejection mechanically inevitable regardless of genuine belief |
+
+In both cases, the investigation can describe **what was selected** and cannot recover **why the selection occurred**.
+
+---
+
+**The Distinction Being Generated**
+
+This is not the same as Nokia's uncertainty.
+
+Nokia's uncertainty: Which competing explanation best accounts for the evidence? (Hypothesis competition; uncertainty about what is true)
+
+GE/BlackBerry's boundary: The organizational event is established. What cannot be established is the internal causal mechanism driving the event. (Motivational opacity within a resolved structural sequence)
+
+These are different types of uncertainty:
+- Nokia: Which story is correct?
+- GE/BlackBerry: We know what happened; we cannot recover why it happened from available evidence.
+
+---
+
+**Why This May Matter**
+
+If this boundary appears consistently across independently selected cases, it has implications for what Signal Ledger can and cannot claim.
+
+Signal Ledger is built on the premise that organizational failures can be investigated through publicly available evidence. This pressure point is generating pressure on the boundary of that premise.
+
+The emerging candidate observation (not yet a constraint):
+
+> Motivations may remain unrecoverable even when structural decisions are observable.
+
+This is not a rule. It is an observation under pressure. The difference matters:
+
+- **Rule form:** "Motivations are unrecoverable." — not supported; too strong; closes the search prematurely
+- **Observation form:** "Motivations may remain unrecoverable even when structural decisions are observable." — supported by current evidence; leaves the search open; does not claim permanence
+
+An organization's decisions can be documented. An organization's internal causal process for those decisions may remain inaccessible from public evidence — not necessarily because the evidence was lost, but because the decisive content (what a specific person believed, or whether a belief was genuine vs. constrained) was not externalized in forms that reach the public record.
+
+---
+
+**The Observation Is Falsifiable**
+
+This is not a philosophical statement. It is an empirical one, and it can be attacked.
+
+To attack it precisely requires understanding what kind of evidence could bridge Zone A. Three evidence classes exist, and they are not equivalent.
+
+---
+
+**Evidence Class A — Structural Evidence**
+
+What was decided. What was proposed. What was rejected. Sequenced from contemporaneous reporting, public statements, observable organizational outcomes.
+
+- High confidence
+- Recoverable from public sources
+- Does not bridge Zone A — describes what happened, not why
+
+Examples: Balsillie's public statement that BBM was cancelled; Heins "no drastic change needed"; PlayBook launched without email.
+
+---
+
+**Evidence Class B — Retrospective Explanation**
+
+Interviews, memoirs, post-hoc recollections by participants, years after the event.
+
+- Recoverable but contaminated: the speaker knows the outcome when they explain the motivation
+- Outcome knowledge may have restructured the memory of the motivation
+- Useful for generating hypotheses; not decisive for resolving Zone A
+- Cannot be checked against conditions at time T
+
+Examples: Balsillie's 2013 statement on why he left the board; Lazaridis's post-BlackBerry interviews (if any); retrospective accounts in *Losing the Signal* (2015).
+
+These are admissible and valuable. They are not the same as contemporaneous documentation. The contamination concern is not theoretical — outcome knowledge has been shown to reshape narrative memory in decision contexts.
+
+---
+
+**Evidence Class C — Contemporaneous Motivation**
+
+Board memos, internal emails, strategy notes, decision rationale documents written at time T — before outcome knowledge existed.
+
+- The only evidence class that can genuinely bridge Zone A
+- Not because it is perfect (documents can be strategic; writers know they may be reviewed)
+- Because it was produced before outcome knowledge existed, and can be checked against contemporaneous conditions
+
+Examples: A board memo from February 2012 stating why the BBM proposal was rejected and on what grounds; an internal Lazaridis email explaining his reasoning for supporting BB10 over platform licensing.
+
+This class is rare. It is also the only class that genuinely bridges Zone A, because it is the only class that was produced when the decision-maker did not yet know how the choice would turn out.
+
+---
+
+**The Precise Weakening Condition**
+
+Not: someone later explained why (Class B).
+
+But: a Class C document exists that makes the motivation recoverable and checkable against conditions at time T.
+
+One strong Class C document would wound PP#002 directly. The specificity of the wound matters: not "a memoir says Lazaridis believed in BB10" but "an internal document from January–March 2012 records the stated reasoning for the decision in a form that distinguishes genuine conviction from structural constraint."
+
+Until that search is exhausted for GE and BlackBerry, Zone A is unresolved — not opaque. The distinction matters.
+
+---
+
+**Alternative Explanations**
+
+**Insufficient investigation:** The motivation may be recoverable from sources not yet accessed — internal documents obtained via journalism, court records, congressional testimony, executive memoirs. Absence of evidence is not evidence of absence.
+
+**Publication bias:** Executives who experienced these events may have given interviews explaining their internal reasoning. These may not have been indexed by search engines or accessible to WebSearch.
+
+**Zone A may be partially bridgeable:** Even if full internal motivation is not recoverable, specific evidence (e.g., Lazaridis saying "I genuinely believed BB10 would work" vs. "We had no choice given our commitments") could narrow the uncertainty substantially without eliminating it.
+
+---
+
+**What Would Strengthen This**
+
+- Primary decision-maker available → decision directly questioned → motivation withheld. The pattern of active non-disclosure, not merely absence of evidence. BlackBerry has now contributed one instance of this (Lazaridis "declined to speak about board matters").
+- Multiple cases where the same pattern holds: observable structural sequence + explicit refusal or non-externalization at the primary-source level
+- Different failure modes (not just organizational decline) producing the same Zone A boundary — suggesting the boundary is domain-general rather than specific to corporate governance
+
+**What Would Weaken This**
+
+The weakening condition is now more precise than "find a bridging artifact somewhere."
+
+Specifically: A case where the structural sequence is observable **and** a later interview, memoir, board document, or email makes the internal motivation recoverable **and** that motivation can be checked against contemporaneous evidence (not just a post-hoc narrative the speaker could have constructed after knowing the outcome).
+
+One strong example of that form would wound PP#002 directly. The key is the checkability — post-hoc narratives do not bridge Zone A because the speaker's knowledge of the outcome may have shaped their memory of the motivation.
+
+---
+
+**Bridging Artifact Search — BlackBerry (First Pass)**
+
+A search was conducted for primary-source documentation of why Lazaridis/Heins rejected the BBM cross-platform alternative in favor of BB10.
+
+**Finding 1 — Heins's stated model:** "iOS is a downsized PC platform. BlackBerry 10 is true mobile computing." (2012–2013, BlackBerry World and pre-BB10 launch). This documents what Heins believed, not what generated that belief. Zone A-partial: model expressed, motivation behind model not established.
+
+**Finding 2 — Lazaridis explicit refusal:** When the BBM rejection became public (Globe and Mail, September 2013), Lazaridis "declined to speak about board matters." The primary decision-maker was available and declined.
+
+**The key distinction this finding introduces:**
+
+Before the search, Zone A looked like: *Unknown because unavailable.*
+
+After the search, it looks like: *Unknown despite direct opportunity for disclosure.*
+
+These are different epistemic states. The second is more informative than the first.
+
+- **"No evidence found"** — could reflect incomplete search, poor indexing, evidence not preserved
+- **"Evidence of deliberate non-disclosure"** — primary source present, directly questioned, motivation withheld
+
+The second is a fact about the opacity, not merely a fact about the search. The investigation did not fail to find the evidence. The evidence was actively kept internal.
+
+**Interim conclusion:** Zone A for this specific question (why Lazaridis supported killing BBM) is opaque due to explicit primary-source refusal, not evidentiary absence. This narrows the reason for opacity — it is a tighter claim than "we couldn't find the evidence."
+
+**Caution:** This does not upgrade Zone A to "permanently closed." Further search targets remain (post-BlackBerry Lazaridis interviews, court records, published memoirs) and have not been exhausted. The avenue through later disclosure is specifically what PP#002's weakening condition targets. Zone A remains unresolved, not permanently closed.
+
+---
+
+**Relationship to Pressure Point #001 (Backward Excavation)**
+
+Pressure Point #001 observes that cases push the investigation toward earlier causal stages.
+
+Pressure Point #002 may be observing the epistemic consequence of reaching those early stages: the further back the causal chain goes, the less likely it is that the internal decision-making is documented in forms accessible to external investigation.
+
+If this relationship holds, the backward excavation of PP#001 naturally terminates at a Zone A boundary — not because investigation stops, but because public evidence ends.
+
+That would make PP#001 and PP#002 structurally connected — one describing a direction of travel, the other describing a wall it may be approaching.
+
+That connection is not yet earned. Recorded here for future pressure testing.
+
+---
+
+## Portfolio-Level Observation (Meta-Level)
+
+**Current state of Signal Ledger investigations:**
+
+| Case | Output Type |
+|------|------------|
+| Kodak #001 | Closure — system understood, failure explained |
+| Nokia #002 | Structured Uncertainty — multiple competing explanations, none closed |
+| WeWork #003 | State-Space Refinement — expanded understanding of what "model failure" means in founder-led contexts |
+| GE #004 | Boundary — Information vs. Interpretation gap; further work on alternative hypotheses underway |
+| BlackBerry #005 | Boundary — Structure vs. Motivation gap; evidence class taxonomy; falsification condition defined |
+
+**What the portfolio is generating:**
+
+The repository is producing:
+- Constraints (what cannot be true)
+- Boundaries (where knowability ends)
+- Distinctions (different types of uncertainty)
+- Attack surfaces (how to wound an observation)
+
+faster than it is producing:
+- Explanations (why failures occurred)
+- Conclusions (which hypothesis is correct)
+
+**Why this is appropriate for a young research program:**
+
+Constraints and boundaries are harder to fake than explanations. An explanation can always be refined. A boundary, once established, is either correct or incorrect. Spending early cycles on boundary-finding rather than explanation-seeking is methodologically sound.
+
+**The risk going forward:**
+
+As PP#002 and similar boundaries accumulate, the temptation will be to treat them as constraints — fixed rules about what can be known. This would be premature. Each boundary should remain falsifiable. A single leaked board memo in a future case could dramatically wound PP#002. The pressure point is provisional.
+
+**What this means for the next phase:**
+
+Signal Ledger is well-positioned to:
+1. Continue generating boundaries rather than premature conclusions
+2. Watch for third-case pressure on PP#002 (do independent cases show the same pattern?)
+3. Test whether boundaries are case-specific or domain-general
+4. Resist the temptation to upgrade boundaries into constraints without substantial multi-case support
+
+The portfolio does not yet have enough resolution to explain organizational failures comprehensively. What it is building is a map of where public evidence reaches and where it does not. That map is valuable because it establishes epistemic honesty about what the methodology can do.
