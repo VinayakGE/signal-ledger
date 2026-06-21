@@ -129,12 +129,35 @@ A notes file graduates to yaml only when:
 
 ## Current Cases
 
-| System | Status | Candidate Topology |
-|--------|--------|--------------------|
-| Kodak | Audited | T1 (Signal Visible, Response Lagged) |
-| Nokia | Under Investigation | Unresolved |
-| WeWork | Under Investigation | Unresolved — H2 substantially weakened, H3 narrowed, H4/H5 unopened |
-| GE | Uninvestigated | None — battlefield frozen, five hypotheses, no evidence gathered |
+| System | Status | Output Type | Primary Pressure |
+|--------|--------|-------------|------------------|
+| Kodak #001 | Closure | Visibility → Response gap explained | T1 evidence |
+| Nokia #002 | Active | Structured Uncertainty | Competing explanations under same facts |
+| WeWork #003 | Active | State-Space Refinement | Model-failure definition narrowed |
+| GE #004 | Paused | Boundary Pressure | Information ≠ Interpretation |
+| BlackBerry #005 | Paused | Boundary Pressure + Evidence Class Taxonomy | Structure ≠ Motivation |
+
+---
+
+## Evidence Class Taxonomy
+
+A measurement instrument developed through BlackBerry Investigation #005 to classify what types of evidence are available about organizational decisions.
+
+**Class A — Structural Evidence**
+
+Observable sequence: proposal exists → proposal reviewed → proposal rejected
+
+High confidence. Recoverable from contemporaneous reporting, public statements, observable outcomes. Does not bridge motivation gap.
+
+**Class B — Retrospective Explanation**
+
+Interviews, memoirs, post-hoc recollections by participants, years after the event. Recoverable but contaminated by outcome knowledge. Outcome knowledge may have restructured memory of motivation.
+
+**Class C — Contemporaneous Motivation**
+
+Board memos, internal emails, strategy notes, decision rationale written at time T — before outcome was known. The only evidence class that can genuinely bridge the Structure → Motivation gap. Rare.
+
+**Application**: Future investigations should classify what evidence class they hold before claiming resolution at the motivation level. A finding based on Class B should be explicitly marked as outcome-contaminated. Only Class C can establish genuine contemporaneous rationale.
 
 ---
 
@@ -147,6 +170,19 @@ A notes file graduates to yaml only when:
 
 ---
 
+## Portfolio-Level State
+
+**Current output distribution:**
+
+- Explanations: Provisional (Kodak closed; Nokia/WeWork/GE unresolved)
+- Boundaries: Strengthening (GE: Information → Model; BlackBerry: Structure → Motivation)
+- Constraints: Beginning to emerge (Evidence class taxonomy defines limits of public auditability)
+- Pressure Points: Now falsifiable (PP#001 Backward Excavation; PP#002 Observable Selection / Opaque Motivation)
+
+**Meta-observation**: The repository is generating measurement instruments (evidence class taxonomy, pressure points with falsification conditions) faster than explanations. This is appropriate for early-stage research. Boundaries are harder to fake than explanations. The program should accumulate epistemological humility before premature certainty.
+
+---
+
 ## What Success Looks Like
 
 Not:
@@ -155,6 +191,13 @@ Not:
 
 But:
 
-> 50 systems, 5 recurring failure topologies — with disconfirming cases documented.
+> 50 systems, clear map of where public evidence reaches
+> and where it does not — with specific evidence classes
+> defining what kinds of claims can be made.
 
-The disconfirming cases are as valuable as the confirming ones.
+A successful repository would establish:
+- Recurring failure topologies (T1, T2, etc.)
+- Recurring boundaries on what public evidence can establish (pressure points with falsification conditions)
+- Disconfirming cases documented alongside confirming cases
+
+The disconfirming cases and the boundaries are as valuable as the topologies.
