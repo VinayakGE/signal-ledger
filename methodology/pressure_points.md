@@ -190,15 +190,64 @@ An organization's decisions can be documented. An organization's internal causal
 
 ---
 
-**The Constraint Is Falsifiable**
+**The Observation Is Falsifiable**
 
 This is not a philosophical statement. It is an empirical one, and it can be attacked.
 
-**Bridging artifacts:** If a board memo, executive communication, or contemporaneous interview explicitly states the internal reasoning for a decision in enough detail to distinguish genuine belief from structural constraint, the boundary weakens. The investigation should actively search for such artifacts before accepting the boundary as closed.
+To attack it precisely requires understanding what kind of evidence could bridge Zone A. Three evidence classes exist, and they are not equivalent.
 
-**The test:** Search explicitly for decision rationale documentation — not just descriptions of what was decided, but primary-source statements of why the specific decision was made as opposed to the alternative. If such artifacts exist and repeatedly clarify the motivation-structure relationship, Zone A is not opaque — it is merely difficult. If such artifacts are searched for and not found across multiple cases, the boundary earns empirical weight.
+---
 
-Until that search is exhausted, the zone is unresolved, not opaque. The distinction matters.
+**Evidence Class A — Structural Evidence**
+
+What was decided. What was proposed. What was rejected. Sequenced from contemporaneous reporting, public statements, observable organizational outcomes.
+
+- High confidence
+- Recoverable from public sources
+- Does not bridge Zone A — describes what happened, not why
+
+Examples: Balsillie's public statement that BBM was cancelled; Heins "no drastic change needed"; PlayBook launched without email.
+
+---
+
+**Evidence Class B — Retrospective Explanation**
+
+Interviews, memoirs, post-hoc recollections by participants, years after the event.
+
+- Recoverable but contaminated: the speaker knows the outcome when they explain the motivation
+- Outcome knowledge may have restructured the memory of the motivation
+- Useful for generating hypotheses; not decisive for resolving Zone A
+- Cannot be checked against conditions at time T
+
+Examples: Balsillie's 2013 statement on why he left the board; Lazaridis's post-BlackBerry interviews (if any); retrospective accounts in *Losing the Signal* (2015).
+
+These are admissible and valuable. They are not the same as contemporaneous documentation. The contamination concern is not theoretical — outcome knowledge has been shown to reshape narrative memory in decision contexts.
+
+---
+
+**Evidence Class C — Contemporaneous Motivation**
+
+Board memos, internal emails, strategy notes, decision rationale documents written at time T — before outcome knowledge existed.
+
+- The only evidence class that can genuinely bridge Zone A
+- Not because it is perfect (documents can be strategic; writers know they may be reviewed)
+- Because it was produced before outcome knowledge existed, and can be checked against contemporaneous conditions
+
+Examples: A board memo from February 2012 stating why the BBM proposal was rejected and on what grounds; an internal Lazaridis email explaining his reasoning for supporting BB10 over platform licensing.
+
+This class is rare. It is also the only class that genuinely bridges Zone A, because it is the only class that was produced when the decision-maker did not yet know how the choice would turn out.
+
+---
+
+**The Precise Weakening Condition**
+
+Not: someone later explained why (Class B).
+
+But: a Class C document exists that makes the motivation recoverable and checkable against conditions at time T.
+
+One strong Class C document would wound PP#002 directly. The specificity of the wound matters: not "a memoir says Lazaridis believed in BB10" but "an internal document from January–March 2012 records the stated reasoning for the decision in a form that distinguishes genuine conviction from structural constraint."
+
+Until that search is exhausted for GE and BlackBerry, Zone A is unresolved — not opaque. The distinction matters.
 
 ---
 
