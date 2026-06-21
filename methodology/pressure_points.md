@@ -136,9 +136,9 @@ Not yet earned as a formal constraint. Recorded here as a subsidiary pressure po
 
 **Status:** Active pressure point. Earned at moderate strength. Not promoted to constraint.
 
-**Cross-case support:** GE (#004), BlackBerry (#005) — independent cases, different industries, different failure modes
+**Cross-case support:** GE (#004), BlackBerry (#005) — independent cases, different industries, different failure modes, boundaries appear in different locations
 
-**Strength assessment:** Moderate. Two cases. Still vulnerable to later disclosure.
+**Strength assessment:** Moderate. Two cases. Specific falsification condition established. Remains vulnerable to Class C evidence.
 
 ---
 
@@ -315,3 +315,47 @@ If this relationship holds, the backward excavation of PP#001 naturally terminat
 That would make PP#001 and PP#002 structurally connected — one describing a direction of travel, the other describing a wall it may be approaching.
 
 That connection is not yet earned. Recorded here for future pressure testing.
+
+---
+
+## Portfolio-Level Observation (Meta-Level)
+
+**Current state of Signal Ledger investigations:**
+
+| Case | Output Type |
+|------|------------|
+| Kodak #001 | Closure — system understood, failure explained |
+| Nokia #002 | Structured Uncertainty — multiple competing explanations, none closed |
+| WeWork #003 | State-Space Refinement — expanded understanding of what "model failure" means in founder-led contexts |
+| GE #004 | Boundary — Information vs. Interpretation gap; further work on alternative hypotheses underway |
+| BlackBerry #005 | Boundary — Structure vs. Motivation gap; evidence class taxonomy; falsification condition defined |
+
+**What the portfolio is generating:**
+
+The repository is producing:
+- Constraints (what cannot be true)
+- Boundaries (where knowability ends)
+- Distinctions (different types of uncertainty)
+- Attack surfaces (how to wound an observation)
+
+faster than it is producing:
+- Explanations (why failures occurred)
+- Conclusions (which hypothesis is correct)
+
+**Why this is appropriate for a young research program:**
+
+Constraints and boundaries are harder to fake than explanations. An explanation can always be refined. A boundary, once established, is either correct or incorrect. Spending early cycles on boundary-finding rather than explanation-seeking is methodologically sound.
+
+**The risk going forward:**
+
+As PP#002 and similar boundaries accumulate, the temptation will be to treat them as constraints — fixed rules about what can be known. This would be premature. Each boundary should remain falsifiable. A single leaked board memo in a future case could dramatically wound PP#002. The pressure point is provisional.
+
+**What this means for the next phase:**
+
+Signal Ledger is well-positioned to:
+1. Continue generating boundaries rather than premature conclusions
+2. Watch for third-case pressure on PP#002 (do independent cases show the same pattern?)
+3. Test whether boundaries are case-specific or domain-general
+4. Resist the temptation to upgrade boundaries into constraints without substantial multi-case support
+
+The portfolio does not yet have enough resolution to explain organizational failures comprehensively. What it is building is a map of where public evidence reaches and where it does not. That map is valuable because it establishes epistemic honesty about what the methodology can do.
