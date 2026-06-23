@@ -96,29 +96,66 @@
 
 ---
 
-## The Meta-Prediction
+## The Meta-Prediction (Corrected)
 
-### Young Research Programs
+### Critical Correction
 
-Accumulate explanations.
+Initial claim: "Repository produces boundaries and instruments, not explanations"
 
-"Why did Kodak fail?"
-- H1: Industry blindness (dead)
-- H2: External discontinuity (pressured)
-- H3: Execution failure (active)
-- H4: Model failure (active)
+Problem: This infers purpose from durability.
 
-Multiple explanations compete. Program seeks to promote winner.
+But durability and value are orthogonal.
 
-### Maturing Research Programs
+A boundary survives more easily than an explanation because:
+- Explanation: "Lazaridis chose X because of Y" (reality claim, hard to survive)
+- Boundary: "We cannot know Lazaridis's motivation from public evidence" (limit claim, naturally harder to kill)
 
-Accumulate boundaries and instruments.
+Reality claims should be harder to survive than limit claims.
 
-Not: "Why did they fail?"
+The fact that boundaries survive may reflect **lower risk**, not **higher value**.
 
-But: "What can we know and not know about why they failed?"
+---
 
-And: "How do we systematically investigate organizational failures?"
+### M1: Candidate Meta-Hypothesis (Careful Version)
+
+**Prediction:**
+
+Under adversarial pressure, explanatory objects die faster than boundary, constraint, and instrument objects.
+
+**What this predicts:**
+- Kodak: explanations compressed ✓
+- Nokia: explanations unresolved ✓
+- GE: explanations under attack ✓
+- BlackBerry: H3/H4/H5 still competing ✓
+- Boundaries/Instruments: surviving ✓
+
+**What this does NOT conclude:**
+
+"Therefore Signal Ledger is a boundary-and-instrument factory"
+
+That is an extra inference. Not yet earned.
+
+**Status:**
+- Emerging (supported by observed pattern)
+- Attackable (falsified if robust explanation survives)
+- Unvalidated (needs many more cases)
+- One promotion level lower than "repository's purpose is boundaries"
+
+---
+
+### The Distinction That Matters
+
+**Lower-risk claim:** "Boundaries survive because they're lower-risk objects"
+- Predictive
+- Testable
+- Does not presuppose repository's purpose
+
+**Higher-risk claim:** "Repository specializes in boundaries because it's good at boundaries"
+- Not yet earned
+- Requires eliminating alternative explanations (durability ≠ specialization)
+- Presupposes the answer
+
+Current state: M1 is the lower-risk claim. It should be the recorded prediction.
 
 ---
 
