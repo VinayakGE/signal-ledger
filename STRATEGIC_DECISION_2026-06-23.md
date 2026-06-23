@@ -131,27 +131,82 @@ The audit produced three critical findings:
 
 ## Recommendation
 
-### Primary Path: Open WeWork Investigation #003
+### Primary Path: Compression Pass #001 (Before Expansion)
 
 **Why:**
 
-1. **Portfolio diversification.** Three existing cases (Kodak, Nokia, BlackBerry) cluster in tech hardware. GE is conglomerate. WeWork is private founder-led. Expanding across domain types tests whether patterns are truly general.
+Phase 2 doctrine requires testing whether objects survive investigation. The audit identified what objects exist. The compression pass tests whether those objects hold across the existing portfolio.
 
-2. **Framework stress-testing at lowest cost.** All instruments are ready (Evidence Classes, Zone A/B mapping, Pressure Points). WeWork's extensive public record means artifact collection is fast. If frameworks fail, failure is clear quickly. If frameworks transfer, confidence increases substantially.
+**Four objects identified in audit; three require validation:**
 
-3. **Highest probability of independent PP#002 appearance.** WeWork's founder narrative (Adam Neumann's public vs private convictions) is precisely the structure where "observable selection, opaque motivation" is most likely to appear organically — not via deliberate hunting.
+1. **PP#002 (Observable Selection, Opaque Motivation)** — Currently in GE and BlackBerry. Does it appear in Kodak (margin collapse vs. investment divergence)? 
+   - **Cost:** Reclassification of existing analysis (2-3 hours)
+   - **Payoff:** If yes, PP#002 becomes three-case portfolio artifact
 
-4. **Addresses audit's highest-leverage uncertainty:** "Are the patterns (backward excavation, observable/opaque boundary) domain-universal or tech-specific?"
+2. **Zone A/B Boundary** — Explicitly mapped in BlackBerry. Does it map to Kodak (observable margin signal vs. opaque strategic motivation)?
+   - **Cost:** Remapping existing analysis (2-3 hours)
+   - **Payoff:** If yes, Zone A/B becomes portfolio artifact; if no, we learn it's complexity-specific
 
-5. **Lowest execution risk.** Network policy does not block WeWork sources. Framework is ready. Attack questions are frozen. Fastest path to new knowledge.
+3. **Evidence Class Taxonomy** — Explicitly formalized in BlackBerry. Can it illuminate Kodak, Nokia, and GE without new investigation?
+   - **Cost:** Retroactive classification (3-4 hours)
+   - **Payoff:** Validates instrument across portfolio; strengthens confidence in future deployment
 
-### Secondary Path (if WeWork unresolved): Return to Nokia
+**Total compression work:** ~8-10 hours, no new sources required
 
-Complete the structural uncertainty investigation and test whether Model Failure vs. Execution Failure vs. Organizational Constraint can be distinguished across a different case. Nokia and BlackBerry differ structurally (established vs growing; feature phones vs smartphones; single market vs global), so comparative findings would be high-value.
+**Expected outcome:** Clarify which four audit objects are single-case artifacts vs. portfolio artifacts before deciding whether new cases are needed.
 
-### Tertiary Path (if network policy resolves): Resume GE Investigation #004
+### Secondary Path (After Compression): Open WeWork Investigation #003
 
-If primary source access becomes available, GE's H2-C attack would directly test whether Information Integration Failure (GE) and Model Failure (BlackBerry) are the same phenomenon or distinct. This would strengthen the Information ≠ Model boundary across two independent domains.
+**Conditions:**
+- If compression reveals PP#002 and Zone A/B already latent in Kodak, expand to WeWork with high confidence in frameworks
+- If compression reveals portfolio patterns hold, WeWork becomes domain-diversification test
+- If compression reveals artifacts are case-specific, revisit decision on whether expansion is worthwhile
+
+**Why WeWork (when time comes):**
+
+1. **Portfolio diversification.** Three existing cases (Kodak, Nokia, BlackBerry) cluster in tech hardware. GE is conglomerate. WeWork is private founder-led. Tests whether patterns apply across organizational types.
+
+2. **Highest probability of independent PP#002 appearance.** WeWork's founder narrative (Adam Neumann's public vs private convictions) is structurally identical to the observable/opaque boundary. If PP#002 exists in WeWork's public record, that would be the strongest validation.
+
+3. **Lowest execution risk.** Network policy does not block WeWork sources. Evidence is abundant. Artifact collection is fast.
+
+### Tertiary Path (After Compression): Resume GE Investigation #004
+
+**Conditions:**
+- If compression strengthens zone boundary across Kodak, GE's H2-C becomes high-priority
+- If network policy resolves and primary sources become accessible, GE's information-integration test directly validates frameworks across institutional domain
+
+---
+
+## Why Compression Before Expansion
+
+**The audit identified four objects. It did not validate them.**
+
+Audit answer: "What objects survived?"
+Compression answer: "Do those objects hold across the full portfolio?"
+
+Example:
+- Audit: "PP#002 appears in GE and BlackBerry"
+- Compression: "Does PP#002 already appear in Kodak without deliberate hunting?" (latent, high-confidence yes)
+- If yes: Three-case portfolio artifact, not two-case observation
+- If yes: Opening WeWork becomes domain-diversification, not framework-validation
+
+**Same logic applies to Zone A/B boundary and Evidence Class Taxonomy.**
+
+PP#001 (Backward Excavation) already validated as portfolio artifact through Kodak + BlackBerry independent appearances. No compression work needed there.
+
+But the other three are latent in existing portfolio. Compression work either:
+1. Validates them (patterns are real, apply to expansion)
+2. Refutes them (patterns are case-specific, expansion strategy changes)
+
+Either outcome is valuable.
+
+**This aligns Phase 2 doctrine perfectly:**
+> Do not ask what was investigated. Ask what survived investigation.
+
+The audit asked what survived.
+
+Compression tests whether it survives *the rest of the portfolio.*
 
 ---
 
