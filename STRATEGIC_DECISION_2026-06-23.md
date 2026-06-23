@@ -129,7 +129,59 @@ The audit produced three critical findings:
 
 ---
 
-## Recommendation
+## Recommendation — Corrected After Compression Pass #001
+
+### Phase 1 Complete: Compression Pass #001 Finished
+
+✓ Audit completed: Identified four objects
+✓ Compression completed: Tested objects against existing portfolio
+
+**Result:**
+- Evidence Class Taxonomy: **Strongest object** (made predictive claim; confirmed across portfolio)
+- Zone A/B Boundary: **Strengthened** (portfolio artifact, 2+ cases)
+- PP#002: **Survived compression** (found in Kodak) but needs adversarial validation
+
+---
+
+### Phase 2 Next: Adversarial Validation (Not Expansion)
+
+**Critical correction:**
+
+Compression ≠ Validation
+
+Compression = testing whether objects hold in existing cases (done)
+Validation = testing whether objects can be wounded in new case (not yet done)
+
+We found PP#002 retrospectively in Kodak. That's useful, but it's pattern-matching after-the-fact, not predictive validation.
+
+**Implication:** The next investigation should not be "continue case collection" or "test frameworks on new case."
+
+It should be "open WeWork as deliberate attack environment with pre-registered falsification conditions."
+
+---
+
+### Primary Path: WeWork as Adversarial Attack Environment
+
+**What this is:**
+- Deliberate test of whether three objects survive falsification
+- Pre-registered falsification conditions (frozen before evidence review)
+- First truly Phase 2-native investigation
+
+**What this is NOT:**
+- Another case study ("Does WeWork show the pattern?")
+- Framework deployment ("Can we apply our instruments?")
+- Domain diversification ("Will the pattern generalize?")
+
+**Pre-Registration Complete:**
+
+WEWORK_ADVERSARIAL_PREREGISTRATION.md defines what would wound each object BEFORE evidence review.
+
+For each object, the question is not:
+- "Does PP#002 appear?" → Pattern-matching bias
+But:
+- "Can we wind PP#002?" → Adversarial testing
+
+---
 
 ### Primary Path: Compression Pass #001 (Before Expansion)
 
