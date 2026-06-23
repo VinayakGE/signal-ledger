@@ -2,7 +2,7 @@ interface Props {
   title: string;
   value: string | number;
   sub?: string;
-  accent?: string; // tailwind bg colour class
+  accent?: string; // tailwind bg color class
 }
 
 export default function MetricCard({ title, value, sub, accent = "bg-slate-50" }: Props) {
