@@ -2,9 +2,9 @@
 
 **System:** BlackBerry (Research In Motion)
 
-**Status:** Active — Evidence accumulating
+**Status:** Attack Complete — Model Reconsideration Closed
 
-**Classification:** In progress — 10 artifacts classified
+**Classification:** Complete — 15 artifacts classified
 
 **Preferred Hypothesis:** None
 
