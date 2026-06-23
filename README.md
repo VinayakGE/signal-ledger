@@ -127,15 +127,28 @@ A notes file graduates to yaml only when:
 
 ---
 
-## Current Cases
+## Current Cases and Investigation Phases
 
-| System | Status | Output Type | Primary Pressure |
-|--------|--------|-------------|------------------|
-| Kodak #001 | Closure | Visibility → Response gap explained | T1 evidence |
-| Nokia #002 | Active | Structured Uncertainty | Competing explanations under same facts |
-| WeWork #003 | Active | State-Space Refinement | Model-failure definition narrowed |
-| GE #004 | Paused | Boundary Pressure | Information ≠ Interpretation |
-| BlackBerry #005 | Paused | Boundary Pressure + Evidence Class Taxonomy | Structure ≠ Motivation |
+### Phase 1: Framework Accumulation (Complete)
+Framework objects constructed from literature review and institutional failure analysis:
+- PP#001: Backward Excavation
+- PP#002: Observable Selection / Opaque Motivation  
+- M1: Meta-Hypothesis (Explanatory objects die faster than boundary objects)
+
+### Phase 2: Adversarial Testing via WeWork (Complete)
+Test case: WeWork IPO documents and collapse (2019-2024)
+Result: All three frameworks survived WeWork without wounds
+
+| System | Status | Phase | Outcome |
+|--------|--------|-------|---------|
+| Kodak #001 | Closure | Phase 1 | Visibility → Response gap explained |
+| Nokia #002 | Paused | Phase 1 | Structured Uncertainty |
+| WeWork #003 | **Complete** | **Phase 2** | **No frameworks wounded; all survived** |
+| GE #004 | Paused | Phase 1 | Boundary Pressure |
+| BlackBerry #005 | Paused | Phase 1 | Evidence Class Taxonomy |
+
+### Phase 3: Direction Pending
+Success criterion: Know exactly why questions remain open (distinguish Closed vs. Unresolved vs. Currently Unresolvable)
 
 ---
 
@@ -170,34 +183,78 @@ Board memos, internal emails, strategy notes, decision rationale written at time
 
 ---
 
-## Portfolio-Level State
+## Portfolio-Level State — Version 0.1
 
-**Current output distribution:**
+**Framework Status after Phase 2 (WeWork Investigation):**
 
-- Explanations: Provisional (Kodak closed; Nokia/WeWork/GE unresolved)
-- Boundaries: Strengthening (GE: Information → Model; BlackBerry: Structure → Motivation)
-- Constraints: Beginning to emerge (Evidence class taxonomy defines limits of public auditability)
-- Pressure Points: Now falsifiable (PP#001 Backward Excavation; PP#002 Observable Selection / Opaque Motivation)
+| Framework | Status | Evidence | Falsification Condition |
+|-----------|--------|----------|------------------------|
+| PP#002: Observable/Opaque | Emerging, Survived Compression | WeWork exhibited pattern; no Class C motivation available | New case shows transparent motivation at observable boundary |
+| M1: Explanatory objects die faster | Emerging, Requires Comparison | All frameworks survived; none wounded (supports but insufficient for validation) | Find explanatory object that survives while boundary object wounds |
+| PD1: Promotion Discipline | Emerging, Unvalidated, Behavioral | 5+ instances of claim demotion observed | Repository defends favored claim when contradictory evidence appears |
 
-**Meta-observation**: The repository is generating measurement instruments (evidence class taxonomy, pressure points with falsification conditions) faster than explanations. This is appropriate for early-stage research. Boundaries are harder to fake than explanations. The program should accumulate epistemological humility before premature certainty.
+**Key Finding:** All three frameworks survived Phase 2 WeWork test without wounds. This could indicate framework robustness or insufficient adversarial pressure — distinction currently unresolvable with available evidence.
+
+**Open Questions (6 primary):**
+1. Why did WeWork fail to generate wounds? (Currently Unresolvable with Class A/B)
+2. Does Promotion Discipline persist under strong preference? (Unresolved — untested)
+3. Which frameworks will wound in future cases? (Currently Unresolvable)
+4. Can we distinguish confirmation bias in compression from genuine pattern? (Unresolved)
+5. Are three evidence classes sufficient? (Unresolved)
+6. Will repository continue to demote favored claims? (Unresolved — key test)
+
+**What This Repository Has Become:**
+
+Not: A theory of organizational collapse
+
+But: A documented record of disciplined investigation under uncertainty
+
+The strongest output is not a framework. It is repeatably demonstrated capacity to:
+- Identify claim-evidence mismatches
+- Demote over-reaches before they calcify
+- Keep questions open when evidence doesn't justify closure
+- Distinguish observations from interpretations from identity claims
+
+**See:** SIGNAL_LEDGER_REPORT_V0_1.md for complete documentation
 
 ---
 
 ## What Success Looks Like
 
-Not:
+**Original definition (still valid):**
 
-> 50 systems, 50 explanations.
+Not: 50 systems, 50 explanations
 
-But:
+But: 50 systems, clear map of where public evidence reaches and where it does not
 
-> 50 systems, clear map of where public evidence reaches
-> and where it does not — with specific evidence classes
-> defining what kinds of claims can be made.
+**Updated after Phase 2 (v0.1 addition):**
+
+Success is also demonstrated by:
+
+1. **Framework survival under adversarial pressure** — Frameworks that survive testing are less likely to be premature abstractions
+2. **Explicit falsification conditions** — Being able to specify exactly what evidence would wound a framework
+3. **Open questions appropriately categorized** — Knowing which questions are closed, which are unresolved (solvable), and which are currently unresolvable (evidence unavailable)
+4. **Documented demotions** — Recording when claims exceeded evidence and how that was corrected
+5. **Resistance to premature closure** — The hardest achievement: knowing when to keep a question open rather than force an answer
 
 A successful repository would establish:
 - Recurring failure topologies (T1, T2, etc.)
 - Recurring boundaries on what public evidence can establish (pressure points with falsification conditions)
 - Disconfirming cases documented alongside confirming cases
+- **Demonstrated capacity to catch and correct its own overreach** (not just in one session, but repeatedly, including on favored claims)
 
-The disconfirming cases and the boundaries are as valuable as the topologies.
+The disconfirming cases, the boundaries, and the explicit record of prevented overreach are as valuable as the topologies.
+
+---
+
+## How to Read This Repository (v0.1 and beyond)
+
+**START HERE:** SIGNAL_LEDGER_REPORT_V0_1.md documents the complete state: method, frameworks, cases, survivors, open questions, falsification conditions.
+
+**FRAMEWORK DETAILS:** Individual framework files (CANDIDATE_PROCESS_PROPERTY_PD1.md, etc.) contain detailed evidence and status.
+
+**INVESTIGATION PROCESS:** See PHASE_3_ORIENTATION.md for success criteria and EPISTEMIC_GUARDRAILS.md for embedded safety constraints.
+
+**ACTIVE WORK:** Phase 3 investigations will create dated documents (not integrated into frameworks until v0.2).
+
+Version 0.1 is frozen as of 2026-06-23. See VERSION_0_1_FROZEN.md.
